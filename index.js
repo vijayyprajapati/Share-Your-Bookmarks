@@ -1,16 +1,16 @@
 console.log("Hello World");
 
-// const urlSearchParams = new URLSearchParams(window.location.search);
-// const params = Object.fromEntries(urlSearchParams.entries());
-// console.log(params);
-// const domain = params.domain;
+const urlSearchParams = new URLSearchParams(window.location.search);
+const params = Object.fromEntries(urlSearchParams.entries());
+console.log(params);
+const name = params.name;
 
 const showNames = () => {
   if (data != "") {
     for (let i = 0; i < data.length; i++) {
       showData.innerHTML += `
           <div class="singlePerson" >
-            <button id="${i}" onclick="getElement(this.id)">${data[i].username}</span></button>
+            <a href="http://127.0.0.1:5500/index.html?name=${data[i].username}" target="blank"><button id="${i}" onclick="getElement(this.id)">${data[i].username}</button></a>
             </div>
           `;
     }
