@@ -1,0 +1,23 @@
+header h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+main .showData {
+  display: flex;
+  margin: 20px;
+}
+
+main .showData .singlePerson button {
+  margin: 10px;
+  padding: 10px;
+
+  font-size: 15px;
+  border-radius: 18px;
+  border: 2px solid rgb(115, 114, 114);
+}
+
+main .showData .singlePerson button:hover {
+  cursor: pointer;
+}
