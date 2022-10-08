@@ -11,17 +11,17 @@ const showNames = () => {
     for (let i = 0; i < data.length; i++) {
       showData.innerHTML += `
           <div class="singlePerson" >
-            <button id="displayName" onclick="getElement()">${data[i].username}</span></button>
+            <button id="${i}" onclick="getElement(this.id)">${data[i].username}</span></button>
             </div>
           `;
     }
   }
 };
 
-// const getElement = () => {
-//   let p = document.getElementById("displayName").innerText;
-//   console.log(p);
-// };
+const getElement = (clicked_id) => {
+  let p = document.getElementById(`${clicked_id}`).innerText;
+  console.log(p);
+};
 
 const fetchData = async () => {
   try {
