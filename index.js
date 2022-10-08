@@ -4,7 +4,6 @@ console.log("Hello World");
 // const params = Object.fromEntries(urlSearchParams.entries());
 // console.log(params);
 // const domain = params.domain;
-// const subDomain = params.subdomain;
 
 const showNames = () => {
   if (data != "") {
@@ -19,9 +18,21 @@ const showNames = () => {
 };
 
 const getElement = (clicked_id) => {
-  let p = document.getElementById(`${clicked_id}`).innerText;
-  console.log(p);
+  var personName = document.getElementById(`${clicked_id}`).innerText;
+  console.log(personName);
+  console.log(buildUrl(url, personName));
 };
+
+function buildUrl(url, parameters) {
+  var qs = "";
+  qs += encodeURIComponent(parameters);
+
+  if (qs.length > 0) {
+    url = url + "?" + qs;
+  }
+  return url;
+}
+var url = "http://127.0.0.1:5500/index.html";
 
 const fetchData = async () => {
   try {
