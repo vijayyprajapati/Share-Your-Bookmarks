@@ -11,7 +11,7 @@ const showNames = () => {
     for (let i = 0; i < data.length; i++) {
       showData.innerHTML += `
           <div class="singlePerson" >
-            <button id="displayName">${data[i].name} <span>(${data[i].username})</span></button>
+            <button id="displayName">(${data[i].username})</span></button>
             
           </div>
           `;
