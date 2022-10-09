@@ -9,7 +9,7 @@
 
 ## Share-Your-Bookmark 
 
-A place where anyone can make their profile and share their twitter and linkedin bookmarks and see others bookmarks.
+A platform where anyone can make their profile, share their twitter and linkedIn bookmarks, see other shared bookmarks and contribute to the community.
 
 #### Website for this repository : <https://vijayyprajapati.github.io/Share-Your-Bookmarks/>
 
