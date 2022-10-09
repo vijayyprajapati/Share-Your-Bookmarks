@@ -42,7 +42,7 @@ main .showData .singlePerson button:hover {
   flex-direction: column;
   align-items: center;
 }
-.showDetails {
+.user-container .showDetails {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -51,33 +51,39 @@ main .showData .singlePerson button:hover {
   height: 100%;
   margin-top: 50px;
 }
-.showDetails .userHead {
+.user-container .showDetails .userHead {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
 }
 
-.showDetails .userHead .userName {
+.user-container .showDetails .userHead .userName {
   font-size: 2.5rem;
 }
 
-.showDetails .userHead .userName span {
+.user-container .showDetails .userHead .userName span {
   font-size: 1.5rem;
 }
 
-.showDetails .userHead .userBio {
+.user-container .showDetails .userHead .userBio {
   font-size: 1.2rem;
   margin-top: 0.9rem;
   margin-bottom: 0.7rem;
 }
-
-.showDetails .socialLinks button {
+.user-container .userLinks ol li {
+  font-size: 1.2rem;
+  margin: 20px;
+}
+.user-container .userLinks ol li a {
+  font-size: 1.2rem;
+}
+.user-container .socialLinks button {
   margin: 10px;
   padding: 10px 20px;
   border-radius: 10px;
   border: 1px solid rgb(101, 101, 101);
 }
-.showDetails .socialLinks button:hover {
+.user-container .socialLinks button:hover {
   cursor: pointer;
 }

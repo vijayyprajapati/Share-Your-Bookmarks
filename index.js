@@ -55,14 +55,14 @@ const userDetails = async () => {
       for (let j = 0; j < data[i].links.length; j++) {
         // console.log("in loop");
         linksData.innerHTML += `
-          <li><a href=${data[i].links[j]}>${data[i].links[j]}</a></li>`;
-        console.log(data[i].links[j]);
+          <li class="link"><a href=${data[i].links[j]}>${data[i].links[j]}</a></li>`;
+        // console.log(data[i].links[j]);
       }
       // console.log("loop chal gaya");
 
       socialLinks.innerHTML = `
       <a href=${data[i].social[0].twitter}><button>Twitter</button></a>
-      <a href=${data[i].social[0].linkedin}><button>Linkedin</button></a>`;
+      <a href=${data[i].social[1].linkedin}><button>Linkedin</button></a>`;
       // console.log("social");
       // console.log(data[i].social[0].twitter);
       break;
@@ -75,7 +75,7 @@ const fetchData = async () => {
     const alldata = await fetch(`./data.json`);
     data = await alldata.json();
     await showNames();
-    console.log(data);
+    // console.log(data);
   } catch (e) {
     throw new Error(e);
   }
