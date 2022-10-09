@@ -1,38 +1,78 @@
-console.log("Hello World");
-
-const urlSearchParams = new URLSearchParams(window.location.search);
-const params = Object.fromEntries(urlSearchParams.entries());
-console.log(params);
-const name = params.name;
+const showDetails = document.getElementById("userDetails");
+const showData = document.getElementById("showData");
+const linksData = document.getElementById("linksData");
+const socialLinks = document.getElementById("socialLinks");
 
 const showNames = () => {
   if (data != "") {
     for (let i = 0; i < data.length; i++) {
       showData.innerHTML += `
           <div class="singlePerson" >
-            <a href="http://127.0.0.1:5500/index.html?name=${data[i].username}" target="blank"><button id="${i}" onclick="getElement(this.id)">${data[i].username}</button></a>
+            <a href="./details.html" target="_blank"><button id="${i}" onclick="getElement(this.id)">${data[i].username}</button></a>
             </div>
           `;
     }
   }
 };
 
+var personName;
 const getElement = (clicked_id) => {
-  var personName = document.getElementById(`${clicked_id}`).innerText;
-  console.log(personName);
-  console.log(buildUrl(url, personName));
+  personName = document.getElementById(`${clicked_id}`).innerText;
+  var storePersonName = personName;
+  localStorage.setItem("personNameKey", storePersonName);
+  // console.log(personName);
 };
 
-function buildUrl(url, parameters) {
-  var qs = "";
-  qs += encodeURIComponent(parameters);
+const userDetails = async () => {
+  // console.log("hello yrrr");
+  var storePersonName = localStorage.getItem("personNameKey");
+  // console.log(storePersonName);
+  const alldata = await fetch(`./data.json`);
+  data = await alldata.json();
+  // console.log(data);
+  let i;
+  for (i = 0; i < data.length; i++) {
+    // console.log("in loop");
+    // console.log(storePersonName);
+    // console.log(data[i].username);
+    var string1 = data[i].username;
+    var string2 = storePersonName;
+    var result = string1.localeCompare(string2);
+    // const result = data[i].username === abhay;
+    if (result == 0) {
+      // console.log("in if");
+      // console.log(storePersonName);
+      // console.log(data[i].username);
+      showDetails.innerHTML = `<div class="userHead">
+      <div class="userName">
+        ${data[i].name}
+        <span>(${data[i].username})</span>
+      </div>
+      <div class="userBio">${data[i].bio}</div>
+    </div>`;
+      console.log(data[i].links.length);
+      for (let j = 0; j < data[i].links.length; j++) {
+        console.log("in loop");
+        linksData.innerHTML += `<a
+          href=${data[i].links[j]}
+        ></li>
+          
+          ${data[i].links[j]}</li>
+          
+        </a>`;
+        console.log(data[i].links[j]);
+      }
+      console.log("loop chal gaya");
 
-  if (qs.length > 0) {
-    url = url + "?" + qs;
+      socialLinks.innerHTML = `
+      <a href=${data[i].social[0].twitter}><button>Twitter</button></a>
+      <a href=${data[i].social[0].linkedin}><button>Linkedin</button></a>`;
+      console.log("social");
+      console.log(data[i].social[0].twitter);
+      break;
+    }
   }
-  return url;
-}
-var url = "http://127.0.0.1:5500/index.html";
+};
 
 const fetchData = async () => {
   try {

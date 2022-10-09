@@ -5,11 +5,16 @@
     "bio": "developer",
 
     "links": [
+      "https://twitter.com/Prathkum/status/1567929139323351041?s=20&t=k7geimnNjB0ONv2wrv4CZQ",
+
+      "https://twitter.com/Prathkum/status/1567929139323351041?s=20&t=k7geimnNjB0ONv2wrv4CZQ"
+    ],
+    "social": [
       {
-        "link-1": "https://twitter.com/Prathkum/status/1567929139323351041?s=20&t=k7geimnNjB0ONv2wrv4CZQ"
+        "twitter": "https://twitter.com/vijayyprajapati"
       },
       {
-        "link-2": "https://twitter.com/Prathkum/status/1567929139323351041?s=20&t=k7geimnNjB0ONv2wrv4CZQ"
+        "linkedin": "https://www.linkedin.com/in/vijayyprajapati/"
       }
     ]
   },
@@ -24,6 +29,14 @@
       },
       {
         "link-2": "https://twitter.com/Prathkum/status/1567929139323351041?s=20&t=k7geimnNjB0ONv2wrv4CZQ"
+      }
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/vijayyprajapati"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/vijayyprajapati/"
       }
     ]
   }
