@@ -20,4 +20,27 @@
       }
     ]
   }
+  ,
+  {
+    "name": "Krapi Rastogi",
+    "username": "krapirastogi",
+    "bio": "Learning new web technolgies ",
+
+    "links": [
+      "https://twitter.com/Iampatelajeet/status/1570022481607684096?s=20&t=VqgwRjnOp4vAYR6HtDCAnA",
+      "https://twitter.com/shrayjayn8/status/1574705931572899841?s=20&t=51Z2AygV0USBCmH-Ojt4sQ",
+      "https://twitter.com/tanaypratap/status/1576799321680486401?s=20&t=51Z2AygV0USBCmH-Ojt4sQ",
+      "https://twitter.com/Prathkum/status/1567929139323351041?s=20&t=51Z2AygV0USBCmH-Ojt4sQ",
+      "https://twitter.com/swapnakpanda/status/1574368252607995905?s=20&t=51Z2AygV0USBCmH-Ojt4sQ"
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/krapeeee_?t=kYNpzMNToQjF_wqV1MmmFA&s=08"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/krapi-rastogi-ab7307213"
+      }
+    ]
+  }
+
 ]
