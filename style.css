@@ -28,6 +28,13 @@ body {
   margin: 0px;
   margin-top: 30px;
 }
+
+.main-header .contribution_link{
+  font-weight: bold;
+  border: 1px dotted #FFF;
+  padding: 5px;
+}
+
 main .showData {
   display: flex;
   align-items: center;

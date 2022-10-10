@@ -61,6 +61,26 @@
         "linkedin": "https://www.linkedin.com/in/krapi-rastogi-ab7307213"
       }
     ]
+  },
+  {
+    "name": "Maxime Perraud",
+    "username": "Maxime P",
+    "bio": "Student ",
+
+    "links": [
+      "https://twitter.com/imAlfaiz/status/1576460228031225857",
+      "https://twitter.com/reactive_dude/status/1535930425033510913",
+      "https://twitter.com/ChallengesCss/status/1520373724503060481",
+      "https://twitter.com/DataScienceDojo/status/1435740231525965826"
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/Maximep_dev"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/maxime-perraud/"
+      }
+    ]
   }
 
 ]
