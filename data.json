@@ -61,6 +61,25 @@
         "linkedin": "https://www.linkedin.com/in/krapi-rastogi-ab7307213"
       }
     ]
+  },
+  {
+    "name": "Suresh MuthuSelvam",
+    "username": "suresh37",
+    "bio": "Software Developer",
+
+    "links": [
+      "https://github.com/suresh37",
+      "https://dev.to/suresh37",
+      "https://stackoverflow.com/users/11910304/surey"
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/sureysh_karthi"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/suresh37"
+      }
+    ]
   }
 
 ]
