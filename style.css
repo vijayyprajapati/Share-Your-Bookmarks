@@ -1,13 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+body {
+  background-color: #121317;
+  color: white;
+}
+
 .main-header {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  height: 100%;
-  width: 100%;
+  background-color: #1a1c21;
+  text-align: center;
+  width: min(800px, 90%);
+  border-radius: 8px;
+  margin-inline: auto;
+  margin-top: 50px;
+  padding: 24px;
 }
 .main-header p {
   font-size: 1.2rem;
+  margin-top: 1rem;
+  margin-bottom: 3rem;
 }
 
 .main-header h3 {
@@ -26,21 +40,26 @@ main .showData {
 
 main .showData .singlePerson button {
   margin: 10px;
-  padding: 10px;
-  width: 170px;
+  padding: 1rem 2rem;
+  background-color: #1a1c21;
+  color: white;
   font-size: 15px;
-  border-radius: 18px;
-  border: 2px solid rgb(115, 114, 114);
-}
-
-main .showData .singlePerson button:hover {
+  border: none;
+  outline: none;
+  border-radius: 5px;
   cursor: pointer;
+  border: 2px solid transparent;
+  transition: all 300ms ease-in-out;
 }
 
 .user-container {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+  background-color: #1a1c21;
+  text-align: center;
+  width: min(800px, 90%);
+  border-radius: 8px;
+  margin-inline: auto;
+  margin-top: 50px;
+  padding: 24px;
 }
 .user-container .showDetails {
   display: flex;
@@ -60,6 +79,7 @@ main .showData .singlePerson button:hover {
 
 .user-container .showDetails .userHead .userName {
   font-size: 2.5rem;
+  font-weight: 600;
 }
 
 .user-container .showDetails .userHead .userName span {
@@ -72,18 +92,39 @@ main .showData .singlePerson button:hover {
   margin-bottom: 0.7rem;
 }
 .user-container .userLinks ol li {
-  font-size: 1.2rem;
+  text-align: left !important;
   margin: 20px;
+  word-wrap: break-word;
 }
-.user-container .userLinks ol li a {
-  font-size: 1.2rem;
-}
+
 .user-container .socialLinks button {
   margin: 10px;
-  padding: 10px 20px;
-  border-radius: 10px;
-  border: 1px solid rgb(101, 101, 101);
+  padding: 1rem 2rem;
+  background-color: #121317;
+  color: white;
+  font-size: 15px;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+  transition: all 300ms ease-in-out;
 }
 .user-container .socialLinks button:hover {
   cursor: pointer;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #0080ff;
+}
+
+.user-container .socialLinks button:hover {
+  background-color: #0080ff;
+}
+
+main .showData .singlePerson button:hover {
+  border: 2px solid #0080ff;
 }
