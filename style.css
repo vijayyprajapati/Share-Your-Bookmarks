@@ -38,12 +38,26 @@ main .showData {
   margin-top: 30px;
 }
 
+.btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  line-height: 1.5;
+  font: 700 1.2rem 'Roboto Slab', sans-serif;
+  padding: 1em 2em;
+  letter-spacing: 0.05rem;
+}
+.btn:focus {
+  outline: 2px dotted #55d7dc;
+}
+
+
 main .showData .singlePerson button {
   margin: 10px;
   padding: 1rem 2rem;
   background-color: #1a1c21;
   color: white;
-  font-size: 15px;
+  font-size: 20px;
   border: none;
   outline: none;
   border-radius: 5px;
@@ -51,6 +65,72 @@ main .showData .singlePerson button {
   border: 2px solid transparent;
   transition: all 300ms ease-in-out;
 }
+.main-header,
+ .showData .singlePerson button {
+  box-shadow: inset 0 0 0 4px #58afd1;
+  color: #58afd1;
+  transition: color 0.25s 0.0833333333s;
+  position: relative;
+}
+.main-header ::before,
+.main-header ::after,
+ .showData .singlePerson button::before,
+ .showData .singlePerson button::after {
+  border: 0 solid transparent;
+  box-sizing: border-box;
+  content: '';
+  pointer-events: none;
+  position: absolute;
+  width: 0;
+  height: 0;
+  bottom: 0;
+  right: 0;
+}
+.main-header::before,
+ .showData .singlePerson button::before {
+  border-bottom-width: 4px;
+  border-left-width: 4px;
+}
+.main-header::after,
+ .showData .singlePerson button::after {
+  border-top-width: 4px;
+  border-right-width: 4px;
+}
+.main-header:hover,
+ .showData .singlePerson button:hover {
+  color: #ffe593;
+}
+.main-header:hover::before,
+.main-header:hover::after ,
+ .showData .singlePerson button:hover::before,
+ .showData .singlePerson button:hover::after {
+  border-color: #ffe593;
+  transition: border-color 0s, width 0.25s, height 0.25s;
+  width: 100%;
+  height: 100%;
+}
+.main-header:hover::before,
+ .showData .singlePerson button:hover::before {
+  transition-delay: 0s, 0s, 0.25s;
+}
+.main-header:hover::after,
+ .showData .singlePerson button:hover::after {
+  transition-delay: 0s, 0.25s, 0s;
+}
+.btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  line-height: 1.5;
+  font: 700 1.2rem 'Roboto Slab', sans-serif;
+  padding: 1em 2em;
+  letter-spacing: 0.05rem;
+}
+.btn:focus {
+  outline: 2px dotted #55d7dc;
+}
+
+
 
 .user-container {
   background-color: #1a1c21;
@@ -111,6 +191,7 @@ main .showData .singlePerson button {
 .user-container .socialLinks button:hover {
   cursor: pointer;
 }
+
 
 a {
   color: inherit;
