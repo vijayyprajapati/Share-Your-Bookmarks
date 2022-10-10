@@ -81,6 +81,26 @@
         "linkedin": "https://www.linkedin.com/in/maxime-perraud/"
       }
     ]
+  },
+  {
+    "name": "Suresh MuthuSelvam",
+    "username": "suresh37",
+    "bio": "Software Developer",
+
+    "links": [
+      "https://twitter.com/frontendilia/status/1529103411882381312",
+      "https://twitter.com/madzadev/status/1579149302081126401",
+      "https://twitter.com/kamranahmedse/status/1501116746811547654",
+	  "https://twitter.com/JavaScriptDaily/status/1550174519784050690"
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/sureysh_karthi"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/suresh37"
+      }
+    ]
   }
 
 ]
