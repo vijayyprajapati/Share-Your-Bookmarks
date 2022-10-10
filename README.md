@@ -11,7 +11,7 @@
 
 A platform where anyone can make their profile, share their twitter and linkedIn bookmarks, see other shared bookmarks and contribute to the community.
 
-#### Website for this repository : <https://vijayyprajapati.github.io/Share-Your-Bookmarks/>
+#### Website for this repository : <https://show-your-bookmarks.netlify.app/>
 
 ## Technology Stack used:
 
