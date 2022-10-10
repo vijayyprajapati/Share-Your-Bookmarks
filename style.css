@@ -20,8 +20,7 @@ body {
 }
 .main-header p {
   font-size: 1.2rem;
-  margin-top: 1rem;
-  margin-bottom: 3rem;
+  margin: 1rem 0 3rem 0;
 }
 
 .main-header h3 {

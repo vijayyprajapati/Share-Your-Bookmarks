@@ -16,17 +16,17 @@ const showNames = () => {
   }
 };
 
-var personName;
+let personName;
 const getElement = (clicked_id) => {
   personName = document.getElementById(`${clicked_id}`).innerText;
-  var storePersonName = personName;
+  const storePersonName = personName;
   localStorage.setItem("personNameKey", storePersonName);
   // console.log(personName);
 };
 
 const userDetails = async () => {
   // console.log("hello yrrr");
-  var storePersonName = localStorage.getItem("personNameKey");
+  const storePersonName = localStorage.getItem("personNameKey");
   // console.log(storePersonName);
   const alldata = await fetch(`./data.json`);
   data = await alldata.json();
@@ -36,9 +36,9 @@ const userDetails = async () => {
     // console.log("in loop");
     // console.log(storePersonName);
     // console.log(data[i].username);
-    var string1 = data[i].username;
-    var string2 = storePersonName;
-    var result = string1.localeCompare(string2);
+    const string1 = data[i].username;
+    const string2 = storePersonName;
+    const result = string1.localeCompare(string2);
     // const result = data[i].username === abhay;
     if (result == 0) {
       // console.log("in if");
