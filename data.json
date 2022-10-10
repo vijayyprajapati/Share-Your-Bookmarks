@@ -19,6 +19,26 @@
         "linkedin": "https://www.linkedin.com/in/vijayyprajapati/"
       }
     ]
+  },
+  {
+    "name": "Piyush Kumar",
+    "username": "devocoe",
+    "bio": "Programmer",
+
+    "links": [
+      "https://github.com/codecrafters-io/build-your-own-x",
+      "https://github.com/goldbergyoni/nodebestpractices/",
+      "https://rang.devocoe.in/",
+      "https://devocoe.in/"
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/devocoe_"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/devocoe/"
+      }
+    ]
   }
   ,
   {
