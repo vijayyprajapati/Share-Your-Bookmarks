@@ -101,6 +101,29 @@
         "linkedin": "https://www.linkedin.com/in/suresh37"
       }
     ]
+  },
+  {
+    "name": "Abhidhamma Sheel",
+    "username": "Slippery creature",
+    "bio": "Software Developer",
+
+    "links": [
+      "https://www.linkedin.com/in/abhidhamma-sheel-756191199/",
+      "https://www.linkedin.com/in/abhidhamma-sheel-756191199/",
+      "https://www.linkedin.com/in/abhidhamma-sheel-756191199/",
+	    "https://www.linkedin.com/in/abhidhamma-sheel-756191199/"
+    ],
+    "social": [
+      {
+        "github":"https://github.com/AbhidhammaSheel"
+      },
+      {
+        "instagram": "https://www.instagram.com/abhidhammasheel/"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/abhidhamma-sheel-756191199/"
+      }
+    ]
   }
 
 ]
