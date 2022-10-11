@@ -103,6 +103,7 @@
     ]
   },
   {
+
     "name": "Abhidhamma Sheel",
     "username": "Slippery creature",
     "bio": "Software Developer",
@@ -122,6 +123,28 @@
       },
       {
         "linkedin": "https://www.linkedin.com/in/abhidhamma-sheel-756191199/"
+      }
+   ]
+ },
+ {
+    "name": "Kalash Saini",
+    "username": "insfirred",
+    "bio": "Student",
+
+    "links": [
+      "https://twitter.com/vandadnp/status/1578615081381740544",
+      "https://twitter.com/Kynsofficial/status/1510206424823083008",
+      "https://twitter.com/ujjwalscript/status/1577907277381640192",
+      "https://twitter.com/prakharrai1609/status/1579679581946392581",
+      "https://twitter.com/AdhamDannaway/status/1579598853837582336"
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/insfirred"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/kalashsaini27/"
+
       }
     ]
   }
