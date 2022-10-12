@@ -1,0 +1,105 @@
+body {
+  background-color: black;
+}
+.logo {
+  width: fit-content;
+  margin: auto;
+  padding: 10px;
+}
+.logo img {
+  width: 10rem;
+  margin: auto;
+}
+
+.header {
+  background-color: #55d7dc;
+  text-align: center;
+  box-shadow: 0 4px 8px 0 rgba(255, 252, 252, 0.2);
+  font-size: larger;
+  font-weight: bold;
+  line-height: 2rem;
+  width: fit-content;
+  border-radius: 10px;
+  padding: 2rem;
+  margin: 2rem auto;
+  border: 2px solid;
+}
+
+.avtar img {
+  width: 5rem;
+  border-radius: 4rem;
+}
+.userName {
+  font-size: 2rem;
+}
+.userBio {
+  color: #516394;
+  font-size: 1.8rem;
+  padding: 10px;
+  text-align: center;
+  font-weight: bolder;
+}
+
+.socialLinks button {
+  background-color: rgba(0, 0, 0, 0.308);
+  color: white;
+  border: 2px solid skyblue;
+  padding: 10px;
+  border-radius: 10px;
+}
+.socialLinks button:hover {
+  background-color: #58afd1;
+  cursor: pointer;
+}
+
+.subheading {
+  color: white;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+.fa-briefcase {
+  margin-right: 1rem;
+}
+/* link css done from here  */
+
+.userLinks {
+  margin: auto;
+  padding: 5px;
+  text-align: center;
+  width: fit-content;
+}
+.link {
+  background-color: #58afd1;
+  margin-bottom: 1rem;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 1rem;
+  word-wrap: break-word;
+  border-radius: 6px;
+}
+.link i {
+  width: 25px;
+  color: black;
+}
+.link:hover {
+  background-color: white;
+  color: rgb(0, 238, 255);
+}
+#linksData {
+  color: white;
+  width: 70vw;
+  word-wrap: break-word;
+}
+#linksData a {
+  color: black;
+  text-decoration: none;
+  line-height: 1.5rem;
+  font-size: 1rem;
+  font-weight: 540;
+  padding: 10px;
+}
+#linksData a:hover {
+  font-weight: bold;
+  color: rgb(64, 64, 182);
+}
+
