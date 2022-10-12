@@ -49,13 +49,13 @@ const userDetails = async () => {
         ${data[i].name}
         <span>(${data[i].username})</span>
       </div>
-      <div class="userBio">${data[i].bio}</div>
+      <div class="userBio"><i class="fa fa-briefcase"></i>${data[i].bio}</div>
     </div>`;
       // console.log(data[i].links.length);
       for (let j = 0; j < data[i].links.length; j++) {
         // console.log("in loop");
         linksData.innerHTML += `
-          <li class="link"><a href=${data[i].links[j]}>${data[i].links[j]}</a></li>`;
+          <li class="link"><i class="fa fa-bookmark"></i><a href=${data[i].links[j]}>${data[i].links[j]}</a></li>`;
         // console.log(data[i].links[j]);
       }
       // console.log("loop chal gaya");
