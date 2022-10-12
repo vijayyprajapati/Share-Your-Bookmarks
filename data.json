@@ -122,6 +122,27 @@
         "linkedin": "https://www.linkedin.com/in/kalashsaini27/"
       }
     ]
+  },
+  {
+    "name": "Pranjal Varshney",
+    "username": "PranjalSays",
+    "bio": "Web Developer",
+
+    "links": [
+      "https://twitter.com/F1/status/1579026174881067008",
+      "https://twitter.com/dazalexf1/status/1579482474681597952",
+      "https://twitter.com/FeniksTVx/status/1578990477860540417",
+      "https://twitter.com/FabrizioRomano/status/1580127728530903040",
+      "https://twitter.com/FabrizioRomano/status/1580080071976460288"
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/PranjalSay"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/pranjal-varshney-1318a2220/"
+      }
+    ]
   }
 
 ]
