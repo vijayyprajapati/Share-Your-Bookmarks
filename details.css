@@ -20,7 +20,7 @@ body {
   line-height: 2rem;
   width: fit-content;
   border-radius: 10px;
-  padding: 40px;
+  padding: 2rem;
   margin: 2rem auto;
   border: 2px solid;
 }
@@ -102,6 +102,4 @@ body {
   font-weight: bold;
   color: rgb(64, 64, 182);
 }
-.bookmark-link {
-  width: 98vw;
-}
+
