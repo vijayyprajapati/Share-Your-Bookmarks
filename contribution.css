@@ -61,3 +61,15 @@ img{
     left: 60%;
     top: 50%;
 }
+@media(max-width:850px){
+    img{
+        width: 20rem;
+        position: absolute;
+        left: 10%;
+        top: 60vh;
+        opacity: 0.2;
+    }
+    .container{
+        text-align: center;
+    }
+}
