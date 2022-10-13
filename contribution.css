@@ -6,8 +6,8 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100%;
-    width: 100%;
+    /* height: 100%;
+    width: 100%; */
     margin-top: 30px;
     font-size: 1.4rem;
     font-family: 'Bebas Neue', cursive;
@@ -17,7 +17,7 @@ body{
 .container .content p {
     font-size: 1.6rem;
     font-weight: bold;
-    width: 80%;
+    width: 50%;
     position: absolute;
     left: 5%;
     border-radius: 5px;
@@ -28,12 +28,15 @@ body{
 .points{
     position: relative;
     top: 80%;
+    font-size: 1.5rem;
+    width: 70%;
+     left: 12%;
 }
 #note{
     font-size: 1.6rem;
     font-weight: bold;
-    width: 90%;
-    left: 4%;
+    width: 70%;
+    left: 15%;
     border-radius: 5px;
     background: linear-gradient(90deg, rgba(45,155,213,1) 30%, rgba(88,175,209,1) 51%, rgba(88,175,209,1) 59%);
     position: relative;
@@ -43,14 +46,10 @@ body{
     padding-bottom: 0.025%;
     font-family: 'Anton', sans-serif;
     box-shadow: 5px 5px 10px 2px #8efafa;
+    text-align: center;
 
 }
-.points{
-    font-size: 1.5rem;
-    position: relative; 
-    width: 90%;
-     left: 1%;
-}
+
 .points li{
     margin: 3%;
     font-family: 'Nunito', sans-serif;
@@ -58,8 +57,16 @@ body{
 img{
     width: 30rem;
     position: absolute;
-    left: 60%;
+    left: 55%;
     top: 50%;
+}
+.content{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    align-items: flex-start;
+    justify-content: flex-start;
 }
 @media(max-width:850px){
     img{
@@ -72,4 +79,11 @@ img{
     .container{
         text-align: center;
     }
+    #note{
+        height: 4rem;
+        font-size: 1rem;
+        display: flex;
+        align-content: center;
+        flex-wrap: wrap;
+    } 
 }
