@@ -160,6 +160,22 @@
         "linkedin": "https://www.linkedin.com/in/pranjal-varshney-1318a2220/"
       }
     ]
-  }
+  },
+  {
+    "name": "Nipun Khatri",
+    "username": "CODEIT",
+    "bio": "Mern stack developer",
 
+    "links": [
+      "https://twitter.com/MentorWebDev/status/1580806078505582592"
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/2Khattri"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/nipun-khatri-80b168224/"
+      }
+    ]
+  }
 ]
