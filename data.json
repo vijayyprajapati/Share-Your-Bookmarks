@@ -245,5 +245,20 @@
         "linkedin": "https://www.linkedin.com/in/"
       }
     ]
+  },
+	{
+    "name": "Sachin Rastogi",
+    "username": "ShmitScah",
+    "bio": "Software Developer",
+
+    "links": [
+      "https://twitter.com/i/events/1580410110421004291",
+      "https://twitter.com/MentorWebDev/status/1579766236031995906"
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/rocksach"
+      }
+    ]
   }
 ]
