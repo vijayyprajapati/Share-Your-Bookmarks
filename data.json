@@ -39,8 +39,7 @@
         "linkedin": "https://www.linkedin.com/in/devocoe/"
       }
     ]
-  }
-  ,
+  },
   {
     "name": "Krapi Rastogi",
     "username": "krapirastogi",
@@ -91,7 +90,7 @@
       "https://twitter.com/frontendilia/status/1529103411882381312",
       "https://twitter.com/madzadev/status/1579149302081126401",
       "https://twitter.com/kamranahmedse/status/1501116746811547654",
-	  "https://twitter.com/JavaScriptDaily/status/1550174519784050690"
+      "https://twitter.com/JavaScriptDaily/status/1550174519784050690"
     ],
     "social": [
       {
@@ -182,7 +181,7 @@
       }
     ]
   },
-   {
+  {
     "name": "Jayati Dixit",
     "username": "ErzaScarlet",
     "bio": "Software Developer",
@@ -225,14 +224,13 @@
     ]
   },
 
-	 {
+  {
     "name": "Popper ",
     "username": "poppins",
     "bio": "Web Developer",
 
     "links": [
-      "https://twitter.com/Prathkum/status/1567929139323351041?s=20&t=k7geimnNjB0ONv2wrv4CZQ",
-     
+      "https://twitter.com/Prathkum/status/1567929139323351041?s=20&t=k7geimnNjB0ONv2wrv4CZQ"
     ],
     "social": [
       {
@@ -240,7 +238,9 @@
       },
       {
         "linkedin": "https://www.linkedin.com/in/vijayyprajapati/"
-
+      }
+    ]
+  },
   {
     "name": "Pitambar Mishra",
     "username": "pitssRock",
@@ -260,11 +260,10 @@
       },
       {
         "linkedin": "https://www.linkedin.com/in/"
-
       }
     ]
   },
-	{
+  {
     "name": "Sachin Rastogi",
     "username": "ShmitScah",
     "bio": "Software Developer",
@@ -277,9 +276,9 @@
       {
         "twitter": "https://twitter.com/rocksach"
       },
-	{
+      {
         "linkedin": "https://www.linkedin.com/in/"
-	}
+      }
     ]
   }
 ]
