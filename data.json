@@ -223,5 +223,23 @@
         "linkedin": "https://www.linkedin.com/in/"
       }
     ]
+  },
+	 {
+    "name": "Popper ",
+    "username": "poppins",
+    "bio": "Web Developer",
+
+    "links": [
+      "https://twitter.com/Prathkum/status/1567929139323351041?s=20&t=k7geimnNjB0ONv2wrv4CZQ",
+     
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/vijayyprajapati"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/vijayyprajapati/"
+      }
+    ]
   }
 ]
