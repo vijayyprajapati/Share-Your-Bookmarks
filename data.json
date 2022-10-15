@@ -224,6 +224,7 @@
       }
     ]
   },
+
 	 {
     "name": "Popper ",
     "username": "poppins",
@@ -239,6 +240,27 @@
       },
       {
         "linkedin": "https://www.linkedin.com/in/vijayyprajapati/"
+
+  {
+    "name": "Pitambar Mishra",
+    "username": "pitssRock",
+    "bio": "Noob",
+
+    "links": [
+      "https://twitter.com/i/events/1580410110421004291",
+      "https://twitter.com/thefarooqii/status/1580987551493521417?s=20&t=bfOiSBMafhGuCowWajYxQg",
+      "https://twitter.com/PinakiLaskar/status/1580973816972394498?s=20&t=bfOiSBMafhGuCowWajYxQg",
+      "https://twitter.com/KirkDBorne/status/1580747356911579136?s=20&t=bfOiSBMafhGuCowWajYxQg",
+      "https://twitter.com/Damldriven/status/1566892918853570562",
+      "https://twitter.com/MentorWebDev/status/1579766236031995906"
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/pitts"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/"
+
       }
     ]
   }
