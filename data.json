@@ -344,5 +344,24 @@
         "linkedin": "https://www.linkedin.com/in/pratyush-shukla-381683201/"
       }
     ]
+  },
+   {
+    "name": "Piyush yadav",
+    "username": "Piyush_Yadav",
+    "bio": "Web Developer",
+
+    "links": [
+      "https://twitter.com/CoderBull/status/1256586681030856705?s=20&t=bo5QQJCewHMx27PDz6tO_w"
+      
+    
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/piyush_yadav94"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/piyush-yadav-94b347207/"
+      }
+    ]
   }
 ]
