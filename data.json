@@ -318,5 +318,24 @@
         "linkedin": "https://www.linkedin.com/in/parakh-agrawal-2b9164221/"
       }
     ]
+  },
+  
+  {
+    "name": "Pratyush shukla",
+    "username": "Pratyush4",
+    "bio": "Web Developer",
+
+    "links": [
+      "https://twitter.com/i/events/1580410110421004291"
+    
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/Pratyus76846148"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/pratyush-shukla-381683201/"
+      }
+    ]
   }
 ]
