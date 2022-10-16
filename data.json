@@ -294,5 +294,23 @@
         "linkedin": "https://www.linkedin.com/in/"
       }
     ]
+  },
+  {
+    "name": "Parakh Agrawal",
+    "username": "blacksaw",
+    "bio": "Software Developer",
+
+    "links": [
+      "https://twitter.com/i/events/1580410110421004291"
+      
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/ParakhAgrawal16"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/parakh-agrawal-2b9164221/"
+      }
+    ]
   }
 ]
