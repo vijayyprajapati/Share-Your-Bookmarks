@@ -63,6 +63,7 @@ main .showData .singlePerson button {
   padding: 1rem 2rem;
   background-color: #1a1c21;
   color: white;
+  opacity: 0.8;
   font-size: 20px;
   border: none;
   outline: none;
@@ -71,6 +72,10 @@ main .showData .singlePerson button {
   border: 2px solid transparent;
   transition: all 300ms ease-in-out;
   box-shadow: rgb(0 0 0 / 24%) 0px 3px 8px;
+}
+main .showData .singlePerson button:hover {
+  transform: scale(1.1);
+  transition: all 300ms ease-in-out;
 }
 .main-header,
  .showData .singlePerson button {
