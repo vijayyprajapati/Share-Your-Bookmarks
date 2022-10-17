@@ -11,6 +11,7 @@
 - [Table of Content](#table-of-content)
 - [Share Your Bookmark Description](#share-your-bookmark)
 - [Technology Stack Used](#technology-stack-used)
+- [steps to follow to contribute](#steps-to-follow-to-contribute)
 - [Our Contributors](#our-contributors--✨t)
 - [License](#license)
 
