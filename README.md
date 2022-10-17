@@ -1,4 +1,4 @@
-<div align="center"> <img align="center" alt="dschackfest" src="https://user-images.githubusercontent.com/84925346/193271219-6360d311-ea13-42eb-8822-4ec2fd854ee5.jpeg" height='150' width='350'></div>
+<div align="center"> <img align="center" alt="dschackfest" src="https://user-images.githubusercontent.com/84925346/193271219-6360d311-ea13-42eb-8822-4ec2fd854ee5.jpeg" height='300' width='700'></div>
 
 <!-- <div>
     <img align=top src="https://miro.medium.com/max/1400/1*c4YgRXYQayOVWxV37ourrw.png" height="100" width="50%"/>
@@ -15,7 +15,7 @@
 - [Our Contributors](#our-contributors--✨t)
 - [License](#license) -->
 
-## Share-Your-Bookmark
+## Share-Your-Bookmark:
 
 A platform where anyone can make their profile, share their Twitter and LinkedIn bookmarks, see other shared bookmarks, and contribute to the community.
 
@@ -31,8 +31,53 @@ A platform where anyone can make their profile, share their Twitter and LinkedIn
 
 - **Frontend**: HTML5, CSS3, JavaScript
 <!-- - **Backend**: Node.js, Express.js -->
-- **IDE**: VS Code
-- **Version Control**: Git and GitHub
+- **IDE**: [Visual Studio Code](https://code.visualstudio.com/download)
+- **Version Control**: [Git](https://git-scm.com/downloads) and [GitHub](https://git-scm.com/downloads)
+
+## Steps to Contribute
+
+1. **Fork** this repository by clicking on the fork button on the upper right corner.
+2. **Clone** the repo by typing this command in your command prompt or git bash:
+
+```
+git clone git@github.com:<your_github_username_here>/Share-Your-Bookmarks.git
+```
+
+3. **Edit** `data.json` file in your favourite code editor by pasting this code at the end of the array. See others code for reference.
+
+```json
+{
+    "name": "your name here",
+    "username": "your unique username here",
+    "bio": "your bio here",
+
+    "links": [
+      "your first bookmark link",
+      "your second bookmark link",
+      "your third bookmark link",
+      "your fourth bookmark link",
+      "your fifth bookmark link"
+    ],
+    "social": [
+      {
+        "twitter": "your twitter/other handle here"
+      },
+      {
+        "linkedin": "your linkedin/other handle here"
+      }
+    ]
+  },
+```
+
+4. Type these commands in your cmd/git bash to **stage, commit and push** the changes in your cloned repo.
+
+```
+git stage .
+git commit -m "your message"
+git push origin master
+```
+
+5. Now, **create and submit a pull request** by clicking on Contribute button on your GitHub repo. But, first be sure to fetch and merge the upstream from the original repo by clicking on Sync fork > Update branch button.
 
 ## Our Contributors !! ✨
 
@@ -47,101 +92,6 @@ A platform where anyone can make their profile, share their Twitter and LinkedIn
 		</td>
 	</tr>
 </table>
-
-## Steps to follow to contribute
-
-## 1. Fork it 🍴
-You can get your own fork (copy) of [Share-Your-Bookmarks](https://github.com/vijayyprajapati/Share-Your-Bookmarks.git) by using the Fork button at the top right of this page.
-![Fork Button](https://github-images.s3.amazonaws.com/help/bootcamp/Bootcamp-Fork.png)
-
-## 2. Clone it 👥
-You must move to your fork of the repository and clone (download) it to your local machine using
-`$ git clone https://github.com/Your_Username/Share-Your-Bookmarks.git`
-This creates a local copy of the repository on your machine.
-
-After cloning the `Share-Your-Bookmarks` repository on Github, use the change directory command on Linux and Mac to go to that folder.
-
-```python
-# This will change directory to a folder Share-Your-Bookmarks                                                                  
-$ cd
-Share-Your-Bookmarks
-```
-
-Move to this folder for all other commands.
-Let us now add a reference to the original 'Share-Your-Bookmarks' repository using:
-`$ git remote add upstream https://github.com/vijayyprajapati/Share-Your-Bookmarks.git`
-This adds a new remote named **_upstream_**.
-
-Examine the modifications using:
-
-```git
- $ git remote -v
- origin https://github.com/Your_Username/Share-Your-Bookmarks.git (fetch)                                                      
- origin https://github.com/Your_Username/Share-Your-Bookmarks.git (push)                                                        
- upstream https://github.com/vijayyprajapati/Share-Your-Bookmarks.git (fetch)                                                     
- upstream https://github.com/vijayyprajapati/Share-Your-Bookmarks.git (push)
- ```
- 
-## 3. Sync with the Remote 🔄
-Remember to keep your local repository up to date with the remote repository.
-```python
-# Fetch all remote repositories and delete any deleted remote branches
-$ git
-fetch - -all - -prune
-# Switch to main branch
-$ git
-checkout
-main
-# Reset local main branch to match upstream repository's main branch
-$ git
-reset - -hard
-upstream / main
-# Push changes to your forked DNAnalyzer repo
-$ git
-push
-origin
-main
-```
-
-## 4. Create a new branch
-Whenever you want to make a contribution, use the following command to establish a new branch and keep your main branch uncluttered (i.e. synced with remote branch).
-
-```python
-# It will create a new branch <branchname> with name and switch to branch <branchname>
-$ git
-checkout - b < branchname >
-```
-To switch to desired branch
-```python 
-# To switch from one folder to other
-$ git
-checkout < branchname >
-```
-To add the changes to the branch. Use
-
-```python
-# To add all files to branch
-$ git
-add.
-```
-
-Type in a message relevant for the code reveiwer using
-```python
-# This message get associated with all files you have changed
-$ git
-commit - m
-"relevant message"
-```
-Now, Push your awesome work to your remote repository using
-```python
-# To push your work to your remote repository
-$ git
-push - u
-origin < branchname >
-```
-Finally, in your browser, navigate to your repository and click Contribute and then Open Pull Request. There, please provide a title and description, with brevity, that describe your much-appreciated effort.
-
-
 
 ## License
 
