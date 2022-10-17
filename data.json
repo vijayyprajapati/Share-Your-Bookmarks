@@ -470,5 +470,26 @@
 
       }
     ]
-  }
+  },
+  {
+    "name": "Prakhar Sinha",
+    "username": "PrakharSinha-09",
+    "bio": "Tech Enthusiast! Learner, Java is Love!",
+
+    "links": [
+      "https://github.com/PrakharSinha-09",
+      "https://twitter.com/i_M_Prakhar09",
+      "https://www.facebook.com/bobby.sinha.965/",
+      "https://leetcode.com/Prakhar_Sinha/",
+      "https://mail.google.com/mail/u/0/#inbox"
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/i_M_Prakhar09"
+      },
+      {
+        "linkedin": "www.linkedin.com/in/prakhar-sinha-a81672213"
+       }
+       ]
+}
 ]
