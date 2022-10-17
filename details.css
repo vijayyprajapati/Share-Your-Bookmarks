@@ -1,5 +1,5 @@
 body {
-  background-color: #090909;
+  background-color: #121317;
 }
 .logo {
   width: fit-content;
@@ -44,16 +44,19 @@ body {
 
 .socialLinks button {
   margin-top: 10px;
-  background-color: #9BC4BC;
-  color: #090909;
+  background-color: #1a1c21;
+  color: #58afd1;
+  font-weight: bold;
   padding: 10px;
   border-radius: 10px;
+  border: 2px solid #58afd1;
 }
 .socialLinks button:hover {
   background-color: #d3ffe9;
   color: #090909;
-  font-weight: bold;
+  
   cursor: pointer;
+  border: 2px solid #ffe593;
 }
 
 .subheading {
@@ -63,7 +66,7 @@ body {
   justify-content: center;
 }
 
-.nav a {
+#nav a {
   text-align: center;
   display: flex;
   justify-content: center;
@@ -71,7 +74,7 @@ body {
   color: white;
 }
 
-.nav a:hover {
+#nav a:hover {
   color: #8ddbe0;
 }
 
@@ -88,7 +91,7 @@ body {
 }
 
 .link {
-  background-color: #9bc4bc;
+  background-color: #1a1c21;
   margin-bottom: 1rem;
   border: 3px solid #58afd1;
   box-shadow: 0 4px 8px 0 #14688a;
@@ -98,23 +101,24 @@ body {
 }
 .link i {
   width: 25px;
-  color: #090909;
+  color: inherit;
 }
 
 .link:hover {
-  background-color: #d3ffe9;
   color: #090909;
+  background-color: #d3ffe9;
   border: 2px solid #ffe593;
 }
 
 #linksData {
-  color: white;
+  color: #58afd1;
   width: 70vw;
   word-wrap: break-word;
 }
 
 #linksData a {
-  color: #090909;
+  color: inherit;
+  font-weight: bold;
   text-decoration: none;
   line-height: 1.5rem;
   font-size: 1rem;
@@ -122,9 +126,6 @@ body {
   padding: 10px;
 }
 
-#linksData a:hover {
-  font-weight: bold;
-}
 
 
 
