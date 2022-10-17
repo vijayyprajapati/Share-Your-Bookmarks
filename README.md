@@ -1,4 +1,4 @@
-<div align="center"> <img align="center" alt="dschackfest" src="https://user-images.githubusercontent.com/84925346/193271219-6360d311-ea13-42eb-8822-4ec2fd854ee5.jpeg" height='150' width='350'></div>
+<div align="center"> <img align="center" alt="dschackfest" src="https://user-images.githubusercontent.com/84925346/193271219-6360d311-ea13-42eb-8822-4ec2fd854ee5.jpeg" height='300' width='700'></div>
 
 <!-- <div>
     <img align=top src="https://miro.medium.com/max/1400/1*c4YgRXYQayOVWxV37ourrw.png" height="100" width="50%"/>
@@ -15,7 +15,7 @@
 - [Our Contributors](#our-contributors--✨t)
 - [License](#license) -->
 
-## Share-Your-Bookmark
+## Share-Your-Bookmark:
 
 A platform where anyone can make their profile, share their Twitter and LinkedIn bookmarks, see other shared bookmarks, and contribute to the community.
 
@@ -31,8 +31,8 @@ A platform where anyone can make their profile, share their Twitter and LinkedIn
 
 - **Frontend**: HTML5, CSS3, JavaScript
 <!-- - **Backend**: Node.js, Express.js -->
-- **IDE**: VS Code
-- **Version Control**: Git and GitHub
+- **IDE**: [Visual Studio Code](https://code.visualstudio.com/download)
+- **Version Control**: [Git](https://git-scm.com/downloads) and [GitHub](https://git-scm.com/downloads)
 
 ## Steps to Contribute
 
