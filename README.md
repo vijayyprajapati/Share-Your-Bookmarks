@@ -9,7 +9,7 @@
 
 ## Share-Your-Bookmark 
 
-A platform where anyone can make their profile, share their twitter and linkedIn bookmarks, see other shared bookmarks and contribute to the community.
+A platform where anyone can make their profile, share their Twitter and LinkedIn bookmarks, see other shared bookmarks, and contribute to the community.
 
 #### Website for this repository : <https://share-your-bookmarks.netlify.app/>
 
