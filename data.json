@@ -157,6 +157,24 @@
     ]
   },
   {
+
+    "name": "Pranjal Agarwal",
+    "username": "Pranjal360Agarwal",
+    "bio": "Passionate Competitive Programmer and a Web Developer",
+
+    "links": [
+      "https://github.com/codingforentrepreneurs",
+      "https://github.com/charles-wangkai/codechef",
+      "https://github.com/SanjeevkMishra/Generic_Training_Python_INFY/tree/master/Fundamental%20Programming%20Part%201",
+        
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/Pranjal12393385"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/pranjal-agarwal-11b543226/"
+
     "name": "Kalash Saini",
     "username": "insfirred",
     "bio": "Student",
@@ -483,6 +501,7 @@
       },
       {
         "linkedin": "www.linkedin.com/in/prakhar-sinha-a81672213"
+
       }
     ]
   }
