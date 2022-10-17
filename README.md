@@ -1,4 +1,4 @@
-<div align="center"> <img align="center" alt="dschackfest" src="https://user-images.githubusercontent.com/84925346/193271219-6360d311-ea13-42eb-8822-4ec2fd854ee5.jpeg" height='150' width='350'></div>
+<div align="center"> <img align="center" alt="dschackfest" src="https://user-images.githubusercontent.com/84925346/193271219-6360d311-ea13-42eb-8822-4ec2fd854ee5.jpeg" height='300' width='700'></div>
 
 <!-- <div>
     <img align=top src="https://miro.medium.com/max/1400/1*c4YgRXYQayOVWxV37ourrw.png" height="100" width="50%"/>
@@ -6,12 +6,20 @@
 <div>
 <br> -->
 
+<!-- ## Table of Content
 
-## Share-Your-Bookmark 
+- [Table of Content](#table-of-content)
+- [Share Your Bookmark Description](#share-your-bookmark)
+- [Technology Stack Used](#technology-stack-used)
+- [steps to follow to contribute](#steps-to-follow-to-contribute)
+- [Our Contributors](#our-contributors--✨t)
+- [License](#license) -->
 
-A platform where anyone can make their profile, share their twitter and linkedIn bookmarks, see other shared bookmarks and contribute to the community.
+## Share-Your-Bookmark:
 
-#### Website for this repository : <https://show-your-bookmarks.netlify.app/>
+A platform where anyone can make their profile, share their Twitter and LinkedIn bookmarks, see other shared bookmarks, and contribute to the community.
+
+#### Website for this repository : <https://share-your-bookmarks.netlify.app/>
 
 ## Technology Stack used:
 
@@ -23,10 +31,56 @@ A platform where anyone can make their profile, share their twitter and linkedIn
 
 - **Frontend**: HTML5, CSS3, JavaScript
 <!-- - **Backend**: Node.js, Express.js -->
-- **IDE**: VS Code
-- **Version Control**: Git and GitHub
+- **IDE**: [Visual Studio Code](https://code.visualstudio.com/download)
+- **Version Control**: [Git](https://git-scm.com/downloads) and [GitHub](https://git-scm.com/downloads)
 
-## Our Contributors  !! ✨
+## Steps to Contribute
+
+1. **Fork** this repository by clicking on the fork button on the upper right corner.
+2. **Clone** the repo by typing this command in your command prompt or git bash:
+
+```
+git clone git@github.com:<your_github_username_here>/Share-Your-Bookmarks.git
+```
+
+3. **Edit** `data.json` file in your favourite code editor by pasting this code at the end of the array. See others code for reference.
+
+```json
+{
+    "name": "your name here",
+    "username": "your unique username here",
+    "bio": "your bio here",
+
+    "links": [
+      "your first bookmark link",
+      "your second bookmark link",
+      "your third bookmark link",
+      "your fourth bookmark link",
+      "your fifth bookmark link"
+    ],
+    "social": [
+      {
+        "twitter": "your twitter/other handle here"
+      },
+      {
+        "linkedin": "your linkedin/other handle here"
+      }
+    ]
+  },
+```
+
+4. Type these commands in your cmd/git bash to **stage, commit and push** the changes in your cloned repo.
+
+```
+git stage .
+git commit -m "your message"
+git push origin master
+```
+
+5. Now, **create and submit a pull request** by clicking on Contribute button on your GitHub repo. But, first be sure to fetch and merge the upstream from the original repo by clicking on Sync fork > Update branch button.
+
+## Our Contributors !! ✨
+
 ### Thanks to these wonderful people: ✨
 
 <table>
@@ -42,4 +96,3 @@ A platform where anyone can make their profile, share their twitter and linkedIn
 ## License
 
 Licensed under the [MIT license](LICENSE).
-

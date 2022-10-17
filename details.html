@@ -1,24 +1,55 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link
-      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap"
-      rel="stylesheet"
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="details.css" />
+
+  <title>User Detail</title>
+
+  <link
+      rel="apple-touch-icon"
+      sizes="180x180"
+      href="/favicon/apple-touch-icon.png"
     />
-    <link rel="stylesheet" href="style.css" />
-    <title>User Detail</title>
-  </head>
-  <body onload="userDetails()">
-    <div class="user-container">
-      <div id="showDetails" class="showDetails"></div>
-      <div id="userLinks " class="userLinks">
-        <ol id="linksData"></ol>
-      </div>
-      <div id="socialLinks" class="socialLinks"></div>
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="/favicon/favicon-32x32.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="16x16"
+      href="/favicon/favicon-16x16.png"
+    />
+    <link rel="manifest" href="/favicon/site.webmanifest" />
+</head>
+
+<body onload="userDetails()">
+  <div class="header">
+    <div id="showDetails" class="showDetails"></div>
+    <div id="socialLinks" class="socialLinks"></div>
+  </div>
+  <div class="user-container">
+    <div id="nav">
+      <h2><a href="index.html" >Home</a></h2>
     </div>
-    <script src="./index.js"></script>
-  </body>
-</html>
+    <div class="subheading">
+      
+      <h2><i class="fa fa-files-o"></i> Your Bookmarks</h2>
+    </div>
+
+    <div id="userLinks " class="userLinks">
+      <ol id="linksData"></ol>
+    </div>
+  </div>
+  <script src="./index.js"></script>
+</body>
+
+</html
