@@ -9,7 +9,7 @@ const showNames = () => {
     for (let i = 0; i < data.length; i++) {
       showData.innerHTML += `
           <div class="singlePerson" >
-            <a href="./details.html" target="_blank"><button id="${i}" onclick="getElement(this.id)">${data[i].username}</button></a>
+            <a href="./details.html"><button id="${i}" onclick="getElement(this.id)">${data[i].username}</button></a>
             </div>
           `;
     }
@@ -55,14 +55,14 @@ const userDetails = async () => {
       for (let j = 0; j < data[i].links.length; j++) {
         // console.log("in loop");
         linksData.innerHTML += `
-          <li class="link"><i class="fa fa-bookmark"></i><a href=${data[i].links[j]}>${data[i].links[j]}</a></li>`;
+          <li class="link"><i class="fa fa-bookmark"></i><a href=${data[i].links[j]} target="_blank">${data[i].links[j]}</a></li>`;
         // console.log(data[i].links[j]);
       }
       // console.log("loop chal gaya");
 
       socialLinks.innerHTML = `
-      <a href=${data[i].social[0].twitter}><button>Twitter</button></a>
-      <a href=${data[i].social[1].linkedin}><button>Linkedin</button></a>`;
+      <a href=${data[i].social[0].twitter} target="_blank"><button>Twitter</button></a>
+      <a href=${data[i].social[1].linkedin} target="_blank"><button>Linkedin</button></a>`;
       // console.log("social");
       // console.log(data[i].social[0].twitter);
       break;

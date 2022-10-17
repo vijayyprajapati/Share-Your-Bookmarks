@@ -1,5 +1,5 @@
 body {
-  background-color: black;
+  background-color: #121317;
 }
 .logo {
   width: fit-content;
@@ -12,17 +12,17 @@ body {
 }
 
 .header {
-  background-color: #55d7dc;
+  background-color: #1a1c21;
   text-align: center;
-  box-shadow: 0 4px 8px 0 rgba(255, 252, 252, 0.2);
   font-size: larger;
   font-weight: bold;
   line-height: 2rem;
   width: fit-content;
   border-radius: 10px;
-  padding: 2rem;
+  padding: 2.5rem 4rem;
   margin: 2rem auto;
-  border: 2px solid;
+  border: 5px solid #58afd1;
+  box-shadow: 0 8px 16px 0 #14688a;
 }
 
 .avtar img {
@@ -31,9 +31,11 @@ body {
 }
 .userName {
   font-size: 2rem;
+  color: #58afd1;
 }
 .userBio {
-  color: #516394;
+  margin-top:10px;
+  color: #ffe593;
   font-size: 1.8rem;
   padding: 10px;
   text-align: center;
@@ -41,15 +43,20 @@ body {
 }
 
 .socialLinks button {
-  background-color: rgba(0, 0, 0, 0.308);
-  color: white;
-  border: 2px solid skyblue;
+  margin-top: 10px;
+  background-color: #1a1c21;
+  color: #58afd1;
+  font-weight: bold;
   padding: 10px;
   border-radius: 10px;
+  border: 2px solid #58afd1;
 }
 .socialLinks button:hover {
-  background-color: #58afd1;
+  background-color: #d3ffe9;
+  color: #090909;
+  
   cursor: pointer;
+  border: 2px solid #ffe593;
 }
 
 .subheading {
@@ -58,48 +65,67 @@ body {
   display: flex;
   justify-content: center;
 }
+
+#nav a {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  text-decoration: none;
+  color: white;
+}
+
+#nav a:hover {
+  color: #8ddbe0;
+}
+
 .fa-briefcase {
   margin-right: 1rem;
 }
-/* link css done from here  */
 
+/* link css done from here  */
 .userLinks {
   margin: auto;
   padding: 5px;
   text-align: center;
   width: fit-content;
 }
+
 .link {
-  background-color: #58afd1;
+  background-color: #1a1c21;
   margin-bottom: 1rem;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  border: 3px solid #58afd1;
+  box-shadow: 0 4px 8px 0 #14688a;
   padding: 1rem;
   word-wrap: break-word;
   border-radius: 6px;
 }
 .link i {
   width: 25px;
-  color: black;
+  color: inherit;
 }
+
 .link:hover {
-  background-color: white;
-  color: rgb(0, 238, 255);
+  color: #090909;
+  background-color: #d3ffe9;
+  border: 2px solid #ffe593;
 }
+
 #linksData {
-  color: white;
+  color: #58afd1;
   width: 70vw;
   word-wrap: break-word;
 }
+
 #linksData a {
-  color: black;
+  color: inherit;
+  font-weight: bold;
   text-decoration: none;
   line-height: 1.5rem;
   font-size: 1rem;
   font-weight: 540;
   padding: 10px;
 }
-#linksData a:hover {
-  font-weight: bold;
-  color: rgb(64, 64, 182);
-}
+
+
+
 

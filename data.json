@@ -445,6 +445,29 @@
       },
       {
         "linkedin": "https://www.linkedin.com/in/sayan-nandy-tech/"
+       }
+       ]
+},
+{
+    "name": "Lai Kok Wui",
+    "username": "Laikokwui",
+    "bio": "Fresh Graduate",
+
+    "links": [
+      "https://firebase.google.com/",
+      "https://pandas.pydata.org/",
+      "https://pytorch.org/",
+      "https://www.tensorflow.org/",
+      "https://laravel.com/",
+      "https://tailwindcss.com/"
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/Kokwei325"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/kok-wui-lai-b20a781aa/"
+
       }
     ]
   }
