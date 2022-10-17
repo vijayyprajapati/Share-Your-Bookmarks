@@ -101,6 +101,27 @@
         "linkedin": "https://www.linkedin.com/in/suresh37"
       }
     ]
+  },
+  {
+    "name": "Pranjal Agarwal",
+    "username": "Pranjal360Agarwal",
+    "bio": "Passionate Competitive Programmer and a Web Developer",
+
+    "links": [
+      "https://leetcode.com/",
+      "https://auth.geeksforgeeks.org/user/pranjal10agarwal/practice/",
+      "https://www.codingninjas.com/codestudio",
+      "https://monkeytype.com/account",
+      
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/Pranjal12393385"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/pranjal-agarwal-11b543226/"
+      }
+    ]
   }
 
 ]
