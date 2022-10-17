@@ -1,6 +1,10 @@
 body {
   background-color: #121317;
 }
+ol li::marker
+{
+  color:#58afd1;
+}
 .logo {
   width: fit-content;
   margin: auto;
@@ -105,9 +109,8 @@ body {
 }
 
 .link:hover {
-  color: #090909;
+  color:#090909;
   background-color: #d3ffe9;
-  border: 2px solid #ffe593;
 }
 
 #linksData {
