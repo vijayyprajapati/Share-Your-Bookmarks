@@ -470,5 +470,26 @@
 
       }
     ]
+  },
+  {
+    "name": "Harinadh Tanna",
+    "username": "harinadh76",
+    "bio": "Web Developer",
+
+    "links": [
+      "https://twitter.com/thedavescience/status/1572572894835933185",
+      "https://twitter.com/mdjunaidap/status/1547821005296377858",
+      "https://twitter.com/amankk_9/status/1509755977792655360",
+      "https://twitter.com/marmooznet/status/1494027549495599108",
+      "https://twitter.com/Param_eth/status/1489950490687598596"
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/me_harinadh"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/harinadh-tanna-45b392211/"
+      }
+    ]
   }
 ]
