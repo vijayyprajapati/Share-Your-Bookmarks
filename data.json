@@ -424,7 +424,20 @@
       },
       {
         "linkedin": "https://www.linkedin.com/in/piyush-yadav-94b347207/"
+    
       }
+      {
+      "name": "Dakshesh Apkare",
+      "username": "Daksheshapkare",
+      "bio": "A beginner Web developer",
+      
+      "social": [
+      {
+         "https://twitter.com/DaksheshApkare?t=BTpowy10Wsg0atN9-UPdBw&s=09"
+         }
+  ]
+}
+      
     ]
   }
 ]
