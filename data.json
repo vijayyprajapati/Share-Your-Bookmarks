@@ -21,6 +21,27 @@
     ]
   },
   {
+    "name": "Adarsh Dubey ",
+    "username": "inclinedadarsh",
+    "bio": "Web Developer & UI/UX Designer",
+
+    "links": [
+      "https://twitter.com/naval/status/1002103360646823936?s=20&t=g-xKxHA696ytxfBzbjZhig",
+      "https://twitter.com/heyeaslo/status/1556460201850462208?s=20&t=uTM6FvljPRkrfwXQ8P2DRg",
+      "https://www.bookmarks.design/",
+      "https://www.lapa.ninja/",
+      "https://www.landingfolio.com/"
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/inclinedadarsh"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/inclinedadarsh/"
+      }
+    ]
+  },
+  {
     "name": "Piyush Kumar",
     "username": "devocoe",
     "bio": "Programmer",
