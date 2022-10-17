@@ -129,6 +129,20 @@ ol li::marker
   padding: 10px;
 }
 
-
-
-
+.home-btn {
+  display: block;
+  width: 100px;
+  background-color: #1a1c21;
+  margin:10px auto;
+  color: #58afd1;
+  font-weight: bold;
+  padding: 10px;
+  border-radius: 10px;
+  border: 2px solid #58afd1;
+}
+.home-btn:hover {
+  background-color: #d3ffe9;
+  color: #090909;
+  cursor: pointer;
+  border: 2px solid #ffe593;
+}
