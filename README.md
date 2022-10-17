@@ -6,14 +6,14 @@
 <div>
 <br> -->
 
-## Table of Content
+<!-- ## Table of Content
 
 - [Table of Content](#table-of-content)
 - [Share Your Bookmark Description](#share-your-bookmark)
 - [Technology Stack Used](#technology-stack-used)
 - [steps to follow to contribute](#steps-to-follow-to-contribute)
 - [Our Contributors](#our-contributors--✨t)
-- [License](#license)
+- [License](#license) -->
 
 ## Share-Your-Bookmark
 
@@ -33,7 +33,6 @@ A platform where anyone can make their profile, share their Twitter and LinkedIn
 <!-- - **Backend**: Node.js, Express.js -->
 - **IDE**: VS Code
 - **Version Control**: Git and GitHub
--
 
 ## Our Contributors !! ✨
 
@@ -48,7 +47,9 @@ A platform where anyone can make their profile, share their Twitter and LinkedIn
 		</td>
 	</tr>
 </table>
-## steps to follow to contribute
+
+## Steps to follow to contribute
+
 ## 1. Fork it 🍴
 You can get your own fork (copy) of [Share-Your-Bookmarks](https://github.com/vijayyprajapati/Share-Your-Bookmarks.git) by using the Fork button at the top right of this page.
 ![Fork Button](https://github-images.s3.amazonaws.com/help/bootcamp/Bootcamp-Fork.png)
