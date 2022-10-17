@@ -33,7 +33,21 @@ A platform where anyone can make their profile, share their Twitter and LinkedIn
 <!-- - **Backend**: Node.js, Express.js -->
 - **IDE**: VS Code
 - **Version Control**: Git and GitHub
-- 
+-
+
+## Our Contributors !! ✨
+
+### Thanks to these wonderful people: ✨
+
+<table>
+	<tr>
+		<td>
+			<a href="https://github.com/vijayyprajapati/Share-Your-Bookmarks/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=vijayyprajapati/Share-Your-Bookmarks" />
+</a>
+		</td>
+	</tr>
+</table>
 ## steps to follow to contribute
 ## 1. Fork it 🍴
 You can get your own fork (copy) of [Share-Your-Bookmarks](https://github.com/vijayyprajapati/Share-Your-Bookmarks.git) by using the Fork button at the top right of this page.
@@ -126,19 +140,7 @@ origin < branchname >
 ```
 Finally, in your browser, navigate to your repository and click Contribute and then Open Pull Request. There, please provide a title and description, with brevity, that describe your much-appreciated effort.
 
-## Our Contributors !! ✨
 
-### Thanks to these wonderful people: ✨
-
-<table>
-	<tr>
-		<td>
-			<a href="https://github.com/vijayyprajapati/Share-Your-Bookmarks/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=vijayyprajapati/Share-Your-Bookmarks" />
-</a>
-		</td>
-	</tr>
-</table>
 
 ## License
 
