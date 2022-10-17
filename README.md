@@ -33,12 +33,12 @@ A platform where anyone can make their profile, share their Twitter and LinkedIn
 - **IDE**: VS Code
 - **Version Control**: Git and GitHub
 - 
-##steps to follow
-##1. Fork it 🍴
+## steps to follow to contribute
+## 1. Fork it 🍴
 You can get your own fork (copy) of [Share-Your-Bookmarks](https://github.com/vijayyprajapati/Share-Your-Bookmarks.git) by using the Fork button at the top right of this page.
 ![Fork Button](https://github-images.s3.amazonaws.com/help/bootcamp/Bootcamp-Fork.png)
 
-##2. Clone it 👥
+## 2. Clone it 👥
 You must move to your fork of the repository and clone (download) it to your local machine using
 `$ git clone https://github.com/Your_Username/Share-Your-Bookmarks.git`
 This creates a local copy of the repository on your machine.
