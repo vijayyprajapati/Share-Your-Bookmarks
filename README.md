@@ -32,7 +32,8 @@ A platform where anyone can make their profile, share their Twitter and LinkedIn
 <!-- - **Backend**: Node.js, Express.js -->
 - **IDE**: VS Code
 - **Version Control**: Git and GitHub
-#steps to follow
+- 
+##steps to follow
 ##1. Fork it 🍴
 You can get your own fork (copy) of [Share-Your-Bookmarks](https://github.com/vijayyprajapati/Share-Your-Bookmarks.git) by using the Fork button at the top right of this page.
 ![Fork Button](https://github-images.s3.amazonaws.com/help/bootcamp/Bootcamp-Fork.png)
