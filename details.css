@@ -1,11 +1,6 @@
 body {
   background-color: #121317;
 }
-ol li
-{
-  display: list-item;
-  list-style-position:inside;
-}
 .logo {
   width: fit-content;
   margin: auto;
@@ -110,7 +105,6 @@ ol li
 }
 
 .link:hover {
-  color: #090909;
   background-color: #d3ffe9;
 }
 
