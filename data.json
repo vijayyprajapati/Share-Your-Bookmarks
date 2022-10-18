@@ -40,7 +40,7 @@
       }
     ]
   },
-   {
+  {
     "name": "Pulak Tandon",
     "username": "pulaktandon",
     "bio": "Enthusiast",
@@ -505,31 +505,31 @@
       },
       {
         "linkedin": "https://www.linkedin.com/in/piyush-yadav-94b347207/"
-    
       }
-      {
-      "name": "Dakshesh Apkare",
-      "username": "Daksheshapkare",
-      "bio": "A beginner Web developer",
-      
-      "links" : [
-          "https://twitter.com/hacktoberfest?t=lqizwWrJSHW-AtAsvMdEgw&s=09"
-          "https://twitter.com/LeetCode?t=XQOAsnUHVHg3P2Xv5kmXHw&s=09"
-          "https://twitter.com/kunalstwt?t=zthg0x0hrKDdLYr3VFnbtA&s=09"
-          "https://youtu.be/VYQVlVoWoPY"
-          "https://youtu.be/Nckx9qMy_kw"
-      "social": [
-      {
-           "twitter": "htps://twitter.com/DaksheshApkare?t=BTpowy10Wsg0atN9-UPdBw&s=09"
-         },
-         {  "Github": "https://github.com/Daksheshapkare"
-         }
-           
-  ]
-}
-      
     ]
   },
+  {
+    "name": "Dakshesh Apkare",
+    "username": "Daksheshapkare",
+    "bio": "A beginner Web developer",
+
+    "links": [
+      "https://twitter.com/hacktoberfest?t=lqizwWrJSHW-AtAsvMdEgw&s=09",
+      "https://twitter.com/LeetCode?t=XQOAsnUHVHg3P2Xv5kmXHw&s=09",
+      "https://twitter.com/kunalstwt?t=zthg0x0hrKDdLYr3VFnbtA&s=09",
+      "https://youtu.be/VYQVlVoWoPY",
+      "https://youtu.be/Nckx9qMy_kw"
+    ],
+    "social": [
+      {
+        "twitter": "htps://twitter.com/DaksheshApkare?t=BTpowy10Wsg0atN9-UPdBw&s=09"
+      },
+      {
+        "linkedin": "https://github.com/Daksheshapkare"
+      }
+    ]
+  },
+
   {
     "name": "Sayan Nandy ",
     "username": "sayan3270",
@@ -631,7 +631,6 @@
     ]
   },
 
-
   {
     "name": "Shivam Sinha",
     "username": "Broly08",
@@ -642,7 +641,6 @@
       "https://www.youtube.com/watch?v=VMEXKJbsUmE&list=RDGtPvCa3vvxA&index=6&ab_channel=T-Series",
       "https://www.youtube.com/watch?v=Tnfs0MZsBBE&list=RDGtPvCa3vvxA&index=4&ab_channel=KaanPhodMusic",
       "https://www.youtube.com/watch?v=5-OqPhet-NU&list=RDGtPvCa3vvxA&index=8&ab_channel=AKSMusic4U"
-      
     ],
     "social": [
       {
@@ -650,9 +648,9 @@
       },
       {
         "linkedin": "www.linkedin.com/in/shivam-sinha-7abb721a3"
-       }
-       ]
-       },
+      }
+    ]
+  },
 
   {
     "name": "Piyush Kumar Das",
@@ -672,11 +670,10 @@
       },
       {
         "linkedin": "https://www.linkedin.com/in/piyush-k-das-943b901bb/"
-
       }
     ]
   },
-   {
+  {
     "name": "Abhimanyu Singh",
     "username": "DEVIL",
     "bio": "Programmer",
@@ -684,12 +681,10 @@
       "https://github.com/codecrafters-io/build-your-own-x",
       "https://www.youtube.com/watch?v=GtPvCa3vvxA&list=RDGtPvCa3vvxA&start_radio=1&ab_channel=T-Series",
       "https://www.youtube.com/watch?v=VMEXKJbsUmE&list=RDGtPvCa3vvxA&index=6&ab_channel=T-Series",
-        "https://www.instagram.com/p/CJ8CVk1Bvd8/?hl=en",
+      "https://www.instagram.com/p/CJ8CVk1Bvd8/?hl=en",
       "https://www.reddit.com/r/Art/comments/dhigop/day_job_me_acrylic_2019/?utm_source=share&utm_medium=web2x&context=3",
       "https://www.youtube.com/watch?v=jG7dSXcfVqE&list=FLy-J3Eu4L0pvq4hMZmygJ2w&index=12",
       "https://www.youtube.com/watch?v=276RZVt-SDk&list=FLy-J3Eu4L0pvq4hMZmygJ2w&index=28&t=12s"
-      
-      
     ],
     "social": [
       {
@@ -701,10 +696,10 @@
     ]
   },
   {
-    "name":"Krish Patel",
-    "username":"krishpatel2383",
-    "bio":"passionate Competitive Coder and java developer",
-    "links":[
+    "name": "Krish Patel",
+    "username": "krishpatel2383",
+    "bio": "passionate Competitive Coder and java developer",
+    "links": [
       "https://dev.to/suchitra_13/complete-roadmap-to-learn-data-structure-and-algorithms-1pka",
       "https://www.upgrad.com/blog/career-in-java/",
       "https://www.pepcoding.com/resources/online-java-foundation",
