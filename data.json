@@ -610,5 +610,23 @@
 
       }
     ]
+  },
+   {
+    "name": "Abhimanyu Singh",
+    "username": "DEVIL",
+    "bio": "Programmer",
+    "links": [
+      "https://github.com/codecrafters-io/build-your-own-x"
+      
+      
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/Abhimanyunarka5"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/abhimanyunaru/"
+      }
+    ]
   }
 ]
