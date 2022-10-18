@@ -656,5 +656,30 @@
         "linkedin": "https://www.linkedin.com/in/abhimanyunaru/"
       }
     ]
+  },
+  {
+    "name":"Krish Patel",
+    "username":"krishpatel2383",
+    "bio":"passionate Competitive Coder and java developer",
+    "links":[
+      "https://dev.to/suchitra_13/complete-roadmap-to-learn-data-structure-and-algorithms-1pka",
+      "https://www.upgrad.com/blog/career-in-java/",
+      "https://www.pepcoding.com/resources/online-java-foundation",
+      "https://youtu.be/cEBkvm0-rg0",
+      "https://youtu.be/lvgM39UgHbA",
+      "https://youtu.be/o1ZqBL9hJkA",
+      "https://youtu.be/eGguwYPC32I",
+      "https://www.instagram.com/reel/CitE1snDr5n/?utm_source=ig_web_copy_link",
+      "https://www.instagram.com/p/Ci_8ACapFCt/?utm_source=ig_web_copy_link",
+      "https://www.instagram.com/reel/CVhXuKzAUeu/?utm_source=ig_web_copy_link"
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/krishpatel_2383"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/krish-patel-32a2bb201/"
+      }
+    ]
   }
 ]
