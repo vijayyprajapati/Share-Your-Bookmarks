@@ -19,6 +19,27 @@
       }
     ]
   },
+  {
+    "name": "Samarth P",
+    "username": "samarth777",
+    "bio": "ARTIST | ASTROPHILE | DEVELOPER",
+
+    "links": [
+      "https://www.youtube.com/watch?v=LzFLDdWyaRI",
+      "https://www.youtube.com/watch?v=HnzExLwH2dI",
+      "https://www.youtube.com/watch?v=wqr01LRDw5Y",
+      "https://www.youtube.com/watch?v=onYRbdfwN2A",
+      "https://www.youtube.com/watch?v=bBv5q5REiGE"
+    ],
+    "social": [
+      {
+        "twitter": "your twitter/other handle here"
+      },
+      {
+        "linkedin": "your linkedin/other handle here"
+      }
+    ]
+  },
    {
     "name": "Pulak Tandon",
     "username": "pulaktandon",
