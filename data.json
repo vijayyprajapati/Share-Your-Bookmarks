@@ -719,5 +719,24 @@
         "linkedin": "https://www.linkedin.com/in/krish-patel-32a2bb201/"
       }
     ]
-  }
+  },
+  {
+    "name": "Tatwansh Jaiswal",
+    "username": "Storm Crasher TaJ",
+    "bio": "Learning something every second",
+
+    "links": [
+      "https://github.com/Tatwansh",
+      "https://www.youtube.com/c/eddiejaoude",
+      "https://www.linkedin.com/groups/25827/"
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/MeenuJaiswal15"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/tatwansh-j-232757217/"
+      }
+    ]
+  },
 ]
