@@ -218,7 +218,10 @@
     "name": "Aditya Shekhar",
     "username": "adishekh",
     "bio": "Ethical Hacker",
-    "links": ["https://twitter.com/naval/status/1002103360646823936"],
+    "links": ["https://twitter.com/naval/status/1002103360646823936",
+              "https://twitter.com/SystemSunday/status/1563865370003374080?s=20&t=GI7CFU4gmYAw8giOsKYDIw",
+               "https://twitter.com/neembu_paani31/status/1560879159043584001?s=20&t=GI7CFU4gmYAw8giOsKYDIw"             
+             ],
     "social": [
       {
         "twitter": "https://twitter.com/adishekh"
