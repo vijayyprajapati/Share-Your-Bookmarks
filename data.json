@@ -19,6 +19,22 @@
       }
     ]
   },
+   {
+    "name": "Pulak Tandon",
+    "username": "pulaktandon",
+    "bio": "Enthusiast",
+    "links": [
+      "https://twitter.com/frontendilia/status/1529103411882381312"
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/pulaktandon"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/pulak-tandon-9a9620214/"
+      }
+    ]
+  },
   {
     "name": "Anant Dubey ",
     "username": "dubeyanant",
