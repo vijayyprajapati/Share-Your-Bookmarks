@@ -60,6 +60,22 @@
     ]
   },
   {
+    "name": "Bhaskar Gupta",
+    "username": "bgupta301",
+    "bio": "Exploring UI and Designer",
+
+    "links": [
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/bgupta_301"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/bgupta301/"
+      }
+    ]
+  },
+  {
     "name": "Mahendra Chaudhari",
     "username": "mahendra4312",
     "bio": "Web Developer & ML engineer",
