@@ -700,6 +700,20 @@
       },
       {
         "linkedin": "https://www.linkedin.com/in/krish-patel-32a2bb201/"
+      },
+      {
+        "name":"Max M",
+        "username":"nightshadetvn",
+        "bio":"boring person with a boring personality, student that codes for fun",
+        "links":[
+          "https://github.com/DeltaWither/Qwarzu-botto",
+          "https://github.com/nightshadetvn"
+        ],
+        "social": [
+          {
+            "twitter":"https://twitter.com/RudyNanahira"
+          }
+        ]
       }
     ]
   }
