@@ -218,14 +218,15 @@
     "name": "Aditya Shekhar",
     "username": "adishekh",
     "bio": "Ethical Hacker",
-    "links": ["https://twitter.com/naval/status/1002103360646823936",
-              "https://twitter.com/SystemSunday/status/1563865370003374080?s=20&t=GI7CFU4gmYAw8giOsKYDIw",
-               "https://twitter.com/neembu_paani31/status/1560879159043584001?s=20&t=GI7CFU4gmYAw8giOsKYDIw",
-              "https://twitter.com/neembu_paani31/status/1560879159043584001?s=20&t=GI7CFU4gmYAw8giOsKYDIw",
-      "https://twitter.com/ChrisStaud/status/1547453276798570496?s=20&t=GI7CFU4gmYAw8giOsKYDIw" ,
-             "https://twitter.com/naval/status/1002103360646823936",
+    "links": [
+      "https://twitter.com/naval/status/1002103360646823936",
+      "https://twitter.com/SystemSunday/status/1563865370003374080?s=20&t=GI7CFU4gmYAw8giOsKYDIw",
+      "https://twitter.com/neembu_paani31/status/1560879159043584001?s=20&t=GI7CFU4gmYAw8giOsKYDIw",
+      "https://twitter.com/neembu_paani31/status/1560879159043584001?s=20&t=GI7CFU4gmYAw8giOsKYDIw",
+      "https://twitter.com/ChrisStaud/status/1547453276798570496?s=20&t=GI7CFU4gmYAw8giOsKYDIw",
+      "https://twitter.com/naval/status/1002103360646823936",
       "https://www.youtube.com/watch?v=jG7dSXcfVqE&list=FLy-J3Eu4L0pvq4hMZmygJ2w&index=12"
-             ],
+    ],
     "social": [
       {
         "twitter": "https://twitter.com/adishekh"
@@ -565,6 +566,7 @@
     ]
   },
 
+
   {
     "name": "Shivam Sinha",
     "username": "Broly08",
@@ -583,6 +585,29 @@
       },
       {
         "linkedin": "www.linkedin.com/in/shivam-sinha-7abb721a3"
+       }
+       ]
+       },
+
+  {
+    "name": "Piyush Kumar Das",
+    "username": "piyushkdas0611",
+    "bio": "Loves compitetive coding, CTFs and open source contributions",
+
+    "links": [
+      "https://twitter.com/codek_tv/status/1579284659456081921",
+      "https://twitter.com/KiranParmar1255/status/1582196136592691200",
+      "https://twitter.com/pragyanatvade/status/1581811804392812544",
+      "https://twitter.com/Innov_Inf/status/1580445731625861120",
+      "https://twitter.com/thefarooqii/status/1582333168496959490"
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/Piyush_k_das"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/piyush-k-das-943b901bb/"
+
       }
     ]
   }
