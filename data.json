@@ -565,6 +565,30 @@
       }
     ]
   },
+
+
+  {
+    "name": "Shivam Sinha",
+    "username": "Broly08",
+    "bio": "I am oprn to contribute.",
+
+    "links": [
+      "https://www.youtube.com/watch?v=GtPvCa3vvxA&list=RDGtPvCa3vvxA&start_radio=1&ab_channel=T-Series",
+      "https://www.youtube.com/watch?v=VMEXKJbsUmE&list=RDGtPvCa3vvxA&index=6&ab_channel=T-Series",
+      "https://www.youtube.com/watch?v=Tnfs0MZsBBE&list=RDGtPvCa3vvxA&index=4&ab_channel=KaanPhodMusic",
+      "https://www.youtube.com/watch?v=5-OqPhet-NU&list=RDGtPvCa3vvxA&index=8&ab_channel=AKSMusic4U"
+      
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/BrolyOO"
+      },
+      {
+        "linkedin": "www.linkedin.com/in/shivam-sinha-7abb721a3"
+       }
+       ]
+       },
+
   {
     "name": "Piyush Kumar Das",
     "username": "piyushkdas0611",
@@ -583,6 +607,7 @@
       },
       {
         "linkedin": "https://www.linkedin.com/in/piyush-k-das-943b901bb/"
+
       }
     ]
   }
