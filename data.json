@@ -505,7 +505,29 @@
       },
       {
         "linkedin": "https://www.linkedin.com/in/piyush-yadav-94b347207/"
+    
       }
+      {
+      "name": "Dakshesh Apkare",
+      "username": "Daksheshapkare",
+      "bio": "A beginner Web developer",
+      
+      "links" : [
+          "https://twitter.com/hacktoberfest?t=lqizwWrJSHW-AtAsvMdEgw&s=09"
+          "https://twitter.com/LeetCode?t=XQOAsnUHVHg3P2Xv5kmXHw&s=09"
+          "https://twitter.com/kunalstwt?t=zthg0x0hrKDdLYr3VFnbtA&s=09"
+          "https://youtu.be/VYQVlVoWoPY"
+          "https://youtu.be/Nckx9qMy_kw"
+      "social": [
+      {
+           "twitter": "htps://twitter.com/DaksheshApkare?t=BTpowy10Wsg0atN9-UPdBw&s=09"
+         },
+         {  "Github": "https://github.com/Daksheshapkare"
+         }
+           
+  ]
+}
+      
     ]
   },
   {
