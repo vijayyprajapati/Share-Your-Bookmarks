@@ -707,11 +707,18 @@
         "bio":"boring person with a boring personality, student that codes for fun",
         "links":[
           "https://github.com/DeltaWither/Qwarzu-botto",
-          "https://github.com/nightshadetvn"
+          "https://github.com/nightshadetvn",
+          "https://github.com/nightshadetvn/MaciejOS",
+          "https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/pull/4884",
+          "https://scarpi.pl"
+
         ],
         "social": [
           {
             "twitter":"https://twitter.com/RudyNanahira"
+          },
+          {
+            "linkedin": "https://ca.linkedin.com/in/max-mlynarczyk"
           }
         ]
       }
