@@ -15,8 +15,8 @@ ol li::marker
   margin: auto;
 }
 .top-img{
-  height: 150px;
-  width: 150px;
+  height: 100px;
+  width: 100px;
   margin-top: 1%;
   margin-left: 1%;
   cursor: pointer;
