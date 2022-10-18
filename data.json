@@ -80,6 +80,25 @@
     ]
   },
   {
+    "name": "Sanjay",
+    "username": "sanjayk0508",
+    "bio": "Front-end developer & UI/UX Designer",
+    "links": [
+      "https://twitter.com/omarsar0/status/1582010269207007232",
+      "https://twitter.com/Momentswithbren/status/1574075649362370562",
+      "https://twitter.com/omarsar0/status/1547950844347162624",   
+      "https://twitter.com/subhashchy/status/1536769360844361729"
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/Sanjay_0508"
+      },
+      {
+        "linkedin": "https://in.linkedin.com/in/sanjay-kumar-86a88421a"
+      }
+    ]
+  },
+  {
     "name": "Piyush Kumar",
     "username": "devocoe",
     "bio": "Programmer",
