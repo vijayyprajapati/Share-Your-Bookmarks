@@ -1331,6 +1331,29 @@
       ]
     },
   
+    {
+      "name": "Max Mlynarczyk",
+      "username": "nightshadetvn",
+      "bio": "boring person with a boring personality, student that codes for fun",
+  
+      "links": [
+        "https://github.com/DeltaWither/Qwarzu-botto",
+        "https://github.com/nightshadetvn",
+        "https://github.com/nightshadetvn/MaciejOS",
+        "https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/pull/4884",
+        "https://scarpi.pl"
+        
+      ],
+      "social": [
+        {
+          "twitter": "https://twitter.com/RudyNanahira"
+        },
+        {
+          "linkedin": "www.ca.linkedin.com/in/max-mlynarczyk"
+         }
+         ]
+         },
+  
   
     {
       "name": "Shivam Sinha",
@@ -1422,27 +1445,6 @@
         },
         {
           "linkedin": "https://www.linkedin.com/in/krish-patel-32a2bb201/"
-        },
-        {
-          "name":"Max M",
-          "username":"nightshadetvn",
-          "bio":"boring person with a boring personality, student that codes for fun",
-          "links":[
-            "https://github.com/DeltaWither/Qwarzu-botto",
-            "https://github.com/nightshadetvn",
-            "https://github.com/nightshadetvn/MaciejOS",
-            "https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/pull/4884",
-            "https://scarpi.pl"
-  
-          ],
-          "social": [
-            {
-              "twitter":"https://twitter.com/RudyNanahira"
-            },
-            {
-              "linkedin": "https://ca.linkedin.com/in/max-mlynarczyk"
-            }
-          ]
         }
       ]
     }
