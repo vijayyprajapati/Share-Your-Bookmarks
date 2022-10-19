@@ -825,5 +825,27 @@
         "linkedin": "https://www.linkedin.com/in/tenzin-lekshey-66120a211/"
       }
     ]
+  },
+  
+  {
+    "name": "muhammad rizky r",
+    "username": "script000kiddies000",
+    "bio": "A passionate VA/PT",
+
+    "links": [
+      "https://portswigger.net/web-security/all-labs",
+      "https://tryhackme.com/room/burpsuitebasics",
+      "https://app.hackthebox.com/",
+      "https://hacktrace-ranges.id/",
+      "https://t.me/ctfbersama"
+    ],
+    "social": [
+      {
+        "twitter": "xxxx"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/muhammad-rizky-rahmattullah/"
+      }
+    ]
   }
 ]
