@@ -39,6 +39,32 @@
 
   },
   {
+    "name": "Ashish Khare",
+    "username": "hugekontrast",
+    "bio": "I dive faster than average.",
+
+    "links": [
+      "https://bio.link/ashishk",
+      "https://twitter.com/archillect/status/1546140862270283779",
+      "https://twitter.com/verge/status/1560606190996017153",
+      "https://twitter.com/FrameworkPuter/status/1565161695454015489",
+      "https://twitter.com/siddharthkp/status/1571779293507719171",
+      "https://twitter.com/github/status/1574149750370308100",
+      "https://twitter.com/realpython/status/1579668118888058880",
+      "https://twitter.com/Hacksterio/status/1579610914411917315",
+      "https://twitter.com/supabase/status/1580590965605036034",
+      "https://twitter.com/kepano/status/1515772098530095104"
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/AshishK133"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/ashish-khare-84a16a199/"
+      }
+    ]
+  },
+  {
     "name": "Vijay Kumar Prajapati ",
     "username": "vijayyprajapati",
     "bio": "Web Developer",
