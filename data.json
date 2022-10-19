@@ -739,5 +739,26 @@
         "linkedin": "https://www.linkedin.com/in/krish-patel-32a2bb201/"
       }
     ]
+  },
+
+  {
+    "name": "Tenzin Lekshey",
+    "username": "Tenzin",
+    "bio": "A passionate Web Developer",
+    "links": [
+      "https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html",
+      "https://jovian.ai/learn/data-structures-and-algorithms-in-python?enroll=t",
+      "https://betterexplained.com/",
+      "https://pfpmaker.com/",
+      "https://www.photopea.com/"
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/Tenzin47790731"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/tenzin-lekshey-66120a211/"
+      }
+    ]
   }
 ]
