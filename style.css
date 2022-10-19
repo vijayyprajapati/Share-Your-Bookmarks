@@ -15,7 +15,6 @@ body {
   width: min(800px, 90%);
   border-radius: 8px;
   margin-inline: auto;
-  margin-top: 50px;
   padding: 24px;
 }
 .main-header p {
@@ -220,4 +219,23 @@ a:hover {
 
 main .showData .singlePerson button:hover {
   border: 2px solid #0080ff;
+}
+
+nav{
+  height: 8vh;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+nav > a {
+  margin-right: 2rem;
+}
+
+nav > a :hover{
+  color: white;
+}
+
+.fa-github{
+  font-size: 1.5rem;
 }
