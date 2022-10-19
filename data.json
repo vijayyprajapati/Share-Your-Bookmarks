@@ -800,4 +800,26 @@
       }
     ]
   }
+
+  {
+    "name": "Ayush Shrotriya",
+    "username": "ayushsgit",
+    "bio": "Keen Programmer",
+
+    "links": [
+      "https://twitter.com/I_saloni92/status/1582083399434768385?t=rsNCq7L7tZHse34vkLGVUg&s=19",
+      "https://twitter.com/TessaRDavis/status/1579089091848966144?t=atl9ZDYj_UXgFN-Sk7udVA&s=19",
+      "https://twitter.com/ujjwalscript/status/1581913694086213632?t=GnvSesLGY3GCOvQ8ZoWj1A&s=19",
+      "https://twitter.com/Eng_khairallah1/status/1582016357163421696?t=ZMCbOwOmtApQoedWRCWpoQ&s=19",
+      "https://twitter.com/im_niteshy/status/1582338985489477632"
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/Ayushsstwt"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/"
+      }
+    ]
+  }
 ]
