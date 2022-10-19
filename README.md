@@ -1,49 +1,40 @@
+# Share-Your-Bookmark
+
 <div align="center"> <img align="center" alt="dschackfest" src="https://user-images.githubusercontent.com/84925346/193271219-6360d311-ea13-42eb-8822-4ec2fd854ee5.jpeg" height='300' width='700'></div>
 
-<!-- <div>
-    <img align=top src="https://miro.medium.com/max/1400/1*c4YgRXYQayOVWxV37ourrw.png" height="100" width="50%"/>
-    <img align=top src="https://res.cloudinary.com/de4by5q8o/image/upload/v1633197681/hackfest2021_ocjn5n.svg" height="100" width="49%"/>
-<div>
-<br> -->
+<br>
 
-<!-- ## Table of Content
+This is a simple a platform where anyone can make their profile and share it with others. Within your profile, you can add links to your social media links like Twitter and LinkedIn additional to that, You can also see other people's bookmarks.
 
-- [Table of Content](#table-of-content)
-- [Share Your Bookmark Description](#share-your-bookmark)
-- [Technology Stack Used](#technology-stack-used)
-- [steps to follow to contribute](#steps-to-follow-to-contribute)
-- [Our Contributors](#our-contributors--✨t)
-- [License](#license) -->
-
-## Share-Your-Bookmark:
-
-A platform where anyone can make their profile, share their Twitter and LinkedIn bookmarks, see other shared bookmarks, and contribute to the community.
-
-#### Website for this repository : <https://share-your-bookmarks.netlify.app/>
+Check out the live demo [here](https://share-your-bookmarks.netlify.app/>)!
 
 ## Technology Stack used:
 
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-
-<!-- <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>  <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/> -->
-
- <!-- <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/> <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/> -->
 
 - **Frontend**: HTML5, CSS3, JavaScript
 <!-- - **Backend**: Node.js, Express.js -->
 - **IDE**: [Visual Studio Code](https://code.visualstudio.com/download)
 - **Version Control**: [Git](https://git-scm.com/downloads) and [GitHub](https://git-scm.com/downloads)
 
-## Steps to Contribute
+## How to Contribute 🤔
 
-1. **Fork** this repository by clicking on the fork button on the upper right corner.
-2. **Clone** the repo by typing this command in your command prompt or git bash:
+- Take a look at the Existing [Issues](https://github.com/vijayyprajapati/Share-Your-Bookmarks/issues) or create your own Issues!
+- Wait for the Issue to be assigned to you after which you can start working on it.
+- Fork the Repo by clicking on the Fork Button on the top right corner of the page. This will create a copy of this repository in your account.
+- Clone the Repo by running the following command on your terminal:
 
+```bash
+git clone 'repository-url'
 ```
-git clone git@github.com:<your_github_username_here>/Share-Your-Bookmarks.git
+
+- Create a branch by running the following command on your terminal:
+
+```bash
+git checkout -b 'branch-name'
 ```
 
-3. **Edit** `data.json` file in your favourite code editor by pasting this code at the end of the array. See others code for reference.
+- Make the necessary changes in the repository. In this case, you can add your bookmarks using the format below:
 
 ```json
 {
@@ -69,19 +60,34 @@ git clone git@github.com:<your_github_username_here>/Share-Your-Bookmarks.git
   },
 ```
 
-4. Type these commands in your cmd/git bash to **stage, commit and push** the changes in your cloned repo.
+- Add the changes to the branch you've just created by running the following command on your terminal:
 
-```
-git stage .
-git commit -m "your message"
-git push origin master
+```bash
+git add .
 ```
 
-5. Now, **create and submit a pull request** by clicking on Contribute button on your GitHub repo. But, first be sure to fetch and merge the upstream from the original repo by clicking on Sync fork > Update branch button.
+- Commit the changes by running the following command on your terminal:
 
-## Our Contributors !! ✨
+```bash
+git commit -m "commit-message"
+```
 
-### Thanks to these wonderful people: ✨
+- Push the changes to GitHub by running the following command on your terminal: But, first be sure to fetch and merge the upstream from the original repo by clicking on Sync fork > Update branch button.
+
+```bash
+git push origin 'branch-name'
+```
+
+- Create a Pull Request by clicking on the `Create Pull Request` button on the repository page.
+
+- Add appropriate title and description to your Pull Request explaining your changes.
+- Click on `Create Pull Request` button.
+
+- Congratulations! 🎉 Sit and relax, you've made your contribution to [Share-Your-Bookmark](https://github.com/vijayyprajapati/Share-Your-Bookmarks) project.
+
+## Contributors ✨
+
+Thanks to these wonderful people: ✨
 
 <table>
 	<tr>
