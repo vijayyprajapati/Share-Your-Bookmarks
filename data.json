@@ -715,6 +715,28 @@
       }
     ]
   },
+  
+  {
+    "name": "ANIKET SINHA",
+    "username": "aniketsinha2002",
+    "bio": "A Web3 and cloud enthuist | Web Developer by Passion | Love to Explore",
+
+    "links": [
+      "https://twitter.com/freeCodeCamp/status/1576920253380034563",
+      "https://twitter.com/dazalexf1/status/1579482474681597952",
+      "https://twitter.com/FeniksTVx/status/1578990477860540417",
+      "https://twitter.com/FabrizioRomano/status/1580127728530903040",
+      "https://twitter.com/Momentswithbren/status/1574075649362370562"
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/aniketsinha2002"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/aniketsinha2002/"
+         }
+    ]
+  },
 
   {
     "name": "Shivam Sinha",
@@ -871,3 +893,5 @@
   }
 
 ]
+
+
