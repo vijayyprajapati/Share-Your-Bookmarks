@@ -940,5 +940,25 @@
         "linkedin": "https://www.linkedin.com/in/ashish-kumar-sharma-533025204/"
       }
     ]
+  },
+  {
+    "name": "Yentl Hendrickx",
+    "username": "YentlHendrickx",
+    "bio": "Application Development Student @ Thomas More Geel, Belgium",
+
+    "links": [
+      "https://yentl.sinners.be/",
+      "https://cryptotracker.sinners.be/",
+      "https://github.com/YentlHendrickx",
+      "https://www.facebook.com/ToegepasteInformatica.ThomasMoreBE/"
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/hendrickx_yentl"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/yentl-hendrickx-3a3533223/"
+      }
+    ]
   }
 ]
