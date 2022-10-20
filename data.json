@@ -1127,6 +1127,27 @@
         "linkedin": "https://www.linkedin.com/in/shreejamehta/"
       }
     ]
-  }
+  },
+  {
+    "name": "Zainab Ibraheem",
+    "username": "zainab_ibraheem",
+    "bio": "Data Scientist",
+
+    "links": [
+      "https://www.postgresql.org/docs/8.1/functions-string.html",
+      "https://students.yourlearning.ibm.com/activity/PLAN-443005DC2436",
+      "https://www.epa.gov/compliance-and-fuel-economy-data/data-cars-used-testing-fuel-economy",
+      "https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-2-elimination-with-matrices/",
+      "https://aws-discussions.udacity.com/top?period=weekly"
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/IbraheemZainab4"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/zainab-ibraheem-494206185/"
+      }
+    ]
+  },
 
 ]
