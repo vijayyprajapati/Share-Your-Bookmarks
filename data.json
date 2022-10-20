@@ -1039,5 +1039,26 @@
         "linkedin": "https://www.linkedin.com/in/gopivaibhav"
       }
     ]
+  },
+  {
+    "name": "Akshat Khandelwal",
+    "username": "AkshatK1",
+    "bio": "Java and Android Developer",
+
+    "links": [
+      "https://developer.android.com/docs",
+      "https://www.youtube.com/c/KunalKushwaha",
+      "https://www.youtube.com/watch?v=uPEflEXJec4",
+      "https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ",
+      "https://www.udacity.com/courses/all?price=Free"
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/MaelstromWhirl"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/akshatk1/"
+      }
+    ]
   }
 ]
