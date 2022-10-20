@@ -1062,6 +1062,7 @@
     ]
   },
   {
+
     "name": "Pronajit Dey",
     "username": "PronajitDey",
     "bio": "AOTian | Explorer 🤠🚀 | Web Developer 👨‍💻",
@@ -1082,4 +1083,29 @@
       }
     ]
   },
+{
+    "name": "Bhai Tabahi",
+    "username": "bhaitabahi786",
+    "bio": "Ethical Hacker",
+
+    "links": [
+      "https://github.com/CyberSecurityUP/Awesome-Red-Team-Operations",
+      "https://github.com/JohnHammond/ctf-katana",
+      "https://skillsforall.com/career-path/cybersecurity",
+      "https://gowthams.gitbook.io/bughunter-handbook/",
+      "https://github.com/thezakman/CTF-Heaven",
+      "https://requestcatcher.com/",
+      "https://www.rangeforce.com/",
+      "https://natlas.io/"
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/bhai_tabahi_786"
+      },
+      {
+        "linkedin": "your linkedin/other handle here"
+      }
+    ]
+  }
+
 ]
