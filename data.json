@@ -424,6 +424,26 @@
     ]
   },
   {
+    "name": "Felipe Fama",
+    "username": "FelipeFama",
+    "bio": "Web Developer",
+    "links": [
+      "https://github.com/florinpop17/app-ideas",
+      "https://github.com/thedaviddias/Front-End-Checklist",
+      "https://www.linkedin.com/company/codingame/",
+      "https://www.linkedin.com/company/exercism/",
+      "https://www.linkedin.com/company/codewars/"
+    ],
+    "social": [
+      {
+        "twitter": "https://www.instagram.com/lipeh.fama.dev/"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/felipe-fama/"
+      }
+    ]
+  },
+  {
     "name": "Popper ",
     "username": "poppins",
     "bio": "Web Developer",
