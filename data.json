@@ -1003,6 +1003,7 @@
     ]
   },
   {
+
     "name": "Jayshree Tundele",
     "username": "jayshreetundele",
     "bio": "Designer",
@@ -1020,6 +1021,27 @@
       },
       {
         "linkedin": "https://www.linkedin.com/in/jayshree-tundele-00a527206/"
+        }
+        ]
+        },
+
+    "name": "Gopi Vaibhav",
+    "username": "gopivaibhav",
+    "bio": "Full Stack web developer with Django and MERN stack",
+
+    "links": [
+      "https://github.com/MunGell/awesome-for-beginners",
+      "https://github.com/vijayyprajapati/Share-Your-Bookmarks",
+      "https://hacktoberfest.com/",
+      "https://www.youtube.com/watch?v=BddP6PYo2gs&list=RDvJQMhj6WYZA&index=6"
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/gopi_vaibhav"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/gopivaibhav"
+
       }
     ]
   }
