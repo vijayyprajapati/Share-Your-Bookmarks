@@ -1127,6 +1127,27 @@
         "linkedin": "https://www.linkedin.com/in/shreejamehta/"
       }
     ]
+  },
+  {
+    "name": "Sukarayam Janjua",
+    "username": "SukarayamJanjua",
+    "bio": "Student Web-Game-3D developer",
+
+    "links": [
+      "https://github.com/SukarayamJanjua",
+      "https://www.commclassroom.org/android-roadmap",
+      "https://www.youtube.com/c/Brackeys",
+      "https://learn.unity.com/",
+      "https://github.com/freeCodeCamp/freeCodeCamp"
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/sukarayam"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/sukarayam-janjua/"
+      }
+    ]
   }
 
 ]
