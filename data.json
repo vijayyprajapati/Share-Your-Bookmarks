@@ -1,48 +1,28 @@
 [
   {
-
     "name": "Ajitkumar Sharma ",
-
     "username": "Ajit619",
-
     "bio": "Web Developer",
-
     "links": [
-
       "https://www.linkedin.com/in/ajitkumar-sharma-72b2101bb",
-
       "https://www.linkedin.com/in/ajitkumar-sharma-72b2101bb",
-
       "https://www.linkedin.com/in/ajitkumar-sharma-72b2101bb",
-
       "https://www.linkedin.com/in/ajitkumar-sharma-72b2101bb",
-
       "https://www.linkedin.com/in/ajitkumar-sharma-72b2101bb"
-
     ],
-
     "social": [
-
       {
-
         "linkedin": "https://www.linkedin.com/in/ajitkumar-sharma-72b2101bb"
-
       },
-
       {
-
         "linkedin": "https://www.linkedin.com/in/ajitkumar-sharma-72b2101bb"
-
       }
-
     ]
-
   },
   {
     "name": "Ashish Khare",
     "username": "hugekontrast",
     "bio": "I dive faster than average.",
-
     "links": [
       "https://bio.link/ashishk",
       "https://twitter.com/archillect/status/1546140862270283779",
@@ -88,7 +68,6 @@
     "name": "Samarth P",
     "username": "samarth777",
     "bio": "ARTIST | ASTROPHILE | DEVELOPER",
-
     "links": [
       "https://www.youtube.com/watch?v=LzFLDdWyaRI",
       "https://www.youtube.com/watch?v=HnzExLwH2dI",
@@ -287,7 +266,6 @@
     "name": "Pranjal Agarwal",
     "username": "Pranjal360Agarwal",
     "bio": "Passionate Competitive Programmer and a Web Developer",
-
     "links": [
       "https://github.com/codingforentrepreneurs",
       "https://github.com/charles-wangkai/codechef",
@@ -597,7 +575,6 @@
     "name": "Dakshesh Apkare",
     "username": "Daksheshapkare",
     "bio": "A beginner Web developer",
-
     "links": [
       "https://twitter.com/hacktoberfest?t=lqizwWrJSHW-AtAsvMdEgw&s=09",
       "https://twitter.com/LeetCode?t=XQOAsnUHVHg3P2Xv5kmXHw&s=09",
@@ -614,7 +591,6 @@
       }
     ]
   },
-
   {
     "name": "Sayan Nandy ",
     "username": "sayan3270",
@@ -715,12 +691,10 @@
       }
     ]
   },
-  
   {
     "name": "ANIKET SINHA",
     "username": "aniketsinha2002",
     "bio": "A Web3 and cloud enthuist | Web Developer by Passion | Love to Explore",
-
     "links": [
       "https://twitter.com/freeCodeCamp/status/1576920253380034563",
       "https://twitter.com/dazalexf1/status/1579482474681597952",
@@ -734,15 +708,13 @@
       },
       {
         "linkedin": "https://www.linkedin.com/in/aniketsinha2002/"
-         }
+      }
     ]
   },
-
   {
     "name": "Shivam Sinha",
     "username": "Broly08",
     "bio": "I am oprn to contribute.",
-
     "links": [
       "https://www.youtube.com/watch?v=GtPvCa3vvxA&list=RDGtPvCa3vvxA&start_radio=1&ab_channel=T-Series",
       "https://www.youtube.com/watch?v=VMEXKJbsUmE&list=RDGtPvCa3vvxA&index=6&ab_channel=T-Series",
@@ -758,12 +730,10 @@
       }
     ]
   },
-
   {
     "name": "Piyush Kumar Das",
     "username": "piyushkdas0611",
     "bio": "Loves compitetive coding, CTFs and open source contributions",
-
     "links": [
       "https://twitter.com/codek_tv/status/1579284659456081921",
       "https://twitter.com/KiranParmar1255/status/1582196136592691200",
@@ -827,12 +797,10 @@
       }
     ]
   },
-
   {
     "name": "Tatwansh Jaiswal",
     "username": "Storm Crasher TaJ",
     "bio": "Learning something every second",
-
     "links": [
       "https://github.com/Tatwansh",
       "https://www.youtube.com/c/eddiejaoude",
@@ -847,8 +815,6 @@
       }
     ]
   },
-
-
   {
     "name": "Tenzin Lekshey",
     "username": "Tenzin",
@@ -869,13 +835,10 @@
       }
     ]
   },
-
-  
   {
     "name": "muhammad rizky r",
     "username": "script000kiddies000",
     "bio": "A passionate VA/PT",
-
     "links": [
       "https://portswigger.net/web-security/all-labs",
       "https://tryhackme.com/room/burpsuitebasics",
@@ -890,6 +853,7 @@
       {
         "linkedin": "https://www.linkedin.com/in/muhammad-rizky-rahmattullah/"
       }
+
       ]
       },
   
@@ -914,11 +878,12 @@
       ]
       },
   
+
+
   {
     "name": "Ayush Shrotriya",
     "username": "ayushsgit",
     "bio": "Keen Programmer",
-
     "links": [
       "https://twitter.com/I_saloni92/status/1582083399434768385?t=rsNCq7L7tZHse34vkLGVUg&s=19",
       "https://twitter.com/TessaRDavis/status/1579089091848966144?t=atl9ZDYj_UXgFN-Sk7udVA&s=19",
@@ -932,11 +897,26 @@
       },
       {
         "linkedin": "https://www.linkedin.com/in/"
-
+      }
+    ]
+  },
+  {
+    "name": "Viveena",
+    "username": "viveena30",
+    "bio": "Hi, I am a web developer",
+    "links": [
+      "https://viveena.netlify.app/",
+      "https://artbyviveena.wordpress.com/2021/10/08/stay-strong/",
+      "https://www.instagram.com/palette_point/",
+      "https://www.instagram.com/viveenarathi_"
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/viveenaa"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/viveena-rathi-8977a6205/"
       }
     ]
   }
-
 ]
-
-
