@@ -186,6 +186,26 @@
     ]
   },
   {
+    "name": "Krishna Sahu",
+    "username": "krishna120801",
+    "bio": "Associate cloud Engineer",
+    "links": [
+      "https://itnext.io/gcp-command-line-cheatsheet-5e4434ca2c84#05b7",
+      "https://medium.com/gowthamlabs/google-cloud-associate-engineer-notes-gcp-ace-8d2260cb3882",
+      "https://blog.economize.cloud/how-to-use-google-cloud-shell/",
+      "https://faun.pub/google-cloud-cli-commands-d97c0ff8c99a",
+      "https://medium.com/swlh/10-things-you-should-know-about-tuples-in-python-b71189bdba1f"
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/ksahuS5o5"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/krishna120801"
+      }
+    ]
+  },
+  {
     "name": "Piyush Kumar",
     "username": "devocoe",
     "bio": "Programmer",
