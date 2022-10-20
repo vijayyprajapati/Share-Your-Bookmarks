@@ -1,6 +1,9 @@
 body {
   background-color: #121317;
 }
+h1, span, p, a, div {
+  font-family: "Poppins", sans-serif;
+}
 ol li::marker
 {
   color:#58afd1;
