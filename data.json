@@ -918,5 +918,27 @@
         "linkedin": "https://www.linkedin.com/in/viveena-rathi-8977a6205/"
       }
     ]
+  },
+  
+  {
+    "name": "Ashish Kumar Sharma",
+    "username": "AshishSharma1203",
+    "bio": "Btech '24 at NIT-Allahabad. Web Developer , Learning DSA",
+
+    "links": [
+      "https://github.com/cncf/mentoring",
+      "https://github.com/freeCodeCamp/freeCodeCamp",
+      "https://github.com/kunal-kushwaha/DevOps-Bootcamp",
+      "https://github.com/novuhq/novu",
+      "https://github.com/jina-ai/jina"
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/_Ashish_AA"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/ashish-kumar-sharma-533025204/"
+      }
+    ]
   }
 ]
