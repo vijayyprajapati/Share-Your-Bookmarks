@@ -1127,6 +1127,29 @@
         "linkedin": "https://www.linkedin.com/in/shreejamehta/"
       }
     ]
+  },
+  {
+    "name": "Pratap Parui",
+    "username": "pratap360",
+    "bio": "Frontend Developer 👨🏻‍💻 | ✨Graphic Designer | Blogger ✍",
+
+    "links": [
+      "https://www.mrparuiweb.dev/",
+      "https://pratapparui.bio.link/",
+      "https://github.com/pratap360/MyToolKits",
+      "https://medium.com/@Parui_Pratap",
+      "https://www.patatap.com/",
+      "https://venge.io/",
+      "https://www.discudemy.com/"
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/parui_pratap"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/pratap-parui-mr-sumbuddy/"
+      }
+    ]
   }
 
 ]
