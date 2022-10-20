@@ -1106,6 +1106,27 @@
         "linkedin": "your linkedin/other handle here"
       }
     ]
+  },
+  {
+    "name": "Shreeja Mehta",
+    "username": "Shreeja_Mehta",
+    "bio": "Full Stack web developer(MERN Stack)",
+
+    "links": [
+      "https://twitter.com/prathkum/status/1577694853504327680?s=21&t=fs059n8yrnTHOM1ISEtOfg",
+      "https://twitter.com/insharamin/status/1572110852853010432?s=21&t=fs059n8yrnTHOM1ISEtOfg",
+      "https://twitter.com/prathkum/status/1562857375308005377?s=21&t=fs059n8yrnTHOM1ISEtOfg",
+      "https://twitter.com/ujjwalscript/status/1560115594640310272?s=21&t=fs059n8yrnTHOM1ISEtOfg",
+      "https://twitter.com/prathkum/status/1554152843556290561?s=21&t=fs059n8yrnTHOM1ISEtOfg"
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/shreeja_mehta"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/shreejamehta/"
+      }
+    ]
   }
 
 ]
