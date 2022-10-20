@@ -1003,6 +1003,28 @@
     ]
   },
   {
+
+    "name": "Jayshree Tundele",
+    "username": "jayshreetundele",
+    "bio": "Designer",
+
+    "links": [
+      "https://www.shapedivider.app/",
+      "https://sitesee.co/",
+      "https://unblast.com/",
+      "https://www.checklist.design/",
+      "https://bestwebsite.gallery/sites"
+    ],
+    "social": [
+      {
+        "twitter": "#"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/jayshree-tundele-00a527206/"
+        }
+        ]
+        },
+
     "name": "Gopi Vaibhav",
     "username": "gopivaibhav",
     "bio": "Full Stack web developer with Django and MERN stack",
@@ -1019,6 +1041,7 @@
       },
       {
         "linkedin": "https://www.linkedin.com/in/gopivaibhav"
+
       }
     ]
   }
