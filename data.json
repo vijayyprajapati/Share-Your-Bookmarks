@@ -1060,5 +1060,26 @@
         "linkedin": "https://www.linkedin.com/in/akshatk1/"
       }
     ]
-  }
+  },
+  {
+    "name": "Pronajit Dey",
+    "username": "PronajitDey",
+    "bio": "AOTian | Explorer 🤠🚀 | Web Developer 👨‍💻",
+
+    "links": [
+      "https://twitter.com/mdjunaidap/status/1564491922298871808?s=20&t=Ga1aoV45SkwmzTgr0RECqA",
+      "https://twitter.com/Div_pradeep/status/1548270574241136643?s=20&t=Ga1aoV45SkwmzTgr0RECqA",
+      "https://twitter.com/GithubProjects/status/1488421211109421056?s=20&t=Ga1aoV45SkwmzTgr0RECqA",
+      "https://twitter.com/mujeeb0147/status/1562788039780605955?s=20&t=Ga1aoV45SkwmzTgr0RECqA",
+      "https://twitter.com/mujeeb0147/status/1562281056325083138?s=20&t=Ga1aoV45SkwmzTgr0RECqA"
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/PronajitDey"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/pronajit-dey-2735a721b/"
+      }
+    ]
+  },
 ]
