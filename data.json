@@ -980,5 +980,26 @@
         "linkedin": "https://www.linkedin.com/in/yentl-hendrickx-3a3533223/"
       }
     ]
+  },
+  {
+    "name": "Vishnu H S",
+    "username": "VishMaster17",
+    "bio": "Backend developer",
+
+    "links": [
+      "https://twitter.com/naval/status/1002103360646823936",
+      "https://twitter.com/Param_eth/status/1525435042230849536",
+      "https://pepcoding.com/resources/",
+      "https://twitter.com/neembu_paani31/status/1560879159043584001",
+      "https://twitter.com/simonholdorf/status/1582625571766292481"
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/VishMaster17"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/vishnu-h-s-74969730/"
+      }
+    ]
   }
 ]
