@@ -853,8 +853,33 @@
       {
         "linkedin": "https://www.linkedin.com/in/muhammad-rizky-rahmattullah/"
       }
-    ]
-  },
+
+      ]
+      },
+  
+  {
+    "name": "Anupesh Kumar Verma",
+    "username": "anupeshverma",
+    "bio": "Web Developer",
+
+    "links": [
+      "https://github.com/jina-ai/jina",
+      "https://github.com/freeCodeCamp/freeCodeCamp",
+      "https://github.com/Rutuj-Runwal/RR-Adblocker",
+      "https://github.com/abhaygupta08/Hacktober-2022"
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/AnupeshVerma"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/anupesh-kumar-verma-81a711203/"
+      }
+      ]
+      },
+  
+
+
   {
     "name": "Ayush Shrotriya",
     "username": "ayushsgit",
