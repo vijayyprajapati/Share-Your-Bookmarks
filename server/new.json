@@ -894,4 +894,23 @@
             "https://www.udacity.com/courses/all?price=Free"
         ]
     }
+
+    ,{
+         "social":{
+            "twitter": "https://twitter.com/AnushkaBhanda18",
+            "linkedin": "https://www.linkedin.com/in/anushka-bhandari-163278224/"
+            
+         },
+         "_id": "63514f9f6ae8197c420b356f",
+         "name":"Anushka Bhandari",
+         "username":"Anushkabh",
+         "bio": "open source enthusiast and web developer",
+         "links": [
+            "https://twitter.com/SystemSunday/status/1583070836252033024?s=20&t=YB4hgk6cT8dAFOMqlVkOUQ",
+            "https://twitter.com/mdjunaidap/status/1583305698980814849?s=20&t=YB4hgk6cT8dAFOMqlVkOUQ",
+            "https://twitter.com/sahilypatel/status/1583414547070611456?s=20&t=YB4hgk6cT8dAFOMqlVkOUQ",
+            "https://twitter.com/python_spaces/status/1583507011026948096?s=20&t=YB4hgk6cT8dAFOMqlVkOUQ",
+            "https://twitter.com/mufaddal_vohra/status/1583380764959604737?s=20&t=YB4hgk6cT8dAFOMqlVkOUQ"
+         ]
+    }
 ]
