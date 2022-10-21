@@ -1236,6 +1236,26 @@
       }
     ]
   },
+    {
+    "name": "Aadi Agrawal",
+    "username": "iamwicked",
+    "bio": "Web Developer and Competitve Programmer",
+
+    "links": [
+      "www.codeforces.com",
+      "www.geekgorgeeks.com",
+      "https://github.com/iamwicked"
+      
+    ],
+    "social": [
+      {
+        "instagram": "https://www.instagram.com/aadi.agrawal_/"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/aadi-agrawal-ab5310222/"
+      }
+    ]
+  },
   {
 
 
