@@ -25,54 +25,33 @@ const getElement = (clicked_id) => {
 };
 
 const userDetails = async () => {
-  // console.log("hello yrrr");
   const storePersonName = localStorage.getItem("personNameKey");
-  // console.log(storePersonName);
-  const alldata = await fetch(`./data.json`);
+  const alldata = await fetch(`https://bookmark-vqbz.onrender.com/${storePersonName}`);
   data = await alldata.json();
-  // console.log(data);
-  let i;
-  for (i = 0; i < data.length; i++) {
-    // console.log("in loop");
-    // console.log(storePersonName);
-    // console.log(data[i].username);
-    const string1 = data[i].username;
-    const string2 = storePersonName;
-    const result = string1.localeCompare(string2);
-    // const result = data[i].username === abhay;
-    if (result == 0) {
-      // console.log("in if");
-      // console.log(storePersonName);
-      // console.log(data[i].username);
-      showDetails.innerHTML = `<div class="userHead">
-      <div class="userName">
-        ${data[i].name}
-        <span>(${data[i].username})</span>
-      </div>
-      <div class="userBio"><i class="fa fa-briefcase"></i>${data[i].bio}</div>
-    </div>`;
-      // console.log(data[i].links.length);
-      for (let j = 0; j < data[i].links.length; j++) {
-        // console.log("in loop");
-        linksData.innerHTML += `
-          <li class="link"><i class="fa fa-bookmark"></i><a href=${data[i].links[j]} target="_blank">${data[i].links[j]}</a></li>`;
-        // console.log(data[i].links[j]);
-      }
-      // console.log("loop chal gaya");
 
-      socialLinks.innerHTML = `
-      <a href=${data[i].social[0].twitter} target="_blank"><button>Twitter</button></a>
-      <a href=${data[i].social[1].linkedin} target="_blank"><button>Linkedin</button></a>`;
-      // console.log("social");
-      // console.log(data[i].social[0].twitter);
-      break;
-    }
+  showDetails.innerHTML = `<div class="userHead">
+      <div class="userName">
+        ${data.name}
+        <span>(${data.username})</span>
+      </div>
+      <div class="userBio"><i class="fa fa-briefcase"></i>${data.bio}</div>
+    </div>`;
+
+  for (let j = 0; j < data.links.length; j++) {
+
+    linksData.innerHTML += `
+          <li class="link"><i class="fa fa-bookmark"></i><a href=${data.links[j]} target="_blank">${data.links[j]}</a></li>`;
+
   }
+  socialLinks.innerHTML = `
+      <a href=${data.social.twitter} target="_blank"><button>Twitter</button></a>
+      <a href=${data.social.linkedin} target="_blank"><button>Linkedin</button></a>`;
+
 };
 
 const fetchData = async () => {
   try {
-    const alldata = await fetch(`./data.json`);
+    const alldata = await fetch(`https://bookmark-vqbz.onrender.com/`);
     data = await alldata.json();
     await showNames();
     // console.log(data);
