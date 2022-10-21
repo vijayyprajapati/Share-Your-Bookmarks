@@ -1234,6 +1234,28 @@
         "linkedin": "https://www.linkedin.com/in/patelkenee"
       }
     ]
+  },
+  {
+
+    "name": "David",
+    "username": "davidzcode",
+    "bio": "A passionate fullstack developer",
+
+    "links": [
+      "https://github.com/davidzcode",
+      "https://dev.to/davidzcode",
+      "https://codepen.io/davidzcode",
+      "https://stackoverflow.com/users/11394132/davidzcode",
+      "https://app.daily.dev/davidzcode"
+    ],
+    "social": [
+      {
+        "twitter": "https://github.com/davidzcode"
+      },
+      {
+        "linkedin": "https://dev.to/davidzcode"
+      }
+    ]
   }
   
 ]
