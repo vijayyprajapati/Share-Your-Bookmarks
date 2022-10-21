@@ -893,5 +893,22 @@
             "https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ",
             "https://www.udacity.com/courses/all?price=Free"
         ]
+    },
+    {
+        "social": {
+            "twitter": "https://twitter.com/_alphaparticle",
+            "linkedin": "https://www.linkedin.com/in/ayushkx/"
+        },
+        "_id": "63514f9f6ae8197c420b356f",
+        "name": "Ayush kushwaha",
+        "username": "ayushkx",
+        "bio": "Web Developer",
+        "links": [
+            "https://sci-hub.se/",
+            "https://www.youtube.com/",
+            "https://www.interviewbit.com/coding-interview-questions/",
+            "https://classroom.google.com/u/0/h",
+            "https://practice.geeksforgeeks.org/"
+        ]
     }
 ]
