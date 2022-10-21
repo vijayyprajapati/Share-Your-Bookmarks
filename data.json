@@ -1187,10 +1187,10 @@
       },
       {
         "linkedin": "https://www.linkedin.com/in/sukarayam-janjua/"
-}
-]
-},
-{
+      }
+    ]
+  },
+  {
     "name": "Pratap Parui",
     "username": "pratap360",
     "bio": "Frontend Developer 👨🏻‍💻 | ✨Graphic Designer | Blogger ✍",
@@ -1210,9 +1210,30 @@
       },
       {
         "linkedin": "https://www.linkedin.com/in/pratap-parui-mr-sumbuddy/"
+      }
+    ]
+  },
+  {
+    "name": "Kenee Patel",
+    "username": "KeneePatel",
+    "bio": "angsty college kid trying to code and watch anime",
 
+    "links": [
+      "https://unblockit.bet",
+      "https://lofi.cafe",
+      "https://www.tldraw.com",
+      "https://nyaa.si",
+      "https://gift4designer.net",
+      "https://comick.fun"
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/KPatelD1"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/patelkenee"
       }
     ]
   }
-
+  
 ]
