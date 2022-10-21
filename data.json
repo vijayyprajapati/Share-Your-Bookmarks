@@ -1129,6 +1129,28 @@
     ]
   },
   {
+
+    "name": "Sukarayam Janjua",
+    "username": "SukarayamJanjua",
+    "bio": "Student Web-Game-3D developer",
+
+    "links": [
+      "https://github.com/SukarayamJanjua",
+      "https://www.commclassroom.org/android-roadmap",
+      "https://www.youtube.com/c/Brackeys",
+      "https://learn.unity.com/",
+      "https://github.com/freeCodeCamp/freeCodeCamp"
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/sukarayam"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/sukarayam-janjua/"
+}
+]
+},
+{
     "name": "Pratap Parui",
     "username": "pratap360",
     "bio": "Frontend Developer 👨🏻‍💻 | ✨Graphic Designer | Blogger ✍",
@@ -1148,6 +1170,7 @@
       },
       {
         "linkedin": "https://www.linkedin.com/in/pratap-parui-mr-sumbuddy/"
+
       }
     ]
   }
