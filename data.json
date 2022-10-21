@@ -916,12 +916,10 @@
       }
     ]
   },
-
   {
     "name": "Anupesh Kumar Verma",
     "username": "anupeshverma",
     "bio": "Web Developer",
-
     "links": [
       "https://github.com/jina-ai/jina",
       "https://github.com/freeCodeCamp/freeCodeCamp",
@@ -937,7 +935,6 @@
       }
     ]
   },
-
   {
     "name": "Ayush Shrotriya",
     "username": "ayushsgit",
@@ -977,12 +974,10 @@
       }
     ]
   },
-
   {
     "name": "Ashish Kumar Sharma",
     "username": "AshishSharma1203",
     "bio": "Btech '24 at NIT-Allahabad. Web Developer , Learning DSA",
-
     "links": [
       "https://github.com/cncf/mentoring",
       "https://github.com/freeCodeCamp/freeCodeCamp",
@@ -1003,7 +998,6 @@
     "name": "Yentl Hendrickx",
     "username": "YentlHendrickx",
     "bio": "Application Development Student @ Thomas More Geel, Belgium",
-
     "links": [
       "https://yentl.sinners.be/",
       "https://cryptotracker.sinners.be/",
@@ -1023,7 +1017,6 @@
     "name": "Vishnu H S",
     "username": "VishMaster17",
     "bio": "Backend developer",
-
     "links": [
       "https://twitter.com/naval/status/1002103360646823936",
       "https://twitter.com/Param_eth/status/1525435042230849536",
@@ -1044,7 +1037,6 @@
     "name": "Jayshree Tundele",
     "username": "jayshreetundele",
     "bio": "Designer",
-
     "links": [
       "https://www.shapedivider.app/",
       "https://sitesee.co/",
@@ -1065,7 +1057,6 @@
     "name": "Gopi Vaibhav",
     "username": "gopivaibhav",
     "bio": "Full Stack web developer with Django and MERN stack",
-
     "links": [
       "https://github.com/MunGell/awesome-for-beginners",
       "https://github.com/vijayyprajapati/Share-Your-Bookmarks",
@@ -1085,7 +1076,6 @@
     "name": "Akshat Khandelwal",
     "username": "AkshatK1",
     "bio": "Java and Android Developer",
-
     "links": [
       "https://developer.android.com/docs",
       "https://www.youtube.com/c/KunalKushwaha",
@@ -1103,11 +1093,9 @@
     ]
   },
   {
-
     "name": "Pronajit Dey",
     "username": "PronajitDey",
     "bio": "AOTian | Explorer 🤠🚀 | Web Developer 👨‍💻",
-
     "links": [
       "https://twitter.com/mdjunaidap/status/1564491922298871808?s=20&t=Ga1aoV45SkwmzTgr0RECqA",
       "https://twitter.com/Div_pradeep/status/1548270574241136643?s=20&t=Ga1aoV45SkwmzTgr0RECqA",
@@ -1124,11 +1112,10 @@
       }
     ]
   },
-{
+  {
     "name": "Bhai Tabahi",
     "username": "bhaitabahi786",
     "bio": "Ethical Hacker",
-
     "links": [
       "https://github.com/CyberSecurityUP/Awesome-Red-Team-Operations",
       "https://github.com/JohnHammond/ctf-katana",
@@ -1152,7 +1139,6 @@
     "name": "Shreeja Mehta",
     "username": "Shreeja_Mehta",
     "bio": "Full Stack web developer(MERN Stack)",
-
     "links": [
       "https://twitter.com/prathkum/status/1577694853504327680?s=21&t=fs059n8yrnTHOM1ISEtOfg",
       "https://twitter.com/insharamin/status/1572110852853010432?s=21&t=fs059n8yrnTHOM1ISEtOfg",
@@ -1170,11 +1156,9 @@
     ]
   },
   {
-
     "name": "Sukarayam Janjua",
     "username": "SukarayamJanjua",
     "bio": "Student Web-Game-3D developer",
-
     "links": [
       "https://github.com/SukarayamJanjua",
       "https://www.commclassroom.org/android-roadmap",
@@ -1195,7 +1179,6 @@
     "name": "Pratap Parui",
     "username": "pratap360",
     "bio": "Frontend Developer 👨🏻‍💻 | ✨Graphic Designer | Blogger ✍",
-
     "links": [
       "https://www.mrparuiweb.dev/",
       "https://pratapparui.bio.link/",
@@ -1218,7 +1201,6 @@
     "name": "Kenee Patel",
     "username": "KeneePatel",
     "bio": "angsty college kid trying to code and watch anime",
-
     "links": [
       "https://unblockit.bet",
       "https://lofi.cafe",
@@ -1236,12 +1218,10 @@
       }
     ]
   },
-
-    {
+  {
     "name": "Divya Aggarwal",
     "username": "divya520357",
     "bio": "B.Tech Undergrad, just trying to succeed in this world",
-
     "links": [
       "hhttps://www.instagram.com/thequirkyfella",
       "https://notesgenix.vercel.app/",
@@ -1258,12 +1238,9 @@
     ]
   },
   {
-
-
     "name": "David",
     "username": "davidzcode",
     "bio": "A passionate fullstack developer",
-
     "links": [
       "https://github.com/davidzcode",
       "https://dev.to/davidzcode",
@@ -1280,29 +1257,46 @@
       }
     ]
   },
-{
-		"name": "Anushtha Bageria",
-		"username": "Anushtha Bageria",
-		"bio": "Upcoming SWE intern'23@Microsoft || Microsoft Engage'22 || Harvard Wecode scholar'22 || Frontend Developer || UI/UX Designer || IIIT Allahabad'24",
-
-		"links": [
-			"https://www.linkedin.com/posts/shubham-upadhyay07_oops-notes-ugcPost-6956218874543398912-svUc?utm_source=share&utm_medium=member_desktop",
-			"https://www.linkedin.com/postsamanbarnwal_50-projects-for-react-static-web-ugcPost-6953651306846662656-zHZv?utm_source=share&utm_medium=member_desktop",
-			"https://www.linkedin.com/posts/ashwani521_dsa-cheat-sheet-ugcPost-6954421955550736384-HhD3?utm_source=share&utm_medium=member_desktop",
-			"https://www.linkedin.com/posts/rohit-pandey-8a6896174_recursion-and-backtracking-notes-ugcPost-6954121333987307520-P0zi?utm_source=share&utm_medium=member_desktop",
-			"https://www.linkedin.com/posts/shubham-upadhyay07_students-coding-programming-activity-6953582875627634688-OSc1?utm_source=share&utm_medium=member_desktop",
-			"https://www.linkedin.com/posts/riti2409_notesbyriti-programmer-github-activity-6952949389321474049-vqmp?utm_source=share&utm_medium=member_desktop",
-			"https://www.linkedin.com/posts/amanbarnwal_toughest-interview-questions-and-answers-ugcPost-6949202231971696640-rGdI?utm_source=share&utm_medium=member_desktop"
-		],
-		"social": [
-			{
-				"twitter": "https://twitter.com/Anushtha_2002"
-			},
-			{
-				"linkedin": "https://www.linkedin.com/in/anushtha-bageria/"
-			}
-		]
-	}
-
-  
+  {
+    "name": "Anushtha Bageria",
+    "username": "Anushtha Bageria",
+    "bio": "Upcoming SWE intern'23@Microsoft || Microsoft Engage'22 || Harvard Wecode scholar'22 || Frontend Developer || UI/UX Designer || IIIT Allahabad'24",
+    "links": [
+      "https://www.linkedin.com/posts/shubham-upadhyay07_oops-notes-ugcPost-6956218874543398912-svUc?utm_source=share&utm_medium=member_desktop",
+      "https://www.linkedin.com/postsamanbarnwal_50-projects-for-react-static-web-ugcPost-6953651306846662656-zHZv?utm_source=share&utm_medium=member_desktop",
+      "https://www.linkedin.com/posts/ashwani521_dsa-cheat-sheet-ugcPost-6954421955550736384-HhD3?utm_source=share&utm_medium=member_desktop",
+      "https://www.linkedin.com/posts/rohit-pandey-8a6896174_recursion-and-backtracking-notes-ugcPost-6954121333987307520-P0zi?utm_source=share&utm_medium=member_desktop",
+      "https://www.linkedin.com/posts/shubham-upadhyay07_students-coding-programming-activity-6953582875627634688-OSc1?utm_source=share&utm_medium=member_desktop",
+      "https://www.linkedin.com/posts/riti2409_notesbyriti-programmer-github-activity-6952949389321474049-vqmp?utm_source=share&utm_medium=member_desktop",
+      "https://www.linkedin.com/posts/amanbarnwal_toughest-interview-questions-and-answers-ugcPost-6949202231971696640-rGdI?utm_source=share&utm_medium=member_desktop"
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/Anushtha_2002"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/anushtha-bageria/"
+      }
+    ]
+  },
+  {
+    "name": "Paola Zaldivar",
+    "username": "pzaldivar",
+    "bio": "Software Engineer",
+    "links": [
+      "https://reactjs.org/docs/hello-world.html",
+      "https://javascript.info/array-methods",
+      "https://www.youtube.com/",
+      "https://www.mongodb.com/",
+      "https://github.com/pzaldivar"
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/PaolaCodes"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/paolazaldivar/"
+      }
+    ]
+  }
 ]
