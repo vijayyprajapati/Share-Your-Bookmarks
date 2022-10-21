@@ -1234,6 +1234,27 @@
         "linkedin": "https://www.linkedin.com/in/patelkenee"
       }
     ]
+  },
+  {
+    "name": "Cristina",
+    "username": "CristiCode",
+    "bio": "I'm Web Developer student 💻😊",
+
+    "links": [
+      "https://github.com/CristiCode",
+      "https://github.com/CristiCode",
+      "https://github.com/CristiCode",
+      "https://github.com/CristiCode",
+      "https://github.com/CristiCode"
+    ],
+    "social": [
+      {
+        "twitter": "#"
+      },
+      {
+        "linkedin": "#"
+      }
+    ]
   }
   
 ]
