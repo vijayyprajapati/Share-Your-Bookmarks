@@ -1304,5 +1304,20 @@
 		]
 	}
 
+  {
+    "name": "Anshul Shekhar",
+    "username": "thesoulreliever45",
+    "bio": "I am a Java Developer, a Wordpress Developer and an uppcoming Flutter developer",
+
+    "social": [
+      {
+        "twitter": "https://twitter.com/soulreliever_45?t=mDOV1iim2dt4H4ZMfzIa3Q&s=09"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/anshul-shekhar-8a2921221"
+      }
+    ]
+  },
+
   
 ]
