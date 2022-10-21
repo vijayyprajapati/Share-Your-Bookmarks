@@ -1302,6 +1302,24 @@
 				"linkedin": "https://www.linkedin.com/in/anushtha-bageria/"
 			}
 		]
+	},
+  {
+		"name": "Jhoan Alvear",
+		"username": "Jhoan Alvear",
+		"bio": "",
+
+		"links": [
+			"https://www.linkedin.com/in/jhoan-david-alvear-sanchez-38904476",
+      "https://www.linkedin.com/in/jhoan-david-alvear-sanchez-38904476"
+		],
+		"social": [
+			{
+				"twitter": "https://twitter.com/JDavid_DT"
+			},
+			{
+				"linkedin": "https://www.linkedin.com/in/jhoan-david-alvear-sanchez-38904476"
+			}
+		]
 	}
 
   
