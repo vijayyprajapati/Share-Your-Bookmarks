@@ -20,6 +20,26 @@
     ]
   },
   {
+    "name": "Sayan Nandy ",
+    "username": "sayan81",
+    "bio": "Enthusiast",
+    "links": [
+      "https://twitter.com/naval/status/1002103360646823936?s=20&t=g-xKxHA696ytxfBzbjZhig",
+      "https://twitter.com/heyeaslo/status/1556460201850462208?s=20&t=uTM6FvljPRkrfwXQ8P2DRg",
+      "https://www.bookmarks.design/",
+      "https://twitter.com/MentorWebDev/status/1579766236031995906",
+      "https://twitter.com/kamranahmedse/status/1501116746811547654"
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/SAYAN3270"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/sayan-nandy-tech/"
+      }
+    ]
+  },
+  {
     "name": "Ashish Khare",
     "username": "hugekontrast",
     "bio": "I dive faster than average.",
@@ -182,6 +202,26 @@
       },
       {
         "linkedin": "https://in.linkedin.com/in/sanjay-kumar-86a88421a"
+      }
+    ]
+  },
+  {
+    "name": "Krishna Sahu",
+    "username": "krishna120801",
+    "bio": "Associate cloud Engineer",
+    "links": [
+      "https://itnext.io/gcp-command-line-cheatsheet-5e4434ca2c84#05b7",
+      "https://medium.com/gowthamlabs/google-cloud-associate-engineer-notes-gcp-ace-8d2260cb3882",
+      "https://blog.economize.cloud/how-to-use-google-cloud-shell/",
+      "https://faun.pub/google-cloud-cli-commands-d97c0ff8c99a",
+      "https://medium.com/swlh/10-things-you-should-know-about-tuples-in-python-b71189bdba1f"
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/ksahuS5o5"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/krishna120801"
       }
     ]
   },
@@ -1060,5 +1100,140 @@
         "linkedin": "https://www.linkedin.com/in/akshatk1/"
       }
     ]
+  },
+  {
+
+    "name": "Pronajit Dey",
+    "username": "PronajitDey",
+    "bio": "AOTian | Explorer 🤠🚀 | Web Developer 👨‍💻",
+
+    "links": [
+      "https://twitter.com/mdjunaidap/status/1564491922298871808?s=20&t=Ga1aoV45SkwmzTgr0RECqA",
+      "https://twitter.com/Div_pradeep/status/1548270574241136643?s=20&t=Ga1aoV45SkwmzTgr0RECqA",
+      "https://twitter.com/GithubProjects/status/1488421211109421056?s=20&t=Ga1aoV45SkwmzTgr0RECqA",
+      "https://twitter.com/mujeeb0147/status/1562788039780605955?s=20&t=Ga1aoV45SkwmzTgr0RECqA",
+      "https://twitter.com/mujeeb0147/status/1562281056325083138?s=20&t=Ga1aoV45SkwmzTgr0RECqA"
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/PronajitDey"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/pronajit-dey-2735a721b/"
+      }
+    ]
+  },
+{
+    "name": "Bhai Tabahi",
+    "username": "bhaitabahi786",
+    "bio": "Ethical Hacker",
+
+    "links": [
+      "https://github.com/CyberSecurityUP/Awesome-Red-Team-Operations",
+      "https://github.com/JohnHammond/ctf-katana",
+      "https://skillsforall.com/career-path/cybersecurity",
+      "https://gowthams.gitbook.io/bughunter-handbook/",
+      "https://github.com/thezakman/CTF-Heaven",
+      "https://requestcatcher.com/",
+      "https://www.rangeforce.com/",
+      "https://natlas.io/"
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/bhai_tabahi_786"
+      },
+      {
+        "linkedin": "your linkedin/other handle here"
+      }
+    ]
+  },
+  {
+    "name": "Shreeja Mehta",
+    "username": "Shreeja_Mehta",
+    "bio": "Full Stack web developer(MERN Stack)",
+
+    "links": [
+      "https://twitter.com/prathkum/status/1577694853504327680?s=21&t=fs059n8yrnTHOM1ISEtOfg",
+      "https://twitter.com/insharamin/status/1572110852853010432?s=21&t=fs059n8yrnTHOM1ISEtOfg",
+      "https://twitter.com/prathkum/status/1562857375308005377?s=21&t=fs059n8yrnTHOM1ISEtOfg",
+      "https://twitter.com/ujjwalscript/status/1560115594640310272?s=21&t=fs059n8yrnTHOM1ISEtOfg",
+      "https://twitter.com/prathkum/status/1554152843556290561?s=21&t=fs059n8yrnTHOM1ISEtOfg"
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/shreeja_mehta"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/shreejamehta/"
+      }
+    ]
+  },
+  {
+
+    "name": "Sukarayam Janjua",
+    "username": "SukarayamJanjua",
+    "bio": "Student Web-Game-3D developer",
+
+    "links": [
+      "https://github.com/SukarayamJanjua",
+      "https://www.commclassroom.org/android-roadmap",
+      "https://www.youtube.com/c/Brackeys",
+      "https://learn.unity.com/",
+      "https://github.com/freeCodeCamp/freeCodeCamp"
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/sukarayam"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/sukarayam-janjua/"
+      }
+    ]
+  },
+  {
+    "name": "Pratap Parui",
+    "username": "pratap360",
+    "bio": "Frontend Developer 👨🏻‍💻 | ✨Graphic Designer | Blogger ✍",
+
+    "links": [
+      "https://www.mrparuiweb.dev/",
+      "https://pratapparui.bio.link/",
+      "https://github.com/pratap360/MyToolKits",
+      "https://medium.com/@Parui_Pratap",
+      "https://www.patatap.com/",
+      "https://venge.io/",
+      "https://www.discudemy.com/"
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/parui_pratap"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/pratap-parui-mr-sumbuddy/"
+      }
+    ]
+  },
+  {
+    "name": "Kenee Patel",
+    "username": "KeneePatel",
+    "bio": "angsty college kid trying to code and watch anime",
+
+    "links": [
+      "https://unblockit.bet",
+      "https://lofi.cafe",
+      "https://www.tldraw.com",
+      "https://nyaa.si",
+      "https://gift4designer.net",
+      "https://comick.fun"
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/KPatelD1"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/patelkenee"
+      }
+    ]
   }
+  
 ]
