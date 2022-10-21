@@ -1,5 +1,6 @@
 const express = require("express")
 const mongoose = require("mongoose")
+const cors = require("cors")
 require("dotenv").config()
 const data_route = require("./routes/data")
 
@@ -18,7 +19,7 @@ const connect = async () => {
 const app = express()
 
 // middlewares
-
+app.use(cors())
 app.use(express.json())
 
 // adding routes
