@@ -1235,6 +1235,29 @@
         "linkedin": "https://www.linkedin.com/in/patelkenee"
       }
     ]
-  }
+  },
+  {
+		"name": "Anushtha Bageria",
+		"username": "Anushtha Bageria",
+		"bio": "Upcoming SWE intern'23@Microsoft || Microsoft Engage'22 || Harvard Wecode scholar'22 || Frontend Developer || UI/UX Designer || IIIT Allahabad'24",
+
+		"links": [
+			"https://www.linkedin.com/posts/shubham-upadhyay07_oops-notes-ugcPost-6956218874543398912-svUc?utm_source=share&utm_medium=member_desktop",
+			"https://www.linkedin.com/postsamanbarnwal_50-projects-for-react-static-web-ugcPost-6953651306846662656-zHZv?utm_source=share&utm_medium=member_desktop",
+			"https://www.linkedin.com/posts/ashwani521_dsa-cheat-sheet-ugcPost-6954421955550736384-HhD3?utm_source=share&utm_medium=member_desktop",
+			"https://www.linkedin.com/posts/rohit-pandey-8a6896174_recursion-and-backtracking-notes-ugcPost-6954121333987307520-P0zi?utm_source=share&utm_medium=member_desktop",
+			"https://www.linkedin.com/posts/shubham-upadhyay07_students-coding-programming-activity-6953582875627634688-OSc1?utm_source=share&utm_medium=member_desktop",
+			"https://www.linkedin.com/posts/riti2409_notesbyriti-programmer-github-activity-6952949389321474049-vqmp?utm_source=share&utm_medium=member_desktop",
+			"https://www.linkedin.com/posts/amanbarnwal_toughest-interview-questions-and-answers-ugcPost-6949202231971696640-rGdI?utm_source=share&utm_medium=member_desktop"
+		],
+		"social": [
+			{
+				"twitter": "https://twitter.com/Anushtha_2002"
+			},
+			{
+				"linkedin": "https://www.linkedin.com/in/anushtha-bageria/"
+			}
+		]
+	}
   
 ]
