@@ -1303,6 +1303,27 @@
 			}
 		]
 	}
+{
+    "name": "Emaad Ahmed",
+    "username": "GigabyteZX1",
+    "bio": "BTech sophomore, right now trying to learn new skill to broaden my horizons",
+
+    "links": [
+      "https://github.com/GigabyteZX1/",
+      "https://codeforces.com/profile/GigabyteZ",
+      "https://gigabytezx1.itch.io/",
+      "https://www.kaggle.com/emaadahmed",
+      "https://www.instagram.com/emmddxx"
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/EmaadAh61225619"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/emaad-ahmed-511032222"
+      }
+    ]
+  },
 
   
 ]
