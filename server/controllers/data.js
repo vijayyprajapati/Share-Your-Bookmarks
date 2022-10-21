@@ -15,7 +15,12 @@ const get_all = async (req, res) => {
 const get = async (req, res) => {
     try {
         let data = await Data.findOne({ username: req.params.username })
-        res.send(data)
+        if (!data) {
+            res.status(404).send({ error: "404 Page not found" })
+        }
+        else {
+            res.send(data)
+        }
     } catch (error) {
         res.status(400).send({
             message: "Something Went Wrong!",
