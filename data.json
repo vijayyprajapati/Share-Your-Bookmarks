@@ -1234,6 +1234,26 @@
         "linkedin": "https://www.linkedin.com/in/patelkenee"
       }
     ]
+  },
+    {
+    "name": "Divya Aggarwal",
+    "username": "divya520357",
+    "bio": "B.Tech Undergrad, just trying to succeed in this world",
+
+    "links": [
+      "hhttps://www.instagram.com/thequirkyfella",
+      "https://notesgenix.vercel.app/",
+      "https://designgenix.netlify.app/",
+      "https://mlsacbvp.vercel.app/"
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/520357Divya"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/divya098"
+      }
+    ]
   }
   
 ]
