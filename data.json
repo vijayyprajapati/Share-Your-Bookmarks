@@ -1302,7 +1302,28 @@
 				"linkedin": "https://www.linkedin.com/in/anushtha-bageria/"
 			}
 		]
-	}
+	},
+  {
+    "name": "Cristina",
+    "username": "CristiCode",
+    "bio": "I'm Web Developer student 💻😊",
+
+    "links": [
+      "https://github.com/CristiCode",
+      "https://github.com/CristiCode",
+      "https://github.com/CristiCode",
+      "https://github.com/CristiCode",
+      "https://github.com/CristiCode"
+    ],
+    "social": [
+      {
+        "twitter": "https://github.com/CristiCode"
+      },
+      {
+        "linkedin": "https://github.com/CristiCode"
+      }
+    ]
+  }
 
   
 ]
