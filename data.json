@@ -20,6 +20,27 @@
       }
     ]
   },
+  {
+    "name": "Anmol Yadav",
+    "username": "ANMOLYADAV1402",
+    "bio": "Full Stack Web Developer",
+    "links": [
+      "https://www.youtube.com/watch?v=1SnPKhCdlsU&list=PLu0W_9lII9ahKZ42vg2w9ERPmShYbYAB7&index=1&t=0s",
+      "https://www.youtube.com/watch?v=oSIv-E60NiU&list=PLu0W_9lII9ahKZ42vg2w9ERPmShYbYAB7&index=1&t=0s",
+      "https://www.youtube.com/watch?v=gwWKnnCMQ5c&list=PLu0W_9lII9ahKZ42vg2w9ERPmShYbYAB7&index=1&t=0s",
+      "https://www.youtube.com/watch?v=gfDE2a7MKjA&list=PLu0W_9lII9ahKZ42vg2w9ERPmShYbYAB7&index=1&t=0s",
+      "https://www.youtube.com/watch?v=61a7UkDO50s&list=PLu0W_9lII9ahKZ42vg2w9ERPmShYbYAB7&index=1&t=0s",
+      "https://www.youtube.com/watch?v=uufDGjTuq34&list=PLu0W_9lII9ahKZ42vg2w9ERPmShYbYAB7&index=1&t=0s"
+    ],
+    "social": [
+      {
+        "github": "https://github.com/ANMOLYADAV1402"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/anmol-yadav-15200022a/"
+      }
+    ]
+  },
    {
     "name": "Ruchita Sonawale",
     "username": "ruchi-115",
