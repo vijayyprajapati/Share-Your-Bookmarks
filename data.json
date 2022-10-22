@@ -1450,5 +1450,24 @@
 
       }
     ]
+  },
+  {
+    "name": "TechAE",
+    "username": "@techae",
+    "bio": "Tech Enthusiast aspired in Full Stack Development",
+
+    "links": [
+      "https://ahsanehtesham.live/",
+      "https://techaeblogs.live/",
+      "https://github.com/Ahsan-Ehtesham"
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/AhsanEhtesham1"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/ahsan-ehtesham/"
+      }
+    ]
   }
 ]
