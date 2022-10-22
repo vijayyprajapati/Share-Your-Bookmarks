@@ -1450,5 +1450,23 @@
 
       }
     ]
+  },
+  {
+    "name": "Enkhbaatar",
+    "username": "kadar77",
+    "bio": "I like coding",
+
+    "links": [
+      "https://github.com/kadar77"
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/enkhbtr"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/enkhbaatar-batochir/"
+
+      }
+    ]
   }
 ]
