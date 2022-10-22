@@ -286,6 +286,7 @@
       }
     ]
   },
+  
   {
     "name": "Krapi Rastogi",
     "username": "krapirastogi",
@@ -482,6 +483,22 @@
       },
       {
         "linkedin": "https://www.linkedin.com/in/jayati-dixit-931a98203/"
+      }
+    ]
+  },
+  {
+    "name": "Pulkit London",
+    "username": "Devil's Master",
+    "bio": "Plant",
+    "links": [
+      "https://twitter.com/frontendilia/status/1529103411882381312"
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/pulkitbl"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/pulkit-London-9a9620245/"
       }
     ]
   },
