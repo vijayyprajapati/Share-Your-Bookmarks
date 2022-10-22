@@ -1345,5 +1345,26 @@
         "linkedin": "https://www.linkedin.com/in/rpnpeter/"
       }
     ]
+  },
+  {
+    "name": "YJ You",
+    "username": "DEV-YJY",
+    "bio": "Make this world better through coding",
+
+    "links": [
+      "https://github.com/DEV-YJY",
+      "https://harshal0902.hashnode.dev/unit-testing-with-jest-react-and-typescript",
+      "https://www.joshwcomeau.com/react/usememo-and-usecallback/",
+      "https://www.joshwcomeau.com/react/why-react-re-renders/",
+      "https://www.joshwcomeau.com/react/file-structure/"
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/yyou017"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/yjyou/"
+      }
+    ]
   }
 ]
