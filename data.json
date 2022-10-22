@@ -1381,5 +1381,25 @@
         "linkedin": "https://www.linkedin.com/in/yjyou/"
       }
     ]
+  },
+  {
+    "name": "Cristina",
+    "username": "CristiCode",
+    "bio": "I'm Web Developer student 💻😊",
+    "links": [
+      "https://github.com/CristiCode",
+      "https://dev.to/cristicode",
+      "https://codepen.io/cristicode",
+      "https://es.stackoverflow.com/users/158449/cristicode",
+      "https://app.daily.dev/CristiCode"
+    ],
+    "social": [
+      {
+        "twitter": "https://github.com/CristiCode"
+      },
+      {
+        "linkedin": "https://app.daily.dev/CristiCode"
+      }
+    ]
   }
 ]
