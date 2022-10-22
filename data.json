@@ -20,6 +20,27 @@
       }
     ]
   },
+   {
+    "name": "Ruchita Sonawale",
+    "username": "ruchi-115",
+    "bio": "Full Stack Web Developer",
+    "links": [
+      "https://ruchita.vercel.app/",
+      "https://spotify-clone-6de9b.web.app/#",
+      "https://planets-gilt.vercel.app/",
+      "https://doctor-chatbot-11.vercel.app/",
+      "https://ideacon-gdsc.vercel.app/",
+      "https://ruchi-115.github.io/Plantae-QR-Garden/"
+    ],
+    "social": [
+      {
+        "github": "https://github.com/ruchi-115"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/ruchita-sonawale-475063196/"
+      }
+    ]
+  },
   {
     "name": "Ajitkumar Sharma ",
     "username": "Ajit619",
