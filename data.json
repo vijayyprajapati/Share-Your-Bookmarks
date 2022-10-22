@@ -1450,5 +1450,26 @@
 
       }
     ]
+  },
+  {
+    "name": "Shubham Sardar",
+    "username": "sardarshubham",
+    "bio": "Coder | Problem solver | Web Developer",
+
+    "links": [
+      "https://github.com/SardarShubham/",
+      "https://leetcode.com/problemset/all/",
+      "https://web.whatsapp.com/",
+      "https://mail.google.com/mail"
+    ],
+    "social": [
+      {
+        "twitter": "#"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/shubham-sardar-321a02196"
+
+      }
+    ]
   }
 ]
