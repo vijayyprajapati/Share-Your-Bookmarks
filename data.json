@@ -1,5 +1,26 @@
 [
   {
+    "name": "Faizan Potrick",
+    "username": "FaizanPotrick",
+    "bio": "Full Stack Web Developer",
+    "links": [
+      "https://faizanpotrick.github.io/my-todos/",
+      "https://dmcecommitteeportal.herokuapp.com/",
+      "https://technitude2022.netlify.app/",
+      "https://resumeb.netlify.app/",
+      "https://webgdsc.herokuapp.com/",
+      "https://apnashops.vercel.app/"
+    ],
+    "social": [
+      {
+        "github": "https://github.com/FaizanPotrick"
+      },
+      {
+        "linkedin": "www.linkedin.com/in/faizan-potrick"
+      }
+    ]
+  },
+  {
     "name": "Ajitkumar Sharma ",
     "username": "Ajit619",
     "bio": "Web Developer",
@@ -1218,7 +1239,6 @@
       }
     ]
   },
-
   {
     "name": "Divya Aggarwal",
     "username": "divya520357",
@@ -1262,7 +1282,6 @@
     "name": "Anushtha Bageria",
     "username": "Anushtha Bageria",
     "bio": "Upcoming SWE intern'23@Microsoft || Microsoft Engage'22 || Harvard Wecode scholar'22 || Frontend Developer || UI/UX Designer || IIIT Allahabad'24",
-
     "links": [
       "https://www.linkedin.com/posts/shubham-upadhyay07_oops-notes-ugcPost-6956218874543398912-svUc?utm_source=share&utm_medium=member_desktop",
       "https://www.linkedin.com/postsamanbarnwal_50-projects-for-react-static-web-ugcPost-6953651306846662656-zHZv?utm_source=share&utm_medium=member_desktop",
@@ -1282,7 +1301,6 @@
     ]
   },
   {
-
     "name": "Paola Zaldivar",
     "username": "pzaldivar",
     "bio": "Software Engineer",
@@ -1303,8 +1321,6 @@
     ]
   },
   {
-
-
     "name": "Mridul Goel ",
     "username": "mridulgoel03",
     "bio": "Web Developer",
@@ -1329,7 +1345,6 @@
     "name": "Arpan Peter",
     "username": "arpanpeter",
     "bio": "Tech and Music Entusiast",
-
     "links": [
       "https://docs.google.com/document/d/1AOXV76qKbJe9xHNqF9o00Kuj-1CKbnJ6LHCgIYIaKsQ/edit",
       "https://www.coursera.org/learn/machine-learning/home/welcome",
@@ -1364,6 +1379,28 @@
       },
       {
         "linkedin": "https://www.linkedin.com/in/ayushkx/"
+}
+]
+},
+{
+    "name": "YJ You",
+    "username": "DEV-YJY",
+    "bio": "Make this world better through coding",
+
+    "links": [
+      "https://github.com/DEV-YJY",
+      "https://harshal0902.hashnode.dev/unit-testing-with-jest-react-and-typescript",
+      "https://www.joshwcomeau.com/react/usememo-and-usecallback/",
+      "https://www.joshwcomeau.com/react/why-react-re-renders/",
+      "https://www.joshwcomeau.com/react/file-structure/"
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/yyou017"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/yjyou/"
+
       }
     ]
   }
