@@ -286,7 +286,7 @@
       }
     ]
   },
-  
+
   {
     "name": "Krapi Rastogi",
     "username": "krapirastogi",
@@ -1450,5 +1450,26 @@
 
       }
     ]
-  }
+  },
+  {
+      "name": "Rajdeep Das",
+      "username": "rajdeepdas2000",
+      "bio": "I can turn anything into code! ME.CS student",
+
+      "links": [
+        "https://www.youtube.com/",
+        "https://open.spotify.com/",
+        "https://www.readsomethinggreat.com/",
+        "https://twitter.com/home",
+        "https://www.linkedin.com/feed/"
+      ],
+      "social": [
+        {
+          "twitter": "https://twitter.com/RajdeepDas2000"
+        },
+        {
+          "linkedin": "https://www.linkedin.com/in/rajdeepdas88/"
+        }
+      ]
+    }
 ]
