@@ -1306,3 +1306,24 @@
 
   
 ]
+{
+    "name": "Arpan Peter",
+    "username": "arpanpeter",
+    "bio": "Tech and Music Entusiast",
+
+    "links": [
+      "https://docs.google.com/document/d/1AOXV76qKbJe9xHNqF9o00Kuj-1CKbnJ6LHCgIYIaKsQ/edit",
+      "https://www.coursera.org/learn/machine-learning/home/welcome",
+      "https://www.youtube.com/watch?v=5izFFbdHnWY&ab_channel=CodesEasyk",
+      "https://discuss.e-yantra.org/",
+      "https://learn.unschool.in/learn/home/Android-App-Development/section/43127/lesson/781315"
+    ],
+    "social": [
+      {
+        "twitter": "https;//twitter.com/ArpanPeter2"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/rpnpeter/"
+      }
+    ]
+  },
