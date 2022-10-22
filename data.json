@@ -467,6 +467,22 @@
     ]
   },
   {
+    "name": "Munyaneza Armel",
+    "username": "munyanezaarmel",
+    "bio": "fullstack developer",
+    "links": [
+      "https://munyanezaarmel.netlify.app/"
+    ],
+    "social": [
+      {
+        "Github": "https://github.com/munyanezaarmel"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/munyaneza-armel-4b30a8201/"
+      }
+    ]
+  },
+  {
     "name": "Jayati Dixit",
     "username": "ErzaScarlet",
     "bio": "Software Developer",
