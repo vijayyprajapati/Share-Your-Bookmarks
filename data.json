@@ -1345,5 +1345,26 @@
         "linkedin": "https://www.linkedin.com/in/rpnpeter/"
       }
     ]
+  },
+  {
+    "name": "Ayush Kushwaha",
+    "username": "ayushkx",
+    "bio": "Web Developer",
+
+    "links": [
+       "https://sci-hub.se/",
+       "https://www.youtube.com/",
+       "https://www.interviewbit.com/coding-interview-questions/",
+       "https://classroom.google.com/u/0/h",
+       "https://practice.geeksforgeeks.org/"
+    ],
+    "social": [
+      {
+       "twitter": "https://twitter.com/_alphaparticle"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/ayushkx/"
+      }
+    ]
   }
 ]
