@@ -1302,7 +1302,24 @@
 				"linkedin": "https://www.linkedin.com/in/anushtha-bageria/"
 			}
 		]
-	}
+	},
+  {
+    "name": "YJ You",
+    "username": "DEV-YJY",
+    "bio": "Make this world better through coding",
+
+    "links": [
+      "https://github.com/DEV-YJY"
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/yyou017"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/yjyou/"
+      }
+    ]
+  },
 
   
 ]
