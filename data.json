@@ -1218,6 +1218,7 @@
       }
     ]
   },
+
   {
     "name": "Divya Aggarwal",
     "username": "divya520357",
@@ -1261,6 +1262,7 @@
     "name": "Anushtha Bageria",
     "username": "Anushtha Bageria",
     "bio": "Upcoming SWE intern'23@Microsoft || Microsoft Engage'22 || Harvard Wecode scholar'22 || Frontend Developer || UI/UX Designer || IIIT Allahabad'24",
+
     "links": [
       "https://www.linkedin.com/posts/shubham-upadhyay07_oops-notes-ugcPost-6956218874543398912-svUc?utm_source=share&utm_medium=member_desktop",
       "https://www.linkedin.com/postsamanbarnwal_50-projects-for-react-static-web-ugcPost-6953651306846662656-zHZv?utm_source=share&utm_medium=member_desktop",
@@ -1280,6 +1282,7 @@
     ]
   },
   {
+
     "name": "Paola Zaldivar",
     "username": "pzaldivar",
     "bio": "Software Engineer",
@@ -1296,6 +1299,50 @@
       },
       {
         "linkedin": "https://www.linkedin.com/in/paolazaldivar/"
+      }
+    ]
+  },
+  {
+
+
+    "name": "Mridul Goel ",
+    "username": "mridulgoel03",
+    "bio": "Web Developer",
+    "links": [
+      "https://www.linkedin.com/in/mridulgoel03",
+      "https://www.github.com/mridulgoel03",
+      "https://www.techbeamers.com/sql-query-questions-answers-for-practice/",
+      "https://www.teachoo.com/12376/3415/Question-1-Choice-2/category/CBSE-Class-12-Sample-Paper-for-2021-Boards/",
+      "https://www.faceprep.in/articles/",
+      "https://www.twitter.com/mridulgoel03"
+    ],
+    "social": [
+      {
+        "linkedin": "https://www.linkedin.com/in/mridulgoel03"
+      },
+      {
+        "linkedin": "https://www.twitter.com/mridulgoel03"
+      }
+    ]
+  },
+  {
+    "name": "Arpan Peter",
+    "username": "arpanpeter",
+    "bio": "Tech and Music Entusiast",
+
+    "links": [
+      "https://docs.google.com/document/d/1AOXV76qKbJe9xHNqF9o00Kuj-1CKbnJ6LHCgIYIaKsQ/edit",
+      "https://www.coursera.org/learn/machine-learning/home/welcome",
+      "https://www.youtube.com/watch?v=5izFFbdHnWY&ab_channel=CodesEasyk",
+      "https://discuss.e-yantra.org/",
+      "https://learn.unschool.in/learn/home/Android-App-Development/section/43127/lesson/781315"
+    ],
+    "social": [
+      {
+        "twitter": "https;//twitter.com/ArpanPeter2"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/rpnpeter/"
       }
     ]
   }
