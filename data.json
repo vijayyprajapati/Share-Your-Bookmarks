@@ -1303,8 +1303,6 @@
     ]
   },
   {
-
-
     "name": "Mridul Goel ",
     "username": "mridulgoel03",
     "bio": "Web Developer",
@@ -1325,6 +1323,29 @@
       }
     ]
   },
+
+  {
+    "name": "Rohit Roy",
+    "username": "rohitroy",
+    "bio": "Full Stack Developer",
+    "links": [
+      "https://github.com/rohitroy-github",
+      "https://linktr.ee/rohitroy_r", 
+      "https://developers.google.com/profile/u/rohitroy-gdev"
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/rohitroy_R"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/roy-rohit/"
+      }, 
+      { 
+        "instagram": "https://www.instagram.com/rohit_roy_x/"
+      }
+    ]
+  },
+
   {
     "name": "Arpan Peter",
     "username": "arpanpeter",
