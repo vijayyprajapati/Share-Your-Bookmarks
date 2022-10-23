@@ -1,5 +1,26 @@
 [
   {
+    "name": "italo Almeida",
+    "username": "all0cer",
+    "bio": "Student TADS",
+
+    "links": [
+      "https://resumeb.netlify.app/",
+      "https://www.bookmarks.design",
+      "https://www.lapa.ninja/",
+      "https://twitter.com/MentorWebDev/status/1579766236031995906",
+      "https://www.linkedin.com/company/codingame/"
+    ],
+    "social": [
+      {
+        "twitter": "I no have"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/br/italo-almeida/"
+      }
+    ]
+  },
+  {
     "name": "Faizan Potrick",
     "username": "FaizanPotrick",
     "bio": "Full Stack Web Developer",
