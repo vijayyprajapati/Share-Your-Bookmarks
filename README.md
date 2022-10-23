@@ -20,19 +20,44 @@
 A platform where anyone can make their profile, share their Twitter and LinkedIn bookmarks, see other shared bookmarks, and contribute to the community.
 
 #### Website for this repository : <https://share-your-bookmarks.netlify.app/>
+#### Backend API documentation : <https://documenter.getpostman.com/view/19278775/2s84DmwPhX>
 
 ## Technology Stack used:
 
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 
-<!-- <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>  <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/> -->
+<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>  <img src="https://img.shields.io/badge/render%20-%23430098.svg?&style=for-the-badge&logo=render&logoColor=white"/>
 
- <!-- <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/> <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/> -->
+ <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/> <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 
 - **Frontend**: HTML5, CSS3, JavaScript
-<!-- - **Backend**: Node.js, Express.js -->
+- **Backend**: Node.js, Express.js
 - **IDE**: [Visual Studio Code](https://code.visualstudio.com/download)
 - **Version Control**: [Git](https://git-scm.com/downloads) and [GitHub](https://git-scm.com/downloads)
+
+## Steps to add your bookmark data
+1. **Open Terminal** For windows open powershell or terminal. For Linux or mac open terminal.
+2. **Make Request** now run following command. Make sure to change values according to you:
+```
+curl -X POST https://bookmark-vqbz.onrender.com/ \
+   -H 'Content-Type: application/json' \
+   -d '{
+    "name": "your name here",
+    "username": "your_unique_username_here",
+    "bio": "your bio here",
+    "links": [
+      "your first bookmark link",
+      "your second bookmark link",
+      "your third bookmark link",
+      "your fourth bookmark link",
+      "your fifth bookmark link"
+    ],
+    "social": {
+        "twitter": "your twitter/other handle here",
+        "linkedin": "your linkedin/other handle here"
+    }
+}'
+```
 
 ## Steps to Contribute
 
@@ -43,31 +68,7 @@ A platform where anyone can make their profile, share their Twitter and LinkedIn
 git clone git@github.com:<your_github_username_here>/Share-Your-Bookmarks.git
 ```
 
-3. **Edit** `data.json` file in your favourite code editor by pasting this code at the end of the array. See others code for reference.
-
-```json
-{
-    "name": "your name here",
-    "username": "your unique username here",
-    "bio": "your bio here",
-
-    "links": [
-      "your first bookmark link",
-      "your second bookmark link",
-      "your third bookmark link",
-      "your fourth bookmark link",
-      "your fifth bookmark link"
-    ],
-    "social": [
-      {
-        "twitter": "your twitter/other handle here"
-      },
-      {
-        "linkedin": "your linkedin/other handle here"
-      }
-    ]
-  },
-```
+3. **Edit** Make changes in the files to solve any issue.
 
 4. Type these commands in your cmd/git bash to **stage, commit and push** the changes in your cloned repo.
 
