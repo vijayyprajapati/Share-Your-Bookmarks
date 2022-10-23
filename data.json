@@ -1639,6 +1639,29 @@
     ]
   },
   {
+    "name": "Tripti Chugh",
+    "username": "Tripzeee3",
+    "bio": "BVCOE'24 | Full Stack Developer | ReactJS | Django",
+
+    "links": [
+      "https://github.com/triptiii3",
+      "https://www.geeksforgeeks.org/how-to-become-a-full-stack-web-developer-in-2021/",
+      "https://www.geeksforgeeks.org/react-js-introduction-working/?ref=lbp",
+      "https://www.geeksforgeeks.org/typescript/",
+      "https://www.geeksforgeeks.org/python-programming-language/?ref=shm",
+      "https://www.geeksforgeeks.org/data-structures/?ref=shm"
+    ],
+    "social": [
+      {
+        "twitter": "#"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/triptichugh/"
+      }
+    ]
+  }
+  
+,{
     "name": "Ihtisham",
     "username": "Ihtisham.se",
     "bio": "Tech Enthusiast | Full Stack Web Developer ",
@@ -1658,5 +1681,5 @@
         "linkedin": "https://www.linkedin.com/in/ihtisham-khan"
       }
     ]
-  },
+  }
 ]
