@@ -43,6 +43,24 @@
       }
     ]
   },
+    {
+    "name": "Bindal",
+    "username": "Bindal",
+    "bio": "Student",
+    "links": [
+           "https://twitter.com/naval/status/1002103360646823936?s=20&t=g-xKxHA696ytxfBzbjZhig",
+      
+
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/bindal"
+      },
+      {
+        "linkedin": "#"
+      }
+    ]
+  },
   {
     "name": "italo Almeida",
     "username": "all0cer",
