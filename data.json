@@ -1703,4 +1703,25 @@
       }
     ]
   }
+    ,{
+    "name": "Aman Singh",
+    "username": "Aman_19",
+    "bio": "Student",
+
+    "links": [
+      "https://github.com/Aman1919",
+      "https://www.linkedin.com/in/aman-singh-64a30b212/",
+      "https://auth.geeksforgeeks.org/user/amansingh33849",
+      "https://twitter.com/Aman_0019",
+      "https://leetcode.com/amansing_12/"
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/Aman_0019"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/aman-singh-64a30b212/"
+      }
+    ]
+  }   
 ]
