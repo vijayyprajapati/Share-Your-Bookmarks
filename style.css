@@ -254,3 +254,32 @@ nav > a :hover{
 .fa-github{
   font-size: 1.5rem;
 }
+/* Scroll to Top Button Code Starts Here */
+html{
+  scroll-behavior: smooth;
+}
+#progress{
+  position: fixed;
+  bottom: 20px;
+  right: 25px;
+  height: 70px;
+  width: 70px;
+  display: none;
+  place-items: center;
+  border-radius: 50%;
+  box-shadow: 0 0 10px rgba(0 0 0 0.2);
+  cursor: pointer;
+  z-index: 1000;
+}
+#progress-value{
+  display: block;
+  height: calc(100% - 15px);
+  width: calc(100% - 15px);
+  background-color: white;
+  border-radius: 50%;
+  display: grid;
+  place-items: center;
+  font-size: 35px;
+  color: #001a2e;
+}
+/* Scroll to Top Button Code Ends Here */
