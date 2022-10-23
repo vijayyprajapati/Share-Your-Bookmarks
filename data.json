@@ -21,6 +21,23 @@
       }
     ]
   },
+    {
+    "name": "Abhay Kumar",
+    "username": "Mr. Abhi",
+    "bio": "Student",
+    "links": [
+           "https://twitter.com/naval/status/1002103360646823936?s=20&t=g-xKxHA696ytxfBzbjZhig"
+
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/abhi10799"
+      },
+      {
+        "linkedin": "#"
+      }
+    ]
+  },
   {
     "name": "italo Almeida",
     "username": "all0cer",
