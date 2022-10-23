@@ -1637,5 +1637,26 @@
         "linkedin": "https://www.linkedin.com/in/subarna-saikia/"
       }
     ]
-  }
+  },
+  {
+    "name": "Ihtisham",
+    "username": "Ihtisham.se",
+    "bio": "Tech Enthusiast | Full Stack Web Developer ",
+    "links": [
+      "https://www.linkedin.com/in/ihtisham-khan/",
+      "https://twitter.com/ihtisham033",
+      "https://dev.to/",
+      "https://laracasts.com/",
+      "https://overapi.com/",
+      "https://www.30secondsofcode.org/"
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/ihtisham033"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/ihtisham-khan"
+      }
+    ]
+  },
 ]
