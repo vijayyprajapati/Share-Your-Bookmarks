@@ -1,4 +1,26 @@
 [
+
+{
+    "name": "Harsh Bhagat",
+    "username": "BhaguBhai",
+    "bio": "Hello, I am Harsh Bhagat. I am a passionate programmer who loves competitive programming and Developing meaningful things, I am 3* at CodeChef, and I know Java,c,c++, python, JS, and dart. I am interested in the MERN stack and currently sharpening my skills there.",
+
+    "links": [
+      "https://github.com/BhagatHarsh/",
+      "https://devfolio.co/@HarshBhagat",
+      "https://hacktoberfest.com/",
+      "https://youtube.com/",
+      "https://cp-algorithms.com/"
+    ],
+    "social": [
+      {
+        "twitter": "None"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/harsh-bhagat-376446235"
+      }
+    ]
+  },
   {
     "name": "italo Almeida",
     "username": "all0cer",
