@@ -1,5 +1,26 @@
 [
   {
+    "name": "italo Almeida",
+    "username": "all0cer",
+    "bio": "Student TADS",
+
+    "links": [
+      "https://resumeb.netlify.app/",
+      "https://www.bookmarks.design",
+      "https://www.lapa.ninja/",
+      "https://twitter.com/MentorWebDev/status/1579766236031995906",
+      "https://www.linkedin.com/company/codingame/"
+    ],
+    "social": [
+      {
+        "twitter": "I no have"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/br/italo-almeida/"
+      }
+    ]
+  },
+  {
     "name": "Faizan Potrick",
     "username": "FaizanPotrick",
     "bio": "Full Stack Web Developer",
@@ -17,6 +38,48 @@
       },
       {
         "linkedin": "www.linkedin.com/in/faizan-potrick"
+      }
+    ]
+  },
+  {
+    "name": "Anmol Yadav",
+    "username": "ANMOLYADAV1402",
+    "bio": "Full Stack Web Developer",
+    "links": [
+      "https://www.youtube.com/watch?v=1SnPKhCdlsU&list=PLu0W_9lII9ahKZ42vg2w9ERPmShYbYAB7&index=1&t=0s",
+      "https://www.youtube.com/watch?v=oSIv-E60NiU&list=PLu0W_9lII9ahKZ42vg2w9ERPmShYbYAB7&index=1&t=0s",
+      "https://www.youtube.com/watch?v=gwWKnnCMQ5c&list=PLu0W_9lII9ahKZ42vg2w9ERPmShYbYAB7&index=1&t=0s",
+      "https://www.youtube.com/watch?v=gfDE2a7MKjA&list=PLu0W_9lII9ahKZ42vg2w9ERPmShYbYAB7&index=1&t=0s",
+      "https://www.youtube.com/watch?v=61a7UkDO50s&list=PLu0W_9lII9ahKZ42vg2w9ERPmShYbYAB7&index=1&t=0s",
+      "https://www.youtube.com/watch?v=uufDGjTuq34&list=PLu0W_9lII9ahKZ42vg2w9ERPmShYbYAB7&index=1&t=0s"
+    ],
+    "social": [
+      {
+        "github": "https://github.com/ANMOLYADAV1402"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/anmol-yadav-15200022a/"
+      }
+    ]
+  },
+  {
+    "name": "Ruchita Sonawale",
+    "username": "ruchi-115",
+    "bio": "Full Stack Web Developer",
+    "links": [
+      "https://ruchita.vercel.app/",
+      "https://spotify-clone-6de9b.web.app/#",
+      "https://planets-gilt.vercel.app/",
+      "https://doctor-chatbot-11.vercel.app/",
+      "https://ideacon-gdsc.vercel.app/",
+      "https://ruchi-115.github.io/Plantae-QR-Garden/"
+    ],
+    "social": [
+      {
+        "github": "https://github.com/ruchi-115"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/ruchita-sonawale-475063196/"
       }
     ]
   },
@@ -265,6 +328,7 @@
       }
     ]
   },
+
   {
     "name": "Krapi Rastogi",
     "username": "krapirastogi",
@@ -465,6 +529,20 @@
     ]
   },
   {
+    "name": "Pulkit London",
+    "username": "Devil's Master",
+    "bio": "Plant",
+    "links": ["https://twitter.com/frontendilia/status/1529103411882381312"],
+    "social": [
+      {
+        "twitter": "https://twitter.com/pulkitbl"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/pulkit-London-9a9620245/"
+      }
+    ]
+  },
+  {
     "name": "Darth Raider",
     "username": "Darth",
     "bio": "Noob",
@@ -472,8 +550,10 @@
       "https://twitter.com/DeepakshiSud/status/1377997646992867331?s=20&t=bfOiSBMafhGuCowWajYxQg",
       "https://twitter.com/thefarooqii/status/1580987551493521417?s=20&t=bfOiSBMafhGuCowWajYxQg",
       "https://twitter.com/PinakiLaskar/status/1580973816972394498?s=20&t=bfOiSBMafhGuCowWajYxQg",
+      "https://twitter.com/shrayjayn8/status/1574705931572899841?t=C_IVY9rvpmw1JLbO9Hp7AA&s=19",
       "https://twitter.com/KirkDBorne/status/1580747356911579136?s=20&t=bfOiSBMafhGuCowWajYxQg",
       "https://twitter.com/Damldriven/status/1566892918853570562",
+      "https://twitter.com/marmooznet/status/1494027549495599108",
       "https://twitter.com/MentorWebDev/status/1579766236031995906"
     ],
     "social": [
@@ -515,6 +595,7 @@
       "https://twitter.com/nevrekaraishwa2/status/1546776814055411713?s=20&t=ocIehP3sNZGegcvBv0_R_Q",
       "https://twitter.com/SystemSunday/status/1563865370003374080?s=20&t=ocIehP3sNZGegcvBv0_R_Q",
       "https://twitter.com/IrffanAsiff/status/1562779969062809611?s=20&t=ocIehP3sNZGegcvBv0_R_Q",
+      "https://twitter.com/Prathkum/status/1567929139323351041?s=20&t=k7geimnNjB0ONv2wrv4CZQ",
       "https://twitter.com/Phi_of_Mind/status/1561255537471156224?s=20&t=ocIehP3sNZGegcvBv0_R_Q",
       "https://twitter.com/neembu_paani31/status/1560879159043584001?s=20&t=ocIehP3sNZGegcvBv0_R_Q"
     ],
@@ -555,8 +636,10 @@
       "https://twitter.com/i/events/1580410110421004291",
       "https://twitter.com/thefarooqii/status/1580987551493521417?s=20&t=bfOiSBMafhGuCowWajYxQg",
       "https://twitter.com/PinakiLaskar/status/1580973816972394498?s=20&t=bfOiSBMafhGuCowWajYxQg",
+      "https://twitter.com/nevrekaraishwa2/status/1546776814055411713?s=20&t=ocIehP3sNZGegcvBv0_R_Q",
       "https://twitter.com/KirkDBorne/status/1580747356911579136?s=20&t=bfOiSBMafhGuCowWajYxQg",
       "https://twitter.com/Damldriven/status/1566892918853570562",
+      "https://www.youtube.com/watch?v=HnzExLwH2dI",
       "https://twitter.com/MentorWebDev/status/1579766236031995906"
     ],
     "social": [
@@ -575,7 +658,11 @@
     "links": [
       "https://twitter.com/i/events/1580410110421004291",
       "https://twitter.com/MentorWebDev/status/1579766236031995906",
+      "https://twitter.com/thefarooqii/status/1580987551493521417?s=20&t=bfOiSBMafhGuCowWajYxQg",
+      "https://twitter.com/PinakiLaskar/status/1580973816972394498?s=20&t=bfOiSBMafhGuCowWajYxQg",
       "https://twitter.com/AAXExchange/status/1557616725264564224",
+      "https://twitter.com/CoderBull/status/1256586681030856705?s=20&t=bo5QQJCewHMx27PDz6tO_w",
+      "https://twitter.com/BoketoMedia/status/1532829184896147458?s=20&t=bo5QQJCewHMx27PDz6tO_w",
       "https://twitter.com/MetaverseCh/status/1565037447309918211"
     ],
     "social": [
@@ -1362,6 +1449,27 @@
     ]
   },
   {
+    "name": "Ayush Kushwaha",
+    "username": "ayushkx",
+    "bio": "Web Developer",
+
+    "links": [
+      "https://sci-hub.se/",
+      "https://www.youtube.com/",
+      "https://www.interviewbit.com/coding-interview-questions/",
+      "https://classroom.google.com/u/0/h",
+      "https://practice.geeksforgeeks.org/"
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/_alphaparticle"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/ayushkx/"
+      }
+    ]
+  },
+  {
     "name": "YJ You",
     "username": "DEV-YJY",
     "bio": "Make this world better through coding",
@@ -1379,6 +1487,86 @@
       },
       {
         "linkedin": "https://www.linkedin.com/in/yjyou/"
+      }
+    ]
+  },
+  {
+    "name": "Shubham Sardar",
+    "username": "sardarshubham",
+    "bio": "Coder | Problem solver | Web Developer",
+
+    "links": [
+      "https://github.com/SardarShubham/",
+      "https://leetcode.com/problemset/all/",
+      "https://web.whatsapp.com/",
+      "https://mail.google.com/mail"
+    ],
+    "social": [
+      {
+        "twitter": "#"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/shubham-sardar-321a02196"
+      }
+    ]
+  },
+  {
+    "name": "Rohit Roy",
+    "username": "rohitroy",
+    "bio": "CSE'24 | Full Stack Developer | Blockchain Enthusiast | WordPress",
+
+    "links": [
+      "https://github.com/rohitroy-github",
+      "https://www.geeksforgeeks.org/how-to-become-a-blockchain-developer/",
+      "https://www.youtube.com/watch?v=aVQJGr2J8io",
+      "https://www.youtube.com/watch?v=xORdz1Hi9Gc",
+      "https://www.linkedin.com/feed/update/urn:li:activity:6987631936189960192/",
+      "https://www.linkedin.com/feed/update/urn:li:activity:6985458185708953600"
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/rohitroy_R"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/roy-rohit/"
+      }
+    ]
+  },
+  {
+    "name": "TechAE",
+    "username": "TechAE",
+    "bio": "Tech Enthusiast aspired in Full Stack Development",
+
+    "links": [
+      "https://ahsanehtesham.live/",
+      "https://techaeblogs.live/",
+      "https://github.com/Ahsan-Ehtesham"
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/AhsanEhtesham1"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/ahsan-ehtesham/"
+      }
+    ]
+  },
+  {
+    "name": "Subarna Saikia",
+    "username": "Subarna",
+    "bio": "Competitive Programmar",
+    "links": [
+      "https://www.linkedin.com/posts/sandeep-jain-b3940815_the-emphasis-should-be-on-the-quality-of-activity-6989067404119040000-E8it?utm_source=share&utm_medium=member_desktop",
+      "https://www.linkedin.com/posts/ayesha-zaka-2028121b4_remotework-freelance-upwork-activity-6987449237756104704-Qb8i?utm_source=share&utm_medium=member_desktop",
+      "https://www.linkedin.com/posts/abhish23_if-you-are-java-programmer-with-no-projects-activity-6988474042374647808-Pqz_?utm_source=share&utm_medium=member_desktop",
+      "https://www.linkedin.com/posts/sandeep-jain-b3940815_here-are-the-3-things-i-wish-i-knew-in-my-ugcPost-6988348916308062208-l0QQ?utm_source=share&utm_medium=member_desktop"
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/subarna_saikia"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/subarna-saikia/"
       }
     ]
   }
