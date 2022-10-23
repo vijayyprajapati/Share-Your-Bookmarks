@@ -1704,3 +1704,25 @@
     ]
   }
 ]
+,{
+    "name": "Suhana Parvin",
+    "username": "suhanaparvin12",
+    "bio": "Tech Enthusiast | Web Developer ",
+    "links": [
+      "https://www.linkedin.com/in/suhana-parvin-a72239247/",
+      "https://www.hackerrank.com/",
+      "https://dev.to/",
+      "https://leetcode.com/",
+      "https://stackoverflow.com/",
+      "https://www.30secondsofcode.org/"
+      "https://www.geeksforgeeks.org/data-structures/?ref=shm"
+      "https://www.geeksforgeeks.org/how-to-become-a-blockchain-developer/",
+    ],
+    "social": [
+      {
+        "linkedin": "https://www.linkedin.com/in/suhana-parvin-a72239247/"
+      }
+    ]
+  }
+]
+
