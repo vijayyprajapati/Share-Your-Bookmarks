@@ -1886,6 +1886,25 @@
 
       }
     ]
+  },
+  {
+    "name": "Wanderson José",
+    "username": "devwander",
+    "bio": "Programming student and lover of innovation",
+
+    "links": [
+      "https://github.com/devwander",
+      "https://www.instagram.com/wander.codes/"
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/devwander"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/wanderson-jos%C3%A9/"
+
+      }
+    ]
   }
 
 
