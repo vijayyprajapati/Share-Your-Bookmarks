@@ -1450,6 +1450,29 @@
 
       }
     ]
+
+  }, 
+  {
+    "name": "Rohit Roy",
+    "username": "rohitroy",
+    "bio": "CSE'24 | Full Stack Developer | Blockchain Enthusiast | WordPress",
+
+    "links": [
+      "https://github.com/rohitroy-github",
+      "https://www.geeksforgeeks.org/how-to-become-a-blockchain-developer/",
+      "https://www.youtube.com/watch?v=aVQJGr2J8io",
+      "https://www.youtube.com/watch?v=xORdz1Hi9Gc",
+      "https://www.linkedin.com/feed/update/urn:li:activity:6987631936189960192/", 
+      "https://www.linkedin.com/feed/update/urn:li:activity:6985458185708953600"
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/rohitroy_R"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/roy-rohit/"
+      }
+      ]
   },
   {
     "name": "TechAE",
@@ -1467,6 +1490,7 @@
       },
       {
         "linkedin": "https://www.linkedin.com/in/ahsan-ehtesham/"
+
       }
     ]
   }
