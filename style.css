@@ -9,6 +9,24 @@ body {
   color: white;
 }
 
+/* ------------ Custom Scroll Bar CSS------ */
+/* Note: This support only in Chrome Browser and Safari Browser not in Firefox and IE*/
+::-webkit-scrollbar {
+  width: 16px;
+}
+
+::-webkit-scrollbar-thumb{
+  background-image: linear-gradient(180deg, #f22094 20%, #003eea 80%);
+  box-shadow: inset 2px 2px 5px 0 rgba(#fff, 0.5);
+  border-radius: 100px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  opacity: 0.2;
+}
+/* ------------------------------------------- */
+
+
 .main-header {
   background-color: #1a1c21;
   text-align: center;
