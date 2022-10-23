@@ -1,6 +1,5 @@
 [
-
-{
+  {
     "name": "Harsh Bhagat",
     "username": "BhaguBhai",
     "bio": "Hello, I am Harsh Bhagat. I am a passionate programmer who loves competitive programming and Developing meaningful things, I am 3* at CodeChef, and I know Java,c,c++, python, JS, and dart. I am interested in the MERN stack and currently sharpening my skills there.",
@@ -21,18 +20,17 @@
       }
     ]
   },
-    {
+  {
     "name": "Abhay Kumar",
     "username": "Mr. Abhi",
     "bio": "Student",
     "links": [
-           "https://twitter.com/naval/status/1002103360646823936?s=20&t=g-xKxHA696ytxfBzbjZhig",
-        "https://www.youtube.com/watch?v=61a7UkDO50s&list=PLu0W_9lII9ahKZ42vg2w9ERPmShYbYAB7&index=1&t=0s",
+      "https://twitter.com/naval/status/1002103360646823936?s=20&t=g-xKxHA696ytxfBzbjZhig",
+      "https://www.youtube.com/watch?v=61a7UkDO50s&list=PLu0W_9lII9ahKZ42vg2w9ERPmShYbYAB7&index=1&t=0s",
       "https://www.youtube.com/watch?v=uufDGjTuq34&list=PLu0W_9lII9ahKZ42vg2w9ERPmShYbYAB7&index=1&t=0s",
-        "https://cp-algorithms.com/",
-        "https://www.bookmarks.design/",
+      "https://cp-algorithms.com/",
+      "https://www.bookmarks.design/",
       "https://www.lapa.ninja/"
-
     ],
     "social": [
       {
@@ -43,20 +41,18 @@
       }
     ]
   },
-    {
+  {
     "name": "Bindal",
     "username": "Bindal",
     "bio": "Student",
     "links": [
-           "https://twitter.com/naval/status/1002103360646823936?s=20&t=g-xKxHA696ytxfBzbjZhig",
-        "https://www.lapa.ninja/",
+      "https://twitter.com/naval/status/1002103360646823936?s=20&t=g-xKxHA696ytxfBzbjZhig",
+      "https://www.lapa.ninja/",
       "https://www.instagram.com/p/CJ8CVk1Bvd8/?hl=en",
-         "https://resumeb.netlify.app/",
+      "https://resumeb.netlify.app/",
       "https://www.bookmarks.design",
-         "https://twitter.com/vandadnp/status/1578615081381740544",
+      "https://twitter.com/vandadnp/status/1578615081381740544",
       "https://twitter.com/Kynsofficial/status/1510206424823083008"
-      
-
     ],
     "social": [
       {
@@ -1660,6 +1656,27 @@
     ]
   },
   {
+    "name": "Ansh Mondal",
+    "username": "Ansh1Mondal",
+    "bio": "A passionate Frontend Developer",
+
+    "links": [
+      "https://www.flaticon.com/",
+      "https://www.spin.com/featured/50-best-edm-songs-played-at-every-summer-festival/",
+      "https://react-bootstrap.github.io/",
+      "https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ",
+      "https://anshmondal.netlify.app/"
+    ],
+    "social": [
+      {
+        "twitter": "#"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/ansh1mondal/"
+      }
+    ]
+  },
+  {
     "name": "Tripti Chugh",
     "username": "Tripzeee3",
     "bio": "BVCOE'24 | Full Stack Developer | ReactJS | Django",
@@ -1680,9 +1697,9 @@
         "linkedin": "https://www.linkedin.com/in/triptichugh/"
       }
     ]
-  }
-  
-,{
+  },
+
+  {
     "name": "Ihtisham",
     "username": "Ihtisham.se",
     "bio": "Tech Enthusiast | Full Stack Web Developer ",
