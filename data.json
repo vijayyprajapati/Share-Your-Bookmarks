@@ -1827,6 +1827,7 @@
       }
     ]
   },
+  
   {
     "name": "Debdeep Ghosal",
     "username": "Debdeepghosal",
@@ -1844,7 +1845,7 @@
         "linkedin": "https://www.linkedin.com/in/debdeep-ghosal-064589225/"
       }
     ]
-  },
+},
   {
     "name": "Rushiraj Kudapane",
     "username": "rushiikudapane",
@@ -1863,8 +1864,30 @@
       },
       {
         "linkedin": "https://www.linkedin.com/in/rushiraj-kudapane-954b81205/"
+}
+]
+},
+
+  {
+    "name": "Chirag Tyagi",
+    "username": "chiragtyagi2003",
+    "bio": "19 year old explorer",
+
+    "links": [
+      "https://github.com/chiragtyagi2003",
+      "https://developers.google.com/profile/u/ChiragTyagi?utm_source=developer.android.com"
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/iamsochirag"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/chirag-tyagi-21154b225/"
+
       }
     ]
   }
+
+
 ]
 
