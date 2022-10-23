@@ -168,6 +168,7 @@
       }
     ]
   },
+  
   {
     "name": "Ajitkumar Sharma ",
     "username": "Ajit619",
@@ -185,6 +186,27 @@
       },
       {
         "linkedin": "https://www.linkedin.com/in/ajitkumar-sharma-72b2101bb"
+      }
+    ]
+  },
+  {
+    "name": "Arya Singh",
+    "username": "GitArya27",
+    "bio": "Full Stack Web Developer",
+    "links": [
+      "https://amzn.to/38fKSM1",
+      "https://amzn.to/3w8iZh6",
+      "https://amzn.to/3yjcn23",
+      "https://amzn.to/39yEMGS",
+      "https://amzn.to/3kMnKYf",
+      "https://amzn.to/3kMohtd"
+    ],
+    "social": [
+      {
+        "github": "https://github.com/GitArya27"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/arya-singh-15267522a/"
       }
     ]
   },
