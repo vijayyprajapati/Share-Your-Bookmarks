@@ -1886,6 +1886,28 @@
 
       }
     ]
+  },
+
+  {
+    "name": "Vasudev Pant",
+    "username": "VasudevPant",
+    "bio": "20 year old tech enthusiast",
+
+    "links": [
+      "https://github.com/VasudevPant",
+      "https://www.hackerrank.com/vp7952?hr_r=1",
+      "https://dribbble.com/dev_vasu21",
+      "https://leetcode.com/vp7952/",
+      "https://medium.com/@dev_vasu21"    
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/VasudevPant"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/vasudevpant/"
+      }
+    ]
   }
 
 
