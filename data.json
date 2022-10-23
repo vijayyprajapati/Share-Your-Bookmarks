@@ -1844,6 +1844,27 @@
         "linkedin": "https://www.linkedin.com/in/debdeep-ghosal-064589225/"
       }
     ]
+  },
+  {
+    "name": "Rushiraj Kudapane",
+    "username": "rushiikudapane",
+    "bio": "I'm a student and a programmer who loves competitive programming and development",
+
+    "links": [
+      "https://leetcode.com/rushiikudapane/",
+      "https://auth.geeksforgeeks.org/user/kudapanerushi13/",
+      "https://github.com/rushiikudapane/WeatherApp",
+      "https://github.com/rushiikudapane/ExpenseTracker",
+      "https://www.codechef.com/users/rushiikudapane"
+    ],
+    "social": [
+      {
+        "twitter": "none"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/rushiraj-kudapane-954b81205/"
+      }
+    ]
   }
 ]
 
