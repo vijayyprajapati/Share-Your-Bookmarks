@@ -1702,5 +1702,26 @@
         "linkedin": "https://www.linkedin.com/in/ihtisham-khan"
       }
     ]
-  }
+  },
+  {
+    "name": "Zainab Ibraheem",
+    "username": "zainab_ibraheem",
+    "bio": "Data Scientist",
+
+    "links": [
+      "https://app.dataquest.io/login",
+      "https://www.postgresql.org/docs/8.1/functions-string.html",
+      "https://students.yourlearning.ibm.com/activity/PLAN-443005DC2436",
+      "https://www.epa.gov/compliance-and-fuel-economy-data/data-cars-used-testing-fuel-economy",
+      "https://aws-discussions.udacity.com/top?period=weekly"
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/IbraheemZainab4"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/zainab-ibraheem-494206185/"
+      }
+    ]
+  },
 ]
