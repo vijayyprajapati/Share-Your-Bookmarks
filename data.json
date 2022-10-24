@@ -1906,6 +1906,27 @@
 
       }
     ]
+  },
+  {
+    "name": "Sayantan Paul",
+    "username": "SayantanPaultbz",
+    "bio": " MERN Full Stack Dev 🍁 | Graphic Designer 🌸 | Currently Learning ML and Cloud 🍕",
+
+    "links": [
+      "https://cs50.harvard.edu/x/2022/",
+      "https://twitter.com/ashwani_kumar_4/status/1581896025307901952?s=46&t=Qw1ScVrK92qty-aJRy3prQ",
+      "https://www.youtube.com/playlist?list=PL0Zuz27SZ-6PFkIxaJ6Xx_X46avTM1aYw",
+      "https://freeforstudents.org/",
+      "https://avinash201199.github.io/Competitions-and-Programs-List/"
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/Sayantantwtss"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/imsayantanpaul"
+      }
+    ]
   }
 
 
