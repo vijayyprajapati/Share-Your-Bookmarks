@@ -1950,6 +1950,24 @@
 
       }
     ]
+  },
+  {
+    "name": "Priyanshu Jain",
+    "username": "PriyanshuJain13",
+    "bio": "Student",
+
+    "links": [
+      "https://github.com/PriyanshuJain13"
+
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/Priyans17027366"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/priyanshu-jain-637406214/"
+      }
+    ]
   }
 
 
