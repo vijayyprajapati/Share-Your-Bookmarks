@@ -1,5 +1,26 @@
 [
   {
+    "name": "Krishnadev P Melevila",
+    "username": "krishnadevpmelevila",
+    "bio": "Hello, I am a cyber security researcher and self-learned ethical hacker. Krishnadev P Melevila was born on 17-04-2002 and bought up in the Kerala state of India. He is an expert in cybersecurity and penetration testing and is mainly focused on web application security. Krishnadev P Melevila had secured many websites around the world including Speed exams, Entri App, MG University, Kerala Public Service Commission, and 20+ more companies. ",
+
+    "links": [
+      "https://github.com/krishnadevpmelevila/",
+      "https://krishnadevpmelevila.medium.com",
+      "https://krishnadevpmelevila.com/",
+      "https://youtube.com/nodeista",
+      "https://beta.openai.com/playground"
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/krishnadev_p_m"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/krishnadevpmelevila/"
+      }
+    ]
+  },
+  {
     "name": "Harsh Bhagat",
     "username": "BhaguBhai",
     "bio": "Hello, I am Harsh Bhagat. I am a passionate programmer who loves competitive programming and Developing meaningful things, I am 3* at CodeChef, and I know Java,c,c++, python, JS, and dart. I am interested in the MERN stack and currently sharpening my skills there.",
@@ -189,7 +210,7 @@
       }
     ]
   },
-  
+
   {
     "name": "Ajitkumar Sharma ",
     "username": "Ajit619",
@@ -681,11 +702,11 @@
     "username": "Devil's Master",
     "bio": "Plant",
     "links": [
-       "https://twitter.com/frontendilia/status/1529103411882381312",
-       "https://www.youtube.com/watch?v=uufDGjTuq34&list=PLu0W_9lII9ahKZ42vg2w9ERPmShYbYAB7&index=1&t=0s",
+      "https://twitter.com/frontendilia/status/1529103411882381312",
+      "https://www.youtube.com/watch?v=uufDGjTuq34&list=PLu0W_9lII9ahKZ42vg2w9ERPmShYbYAB7&index=1&t=0s",
       "https://cp-algorithms.com/",
       "https://www.bookmarks.design/"
-             ],
+    ],
     "social": [
       {
         "twitter": "https://twitter.com/pulkitbl"
@@ -707,7 +728,7 @@
       "https://twitter.com/KirkDBorne/status/1580747356911579136?s=20&t=bfOiSBMafhGuCowWajYxQg",
       "https://twitter.com/Damldriven/status/1566892918853570562",
       "https://twitter.com/marmooznet/status/1494027549495599108",
-           "https://www.lapa.ninja/",
+      "https://www.lapa.ninja/",
       "https://www.instagram.com/p/CJ8CVk1Bvd8/?hl=en",
       "https://resumeb.netlify.app/",
       "https://www.bookmarks.design",
@@ -1791,7 +1812,6 @@
         "linkedin": "https://www.linkedin.com/in/ihtisham-khan"
       }
     ]
-
   },
   {
     "name": "Zainab Ibraheem",
@@ -1813,9 +1833,9 @@
         "linkedin": "https://www.linkedin.com/in/zainab-ibraheem-494206185/"
       }
     ]
-  }
-  
-    ,{
+  },
+
+  {
     "name": "Aman Singh",
     "username": "Aman_19",
     "bio": "Student",
@@ -1835,8 +1855,8 @@
         "linkedin": "https://www.linkedin.com/in/aman-singh-64a30b212/"
       }
     ]
-  }   
-,{
+  },
+  {
     "name": "Suhana Parvin",
     "username": "suhanaparvin12",
     "bio": "Tech Enthusiast | Web Developer ",
@@ -1856,7 +1876,7 @@
       }
     ]
   },
-  
+
   {
     "name": "Debdeep Ghosal",
     "username": "Debdeepghosal",
@@ -1874,7 +1894,7 @@
         "linkedin": "https://www.linkedin.com/in/debdeep-ghosal-064589225/"
       }
     ]
-},
+  },
   {
     "name": "Rushiraj Kudapane",
     "username": "rushiikudapane",
@@ -1893,9 +1913,9 @@
       },
       {
         "linkedin": "https://www.linkedin.com/in/rushiraj-kudapane-954b81205/"
-}
-]
-},
+      }
+    ]
+  },
 
   {
     "name": "Chirag Tyagi",
@@ -1912,12 +1932,10 @@
       },
       {
         "linkedin": "https://www.linkedin.com/in/chirag-tyagi-21154b225/"
-
       }
     ]
   },
   {
-
     "name": "Mariana Beldi",
     "username": "marianabeldi",
     "bio": "Web Developer & UI/UX Designer",
@@ -1935,10 +1953,10 @@
       },
       {
         "linkedin": "https://www.linkedin.com/in/marianabeldi"
-}
-]
-},
-{
+      }
+    ]
+  },
+  {
     "name": "Sayantan Paul",
     "username": "SayantanPaultbz",
     "bio": " MERN Full Stack Dev 🍁 | Graphic Designer 🌸 | Currently Learning ML and Cloud 🍕",
@@ -1956,32 +1974,28 @@
       },
       {
         "linkedin": "https://www.linkedin.com/in/imsayantanpaul"
-
       }
     ]
-},
-{
+  },
+  {
+    "name": "Sonam",
+    "username": "SonamMalik17",
+    "bio": "Working on Full Stack Web Development",
 
-  "name": "Sonam",
-  "username": "SonamMalik17",
-  "bio": "Working on Full Stack Web Development",
-
-  "links": [
-    "https://youtube.com/playlist?list=PLpdFrYE1OcJWVrlTKoueww8wPcx8_ZxLD",
-    "https://youtu.be/VIcBpRpiBoc",
-    "https://www.codechef.com/submit/CHNGIT?tab=statement",
-    "https://youtube.com/playlist?list=PLpdFrYE1OcJVA_nuIATfZ5lwoxjxT5dhK",
-    "https://youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q"
-  ],
-  "social": [
-    {
-      "twitter": "none"
-    },
-    {
-      "linkedin": "https://www.linkedin.com/in/sonam-malik-312467222"
-    }
-  ]
-}
-
+    "links": [
+      "https://youtube.com/playlist?list=PLpdFrYE1OcJWVrlTKoueww8wPcx8_ZxLD",
+      "https://youtu.be/VIcBpRpiBoc",
+      "https://www.codechef.com/submit/CHNGIT?tab=statement",
+      "https://youtube.com/playlist?list=PLpdFrYE1OcJVA_nuIATfZ5lwoxjxT5dhK",
+      "https://youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q"
+    ],
+    "social": [
+      {
+        "twitter": "none"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/sonam-malik-312467222"
+      }
+    ]
+  }
 ]
-
