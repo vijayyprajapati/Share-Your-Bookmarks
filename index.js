@@ -30,20 +30,22 @@ const userDetails = async () => {
   // console.log(storePersonName);
   const alldata = await fetch(`./data.json`);
   data = await alldata.json();
-  // console.log(data);
+  // console.log("data",data);
   let i;
   for (i = 0; i < data.length; i++) {
     // console.log("in loop");
     // console.log(storePersonName);
-    // console.log(data[i].username);
+    console.log(data[i].username);
     const string1 = data[i].username;
     const string2 = storePersonName;
     const result = string1.localeCompare(string2);
+    // console.log("result",result);
     // const result = data[i].username === abhay;
     if (result == 0) {
       // console.log("in if");
       // console.log(storePersonName);
-      // console.log(data[i].username);
+      const showDetails = document.getElementById("showDetails");
+      console.log(showDetails);
       showDetails.innerHTML = `<div class="userHead">
       <div class="userName">
         ${data[i].name}
@@ -54,12 +56,13 @@ const userDetails = async () => {
       // console.log(data[i].links.length);
       for (let j = 0; j < data[i].links.length; j++) {
         // console.log("in loop");
+        const linksData = document.getElementById("linksData");
         linksData.innerHTML += `
           <li class="link"><i class="fa fa-bookmark"></i><a href=${data[i].links[j]} target="_blank">${data[i].links[j]}</a></li>`;
         // console.log(data[i].links[j]);
       }
       // console.log("loop chal gaya");
-
+      const socialLinks = document.getElementById("socialLinks");
       socialLinks.innerHTML = `
       <a href=${data[i].social[0].twitter} target="_blank"><button>Twitter</button></a>
       <a href=${data[i].social[1].linkedin} target="_blank"><button>Linkedin</button></a>`;
