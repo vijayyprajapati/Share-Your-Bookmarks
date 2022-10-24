@@ -680,7 +680,12 @@
     "name": "Pulkit London",
     "username": "Devil's Master",
     "bio": "Plant",
-    "links": ["https://twitter.com/frontendilia/status/1529103411882381312"],
+    "links": [
+       "https://twitter.com/frontendilia/status/1529103411882381312",
+       "https://www.youtube.com/watch?v=uufDGjTuq34&list=PLu0W_9lII9ahKZ42vg2w9ERPmShYbYAB7&index=1&t=0s",
+      "https://cp-algorithms.com/",
+      "https://www.bookmarks.design/"
+             ],
     "social": [
       {
         "twitter": "https://twitter.com/pulkitbl"
