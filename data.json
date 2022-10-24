@@ -1306,10 +1306,13 @@
   {
 		"name": "Jhoan Alvear",
 		"username": "Jhoan Alvear",
-		"bio": "",
+		"bio": "A passionate backend developer, work in bancolombia company",
 
 		"links": [
 			"https://www.linkedin.com/in/jhoan-david-alvear-sanchez-38904476",
+      "https://github.com/JhoanAlvear",
+      "https://github.com/JhoanAlvear/proalnetiot",
+      "https://www.facebook.com/jhoan.alvear/",
       "https://www.linkedin.com/in/jhoan-david-alvear-sanchez-38904476"
 		],
 		"social": [
@@ -1320,7 +1323,8 @@
 				"linkedin": "https://www.linkedin.com/in/jhoan-david-alvear-sanchez-38904476"
 			}
 		]
-	}
+	} 
+  
 
   
 ]
