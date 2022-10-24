@@ -9,6 +9,24 @@ body {
   color: white;
 }
 
+/* ------------ Custom Scroll Bar CSS------ */
+/* Note: This support only in Chrome Browser and Safari Browser not in Firefox and IE*/
+::-webkit-scrollbar {
+  width: 16px;
+}
+
+::-webkit-scrollbar-thumb{
+  background-image: linear-gradient(180deg, #f22094 20%, #003eea 80%);
+  box-shadow: inset 2px 2px 5px 0 rgba(#fff, 0.5);
+  border-radius: 100px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  opacity: 0.2;
+}
+/* ------------------------------------------- */
+
+
 .main-header {
   background-color: #1a1c21;
   text-align: center;
@@ -18,8 +36,8 @@ body {
   padding: 24px;
 }
 .main-header p {
-  font-size: 1.2rem;
-  margin: 1rem 0 3rem 0;
+  font-size: clamp(0.5rem, 3vw, 1.2rem);;
+  margin: 1rem 0rem;
 }
 
 .main-header h3 {
@@ -32,14 +50,16 @@ body {
   font-weight: bold;
   border: 1px dotted #FFF;
   padding: 5px;
+  font-size: clamp(0.5rem, 2.75vw, 1.2rem);
 }
 
 main .showData {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-wrap: wrap;
-  margin: 20px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  /* align-items: center; */
+  /* justify-content: center; */
+  /* flex-wrap: wrap; */
+  /* margin: 20px; */
   margin-top: 30px;
 }
 
@@ -56,10 +76,22 @@ main .showData {
   outline: 2px dotted #55d7dc;
 }
 
+.singlePerson {
+  max-width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.singlePerson a {
+  display: flex;
+  width: 100%;
+}
 
 main .showData .singlePerson button {
-  margin: 10px;
-  padding: 1rem 2rem;
+  margin: 10px auto;
+  width: 90%;
+  padding: 1.5rem 2rem;
   background-color: #1a1c21;
   color: white;
   opacity: 0.8;
@@ -71,6 +103,7 @@ main .showData .singlePerson button {
   border: 2px solid transparent;
   transition: all 300ms ease-in-out;
   box-shadow: rgb(0 0 0 / 24%) 0px 3px 8px;
+  white-space: nowrap;
 }
 main .showData .singlePerson button:hover {
   transform: scale(1.1);
@@ -239,3 +272,32 @@ nav > a :hover{
 .fa-github{
   font-size: 1.5rem;
 }
+/* Scroll to Top Button Code Starts Here */
+html{
+  scroll-behavior: smooth;
+}
+#progress{
+  position: fixed;
+  bottom: 20px;
+  right: 25px;
+  height: 70px;
+  width: 70px;
+  display: none;
+  place-items: center;
+  border-radius: 50%;
+  box-shadow: 0 0 10px rgba(0 0 0 0.2);
+  cursor: pointer;
+  z-index: 1000;
+}
+#progress-value{
+  display: block;
+  height: calc(100% - 15px);
+  width: calc(100% - 15px);
+  background-color: white;
+  border-radius: 50%;
+  display: grid;
+  place-items: center;
+  font-size: 35px;
+  color: #001a2e;
+}
+/* Scroll to Top Button Code Ends Here */
