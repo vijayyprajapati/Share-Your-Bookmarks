@@ -126,27 +126,7 @@
       }
     ]
   },
-  {
-    "name": "Anmol Yadav",
-    "username": "ANMOLYADAV1402",
-    "bio": "Full Stack Web Developer",
-    "links": [
-      "https://www.youtube.com/watch?v=1SnPKhCdlsU&list=PLu0W_9lII9ahKZ42vg2w9ERPmShYbYAB7&index=1&t=0s",
-      "https://www.youtube.com/watch?v=oSIv-E60NiU&list=PLu0W_9lII9ahKZ42vg2w9ERPmShYbYAB7&index=1&t=0s",
-      "https://www.youtube.com/watch?v=gwWKnnCMQ5c&list=PLu0W_9lII9ahKZ42vg2w9ERPmShYbYAB7&index=1&t=0s",
-      "https://www.youtube.com/watch?v=gfDE2a7MKjA&list=PLu0W_9lII9ahKZ42vg2w9ERPmShYbYAB7&index=1&t=0s",
-      "https://www.youtube.com/watch?v=61a7UkDO50s&list=PLu0W_9lII9ahKZ42vg2w9ERPmShYbYAB7&index=1&t=0s",
-      "https://www.youtube.com/watch?v=uufDGjTuq34&list=PLu0W_9lII9ahKZ42vg2w9ERPmShYbYAB7&index=1&t=0s"
-    ],
-    "social": [
-      {
-        "github": "https://github.com/ANMOLYADAV1402"
-      },
-      {
-        "linkedin": "https://www.linkedin.com/in/anmol-yadav-15200022a/"
-      }
-    ]
-  },
+  
   {
     "name": "Shyamlee Kumari Gupta",
     "username": "Shyamlee-1207",
@@ -165,6 +145,27 @@
       },
       {
         "linkedin": "https://www.linkedin.com/in/shyamlee-gupta-15299922a/"
+      }
+    ]
+  },
+  {
+    "name": "Anmol Yadav",
+    "username": "ANMOLYADAV1402",
+    "bio": "Front-End Developer",
+    "links": [
+      "http://lianox.com/sugarmyy",
+      "https://ko-fi.com/A0A8UWP1",
+      "https://nordvpn.com/sugarmyy",
+      "https://www.klootbox.com",
+      "https://www.youtube.com/channel/UCfN0lCslFXmFXAVxE2GOunw",
+      "https://www.youtube.com/watch?v=mh79BvbQCBs&t=68s"
+    ],
+    "social": [
+      {
+        "github": "https://github.com/RaginaPhalangae"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/ragina-halangae-15267522a/"
       }
     ]
   },
