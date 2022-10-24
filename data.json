@@ -1908,6 +1908,28 @@
     ]
   },
   {
+
+    "name": "Mariana Beldi",
+    "username": "marianabeldi",
+    "bio": "Web Developer & UI/UX Designer",
+
+    "links": [
+      "https://github.com/marianabeldi",
+      "https://holasvg.com/",
+      "https://marianabeldi.medium.com/",
+      "https://www.behance.net/MarianaBeldi",
+      "https://codepen.io/marianab/"
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/marianabeldi"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/marianabeldi"
+}
+]
+},
+{
     "name": "Sayantan Paul",
     "username": "SayantanPaultbz",
     "bio": " MERN Full Stack Dev 🍁 | Graphic Designer 🌸 | Currently Learning ML and Cloud 🍕",
@@ -1925,6 +1947,7 @@
       },
       {
         "linkedin": "https://www.linkedin.com/in/imsayantanpaul"
+
       }
     ]
   }
