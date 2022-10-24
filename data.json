@@ -1959,8 +1959,29 @@
 
       }
     ]
-  }
+},
+{
 
+  "name": "Sonam",
+  "username": "SonamMalik17",
+  "bio": "Working on Full Stack Web Development",
+
+  "links": [
+    "https://youtube.com/playlist?list=PLpdFrYE1OcJWVrlTKoueww8wPcx8_ZxLD",
+    "https://youtu.be/VIcBpRpiBoc",
+    "https://www.codechef.com/submit/CHNGIT?tab=statement",
+    "https://youtube.com/playlist?list=PLpdFrYE1OcJVA_nuIATfZ5lwoxjxT5dhK",
+    "https://youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q"
+  ],
+  "social": [
+    {
+      "twitter": "none"
+    },
+    {
+      "linkedin": "https://www.linkedin.com/in/sonam-malik-312467222"
+    }
+  ]
+}
 
 ]
 
