@@ -2040,4 +2040,22 @@
       }
     ]
   }
+    {
+    "name": "Amanda Nicole",
+    "username": "amanda088",
+    "bio": "Hello, I am Amanda. I am a passionate programmer who loves competitive programming and Developing meaningful things.",
+
+    "links": [
+      "https://hacktoberfest.com/",
+      "https://cp-algorithms.com/"
+    ],
+    "social": [
+      {
+        "twitter": "None"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/amanda-nicole-51b510151"
+      }
+    ]
+  },
 ]
