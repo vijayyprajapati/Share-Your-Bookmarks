@@ -2018,5 +2018,26 @@
         "linkedin": "https://www.linkedin.com/in/sonam-malik-312467222"
       }
     ]
+  },
+  {
+    "name": "Chirag",
+    "username": "ChiragAgg5k",
+    "bio": "computer science student studying at Bennett University",
+
+    "links": [
+      "https://github.com/ChiragAgg5k",
+      "https://stackoverflow.com/users/19668235/chiragagg5k",
+      "https://www.hackerrank.com/chiragaggarwal5k",
+      "https://www.codechef.com/users/chirag_agg_5k",
+      "https://leetcode.com/ChiragAgg5k/"
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/ChiragAgg5k"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/chirag-aggarwal-066b97248/"
+      }
+    ]
   }
 ]
