@@ -2054,5 +2054,26 @@
         "linkedin": "https://www.linkedin.com/in/amanda-nicole-51b510151"
       }
     ]
+  },
+  {
+    "name": "Pratiksha Ekbote",
+    "username": "Pratikshaekbote",
+    "bio": "Hello, I am Pratiksha. I am a Graphic Designer and UI/UX Designer who loves to create and follow new graphic trends.",
+
+    "links": [
+      "https://dribbble.com/",
+      "https://www.behance.net/",
+      "https://in.pinterest.com/",
+      "https://www.freepik.com/",
+      "http://uxtimeline.com/"
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/EkbotePrat2"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/pratikshaekbote/"
+      }
+    ]
   }
 ]
