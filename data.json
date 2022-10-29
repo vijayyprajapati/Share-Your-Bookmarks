@@ -2054,5 +2054,26 @@
         "linkedin": "https://www.linkedin.com/in/amanda-nicole-51b510151"
       }
     ]
+  },
+  {
+    "name": "Yashwanth Sai ch",
+    "username": "Yasshu55",
+    "bio": "Hello, I am Yash I am a student who loves programming",
+
+    "links": [
+      "https://github.com/Yasshu55/",
+      "https://dev.to/yashwanth",
+      "https://twitter.com/Yasshu55/status/1569004000237989894",
+      "https://twitter.com/Yasshu55/status/1568646364837609472",
+      "https://twitter.com/Yasshu55/status/1568278852757241858"
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/Yasshu55"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/yasshu/"
+      }
+    ]
   }
 ]
